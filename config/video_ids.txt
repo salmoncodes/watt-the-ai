@@ -1,0 +1,56 @@
+﻿# AI environment/water/energy YouTube video IDs discovered via YouTube Data API
+# Keep one video ID per line. Comments, metadata, and transcripts use this file.
+# Generated starter list; review relevance before final dataset freeze.
+
+H_c6MWk7PQc
+t-8TDOFqkQA
+DGjj7wDYaiI
+3__HO-akNC8
+7rEzhCwPhqc
+b0C56yqIkbk
+5sFBySzNIX0
+eyklsgOClJA
+Ho7yc-gDcd0
+-lzQxbcrscc
+Tx0uoiuLAZg
+4secds0JgzE
+Js-hZPtspJc
+ym2imGxnXzM
+JRtMQdVJY7o
+J3miEPD1l2o
+ipPwt1hyvV0
+nkDyUL1A65U
+8efHyRAbC7Q
+Am3xtjZgfqM
+Vue-svajNaw
+fgrVXraE5Mg
+SkWzwoDIGmE
+cz3AYYZBiGs
+lPM6EBTCzjY
+
+# Extra relevant videos added to increase accessible comment count
+3VJT2JeDCyw
+YN6BEUA4jNU
+dhqoTku-HAA
+fqQsExCEEZc
+rUgooIHuDC8
+9_3u5CBH6Ao
+MJQIQJYxey4
+vnGC4YS36gU
+sLEnn-sgpIk
+gyYoCDc4pzQ
+SpMIs6AnUW8
+Cn88tzdV3oM
+FEDpD5hNYyk
+YGfJeH5HRDQ
+qk71RxoMads
+i3CA9osjYPo
+AN7c5S9k5L0
+kDoCXZEaF5A
+3Yh9OddmgS0
+Yyf21wz9VmY
+4LahepRe5SY
+1elHsKSRqwU
+LkHtqyEfgGw
+gg_kTRgh5Jo
+xuuo4qWhK6I
