@@ -43,7 +43,7 @@ HTML_PATTERN = r"&\w+;"
 
 def load_json(path):
     with open(path, "r", encoding="utf-8") as file:
-    return json.load(file)
+        return json.load(file)
 
 
 def save_json(path, data):
