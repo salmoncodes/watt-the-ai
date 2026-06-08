@@ -1,62 +1,48 @@
 """
-bertopic_model.py
+Lightweight topic modeling wrapper.
 
-Wrapper around the BERTopic topic modeling framework.
-
-This module is responsible for:
-- Loading and managing BERTopic model
-- Extracting topics from text data
-- Returning structured topic assignments
-
-Used by:
-    topic_modeling.py
+This uses TF-IDF + MiniBatchKMeans as a runnable fallback for the project
+feature-extraction layer. It produces topic IDs without requiring BERTopic
+transformer downloads.
 """
 
-from bertopic import BERTopic
-
-model = BERTopic()
-
-
-def fit_model(texts):
-    topics, probs = model.fit_transform(texts)
-    return topics, probs
-
-
-def transform_texts(texts):
-    topics, probs = model.transform(texts)
-    return topics, probs
-
-
-def get_topic_info():
-    info = model.get_topic_info()
-    return info.to_dict(orient="records")
-
-
-def get_topic_words(topic_id, top_n=10):
-    words = model.get_topic(topic_id)
-    if not words:
-        return []
-    return [
-        {"word": w, "score": float(s)}
-        for w, s in words[:top_n]
-    ]
+from sklearn.cluster import MiniBatchKMeans
+from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS, TfidfVectorizer
 
 
 def analyze_batch(texts):
-    topics, probs = transform_texts(texts)
-    results = []
-    for i in range(len(texts)):
-        results.append({
+    cleaned = [(text or "").strip() for text in texts]
+    if not cleaned:
+        return []
+
+    non_empty_count = sum(1 for text in cleaned if text)
+    if non_empty_count == 0:
+        return [{"text_id": i, "topic": -1, "probability": 0.0} for i in range(len(cleaned))]
+
+    vectorizer = TfidfVectorizer(
+        stop_words=list(ENGLISH_STOP_WORDS),
+        max_features=5000,
+        min_df=1,
+        ngram_range=(1, 2),
+    )
+    matrix = vectorizer.fit_transform(cleaned)
+
+    if matrix.shape[0] < 2:
+        labels = [0] * matrix.shape[0]
+    else:
+        n_clusters = min(8, max(2, matrix.shape[0] // 3))
+        model = MiniBatchKMeans(n_clusters=n_clusters, random_state=42, n_init=10)
+        labels = model.fit_predict(matrix)
+
+    return [
+        {
             "text_id": i,
-            "topic": int(topics[i]) if topics[i] is not None else -1,
-            "probability": float(probs[i]) if probs is not None else 0.0
-        })
-    return results
+            "topic": int(labels[i]),
+            "probability": 1.0,
+        }
+        for i in range(len(cleaned))
+    ]
 
 
 def analyze_text(text):
-    topic, prob = transform_texts([text])
-    return {
-        "topic": int(topic[0]) if topic[0] is not None else -1,
-        "probability": float(prob[0]) if prob is not None else 0.0
-    }
+    return analyze_batch([text])[0]

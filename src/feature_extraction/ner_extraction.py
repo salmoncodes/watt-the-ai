@@ -5,11 +5,11 @@ Performs Named Entity Recognition (NER) on
 cleaned YouTube comments and transcripts.
 
 Input:
-    data/processed/clean_comments.json
-    data/processed/clean_transcripts.json
+    data/preprocessing/clean_comments.json
+    data/preprocessing/clean_transcripts.json
 
 Output:
-    feature_extraction/output/ner_results.json
+    data/feature_extraction/ner_results.json
 """
 
 from pathlib import Path
@@ -18,8 +18,8 @@ from utils.save_data import save_json
 from models.spacy_model import analyze_text
 
 
-PROCESSED_DATA_DIR = Path("data/processed")
-OUTPUT_DIR = Path("feature_extraction/output")
+PROCESSED_DATA_DIR = Path("data/preprocessing")
+OUTPUT_DIR = Path("data/feature_extraction")
 COMMENTS_FILE = PROCESSED_DATA_DIR / "clean_comments.json"
 TRANSCRIPTS_FILE = PROCESSED_DATA_DIR / "clean_transcripts.json"
 OUTPUT_FILE = OUTPUT_DIR / "ner_results.json"

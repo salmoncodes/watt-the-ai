@@ -17,7 +17,7 @@ from text_utils import *
 
 
 RAW_DATA_DIR = Path("data/raw")
-PROCESSED_DATA_DIR = Path("data/processed")
+PROCESSED_DATA_DIR = Path("data/preprocessing")
 
 INPUT_FILE = RAW_DATA_DIR / "youtube_videos.json"
 OUTPUT_FILE = PROCESSED_DATA_DIR / "clean_videos.json"

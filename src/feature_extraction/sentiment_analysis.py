@@ -4,10 +4,10 @@ sentiment_analysis.py
 Performs sentiment analysis on cleaned YouTube comments.
 
 Input:
-    data/processed/clean_comments.json
+    data/preprocessing/clean_comments.json
 
 Output:
-    feature_extraction/output/sentiment_results.json
+    data/feature_extraction/sentiment_results.json
 """
 
 from pathlib import Path
@@ -17,8 +17,8 @@ from utils.save_data import save_json
 from models.vader_model import analyze_sentiment
 
 
-PROCESSED_DATA_DIR = Path("data/processed")
-OUTPUT_DIR = Path("feature_extraction/output")
+PROCESSED_DATA_DIR = Path("data/preprocessing")
+OUTPUT_DIR = Path("data/feature_extraction")
 
 INPUT_FILE = PROCESSED_DATA_DIR / "clean_comments.json"
 OUTPUT_FILE = OUTPUT_DIR / "sentiment_results.json"

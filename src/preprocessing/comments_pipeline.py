@@ -14,7 +14,7 @@ Input:
     data/raw/youtube_comments.json
 
 Output:
-    data/processed/clean_comments.json
+    data/preprocessing/clean_comments.json
 """
 
 from pathlib import Path
@@ -22,7 +22,7 @@ from text_utils import *
 
 
 RAW_DATA_DIR = Path("data/raw")
-PROCESSED_DATA_DIR = Path("data/processed")
+PROCESSED_DATA_DIR = Path("data/preprocessing")
 
 INPUT_FILE = RAW_DATA_DIR / "youtube_comments.json"
 OUTPUT_FILE = PROCESSED_DATA_DIR / "clean_comments.json"

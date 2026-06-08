@@ -4,12 +4,12 @@ keyword_extraction.py
 Performs keyword extraction using KeyBERT.
 
 Input:
-    data/processed/clean_videos.json
-    data/processed/clean_transcripts.json
-    data/processed/clean_comments.json
+    data/preprocessing/clean_videos.json
+    data/preprocessing/clean_transcripts.json
+    data/preprocessing/clean_comments.json
 
 Output:
-    feature_extraction/output/keyword_results.json
+    data/feature_extraction/keyword_results.json
 """
 
 from pathlib import Path
@@ -19,8 +19,8 @@ from utils.text_merger import build_document_map
 from models.keybert_model import analyze_text
 
 
-PROCESSED_DATA_DIR = Path("data/processed")
-OUTPUT_DIR = Path("feature_extraction/output")
+PROCESSED_DATA_DIR = Path("data/preprocessing")
+OUTPUT_DIR = Path("data/feature_extraction")
 VIDEOS_FILE = PROCESSED_DATA_DIR / "clean_videos.json"
 TRANSCRIPTS_FILE = PROCESSED_DATA_DIR / "clean_transcripts.json"
 COMMENTS_FILE = PROCESSED_DATA_DIR / "clean_comments.json"

@@ -1,0 +1,2332 @@
+[
+  {
+    "video_id": "H_c6MWk7PQc",
+    "text_length": 1432054,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.6349111835695787
+      },
+      {
+        "keyword": "just",
+        "score": 0.2419366528695258
+      },
+      {
+        "keyword": "people",
+        "score": 0.21965560822873
+      },
+      {
+        "keyword": "like",
+        "score": 0.21255722232546764
+      },
+      {
+        "keyword": "use",
+        "score": 0.21019109369104685
+      },
+      {
+        "keyword": "data",
+        "score": 0.19619149927072385
+      },
+      {
+        "keyword": "don",
+        "score": 0.15636166725797387
+      },
+      {
+        "keyword": "corn",
+        "score": 0.1291511879621348
+      },
+      {
+        "keyword": "centers",
+        "score": 0.11495441615561006
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.10548990161792689
+      }
+    ]
+  },
+  {
+    "video_id": "t-8TDOFqkQA",
+    "text_length": 635257,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "data",
+        "score": 0.48498816528046007
+      },
+      {
+        "keyword": "centers",
+        "score": 0.3141551884890812
+      },
+      {
+        "keyword": "water",
+        "score": 0.29418769769528363
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.28442581330720484
+      },
+      {
+        "keyword": "people",
+        "score": 0.26401460049576736
+      },
+      {
+        "keyword": "just",
+        "score": 0.194350243726296
+      },
+      {
+        "keyword": "like",
+        "score": 0.1748264749501384
+      },
+      {
+        "keyword": "don",
+        "score": 0.15175293003286125
+      },
+      {
+        "keyword": "need",
+        "score": 0.13311660529198355
+      },
+      {
+        "keyword": "power",
+        "score": 0.12956682915086398
+      }
+    ]
+  },
+  {
+    "video_id": "DGjj7wDYaiI",
+    "text_length": 603155,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "people",
+        "score": 0.40922711315796023
+      },
+      {
+        "keyword": "data",
+        "score": 0.353493786271378
+      },
+      {
+        "keyword": "centers",
+        "score": 0.23067404739168754
+      },
+      {
+        "keyword": "just",
+        "score": 0.21570861702399416
+      },
+      {
+        "keyword": "don",
+        "score": 0.20899997582468335
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.20332343327142036
+      },
+      {
+        "keyword": "water",
+        "score": 0.19816294004118123
+      },
+      {
+        "keyword": "like",
+        "score": 0.1899061508727987
+      },
+      {
+        "keyword": "need",
+        "score": 0.13468887330924037
+      },
+      {
+        "keyword": "money",
+        "score": 0.13365677466319256
+      }
+    ]
+  },
+  {
+    "video_id": "3__HO-akNC8",
+    "text_length": 460593,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "power",
+        "score": 0.5137622860914376
+      },
+      {
+        "keyword": "data",
+        "score": 0.2596359006118927
+      },
+      {
+        "keyword": "just",
+        "score": 0.23828652947404477
+      },
+      {
+        "keyword": "grid",
+        "score": 0.21831453711928378
+      },
+      {
+        "keyword": "like",
+        "score": 0.21555977955310987
+      },
+      {
+        "keyword": "energy",
+        "score": 0.1763044842351314
+      },
+      {
+        "keyword": "centers",
+        "score": 0.1639080751873487
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.14806821918184862
+      },
+      {
+        "keyword": "people",
+        "score": 0.13911525709178335
+      },
+      {
+        "keyword": "don",
+        "score": 0.1267188480440007
+      }
+    ]
+  },
+  {
+    "video_id": "7rEzhCwPhqc",
+    "text_length": 320073,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "data",
+        "score": 0.43241827665146887
+      },
+      {
+        "keyword": "water",
+        "score": 0.31096214715374554
+      },
+      {
+        "keyword": "centers",
+        "score": 0.3083779741857089
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.27047677065450443
+      },
+      {
+        "keyword": "people",
+        "score": 0.22999139415526332
+      },
+      {
+        "keyword": "just",
+        "score": 0.21620913832573443
+      },
+      {
+        "keyword": "don",
+        "score": 0.1843376717199489
+      },
+      {
+        "keyword": "like",
+        "score": 0.16366428797565555
+      },
+      {
+        "keyword": "use",
+        "score": 0.15763455105023666
+      },
+      {
+        "keyword": "need",
+        "score": 0.15246620511416334
+      }
+    ]
+  },
+  {
+    "video_id": "b0C56yqIkbk",
+    "text_length": 199481,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.8338115117815853
+      },
+      {
+        "keyword": "use",
+        "score": 0.2167063421483105
+      },
+      {
+        "keyword": "just",
+        "score": 0.1701483389523844
+      },
+      {
+        "keyword": "data",
+        "score": 0.12443684490547517
+      },
+      {
+        "keyword": "people",
+        "score": 0.12443684490547517
+      },
+      {
+        "keyword": "like",
+        "score": 0.10750666192513841
+      },
+      {
+        "keyword": "don",
+        "score": 0.10158109788202055
+      },
+      {
+        "keyword": "need",
+        "score": 0.10158109788202055
+      },
+      {
+        "keyword": "cooling",
+        "score": 0.09988807958398688
+      },
+      {
+        "keyword": "used",
+        "score": 0.07533931426249857
+      }
+    ]
+  },
+  {
+    "video_id": "5sFBySzNIX0",
+    "text_length": 448568,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "use",
+        "score": 0.30261494408251804
+      },
+      {
+        "keyword": "just",
+        "score": 0.29369263614888114
+      },
+      {
+        "keyword": "people",
+        "score": 0.26543866102569763
+      },
+      {
+        "keyword": "like",
+        "score": 0.2513116734641059
+      },
+      {
+        "keyword": "energy",
+        "score": 0.21041776210160346
+      },
+      {
+        "keyword": "don",
+        "score": 0.20149545416796655
+      },
+      {
+        "keyword": "using",
+        "score": 0.17918968433387433
+      },
+      {
+        "keyword": "data",
+        "score": 0.15390981185523644
+      },
+      {
+        "keyword": "make",
+        "score": 0.15390981185523644
+      },
+      {
+        "keyword": "think",
+        "score": 0.1397828242936447
+      }
+    ]
+  },
+  {
+    "video_id": "eyklsgOClJA",
+    "text_length": 241254,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "data",
+        "score": 0.37153539673489744
+      },
+      {
+        "keyword": "water",
+        "score": 0.3505050912593372
+      },
+      {
+        "keyword": "heat",
+        "score": 0.2884156179505403
+      },
+      {
+        "keyword": "use",
+        "score": 0.2543665519424904
+      },
+      {
+        "keyword": "centers",
+        "score": 0.23934490517423312
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.22632614464174347
+      },
+      {
+        "keyword": "like",
+        "score": 0.19528140798734503
+      },
+      {
+        "keyword": "just",
+        "score": 0.19127563551580973
+      },
+      {
+        "keyword": "energy",
+        "score": 0.15922945574352748
+      },
+      {
+        "keyword": "space",
+        "score": 0.156225126389876
+      }
+    ]
+  },
+  {
+    "video_id": "Ho7yc-gDcd0",
+    "text_length": 189855,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.6128957393294499
+      },
+      {
+        "keyword": "data",
+        "score": 0.5085544045938211
+      },
+      {
+        "keyword": "india",
+        "score": 0.16571859046246928
+      },
+      {
+        "keyword": "centers",
+        "score": 0.1604576828287401
+      },
+      {
+        "keyword": "face_with_tears_of_joy",
+        "score": 0.15431995725605605
+      },
+      {
+        "keyword": "use",
+        "score": 0.15081268550023658
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.14905904962232686
+      },
+      {
+        "keyword": "centres",
+        "score": 0.11573996794204203
+      },
+      {
+        "keyword": "like",
+        "score": 0.1139863320641323
+      },
+      {
+        "keyword": "data centres",
+        "score": 0.10872542443040312
+      }
+    ]
+  },
+  {
+    "video_id": "-lzQxbcrscc",
+    "text_length": 160937,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.7966036733274501
+      },
+      {
+        "keyword": "use",
+        "score": 0.18911413464935486
+      },
+      {
+        "keyword": "data",
+        "score": 0.18700112755830062
+      },
+      {
+        "keyword": "just",
+        "score": 0.17643609210302938
+      },
+      {
+        "keyword": "like",
+        "score": 0.14896699991932422
+      },
+      {
+        "keyword": "centers",
+        "score": 0.12149790773561904
+      },
+      {
+        "keyword": "cooling",
+        "score": 0.12149790773561904
+      },
+      {
+        "keyword": "energy",
+        "score": 0.11832839709903768
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.11410238291692919
+      },
+      {
+        "keyword": "used",
+        "score": 0.10459385100718509
+      }
+    ]
+  },
+  {
+    "video_id": "Tx0uoiuLAZg",
+    "text_length": 75498,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "data",
+        "score": 0.3317970376944307
+      },
+      {
+        "keyword": "power",
+        "score": 0.27706762941493696
+      },
+      {
+        "keyword": "water",
+        "score": 0.27706762941493696
+      },
+      {
+        "keyword": "people",
+        "score": 0.2531235132926585
+      },
+      {
+        "keyword": "energy",
+        "score": 0.23602057320531666
+      },
+      {
+        "keyword": "centers",
+        "score": 0.2257588091529116
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.19839410501316473
+      },
+      {
+        "keyword": "use",
+        "score": 0.19497351699569637
+      },
+      {
+        "keyword": "like",
+        "score": 0.1847117529432913
+      },
+      {
+        "keyword": "just",
+        "score": 0.15050587276860775
+      }
+    ]
+  },
+  {
+    "video_id": "4secds0JgzE",
+    "text_length": 18497,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.5442999448759839
+      },
+      {
+        "keyword": "red_heart",
+        "score": 0.35530690846071167
+      },
+      {
+        "keyword": "red_heart red_heart",
+        "score": 0.27214997243799194
+      },
+      {
+        "keyword": "face_with_tears_of_joy",
+        "score": 0.24947080806815927
+      },
+      {
+        "keyword": "hai",
+        "score": 0.18899303641527218
+      },
+      {
+        "keyword": "chatgpt",
+        "score": 0.16631387204543951
+      },
+      {
+        "keyword": "rolling_on_the_floor_laughing",
+        "score": 0.15119442913221773
+      },
+      {
+        "keyword": "data",
+        "score": 0.13607498621899597
+      },
+      {
+        "keyword": "face_with_tears_of_joy face_with_tears_of_joy",
+        "score": 0.13607498621899597
+      },
+      {
+        "keyword": "grinning_face_with_sweat",
+        "score": 0.13607498621899597
+      }
+    ]
+  },
+  {
+    "video_id": "Js-hZPtspJc",
+    "text_length": 29667,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "data",
+        "score": 0.36878545434874177
+      },
+      {
+        "keyword": "water",
+        "score": 0.2922450770310784
+      },
+      {
+        "keyword": "energy",
+        "score": 0.27832864479150327
+      },
+      {
+        "keyword": "just",
+        "score": 0.24353756419256534
+      },
+      {
+        "keyword": "use",
+        "score": 0.24353756419256534
+      },
+      {
+        "keyword": "centers",
+        "score": 0.20874648359362744
+      },
+      {
+        "keyword": "power",
+        "score": 0.20874648359362744
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.1809136191144771
+      },
+      {
+        "keyword": "like",
+        "score": 0.17395540299468953
+      },
+      {
+        "keyword": "electricity",
+        "score": 0.16003897075511436
+      }
+    ]
+  },
+  {
+    "video_id": "ym2imGxnXzM",
+    "text_length": 32755,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.8136703614674355
+      },
+      {
+        "keyword": "data",
+        "score": 0.2075689697621009
+      },
+      {
+        "keyword": "just",
+        "score": 0.15775241701919668
+      },
+      {
+        "keyword": "use",
+        "score": 0.15360103762395466
+      },
+      {
+        "keyword": "centers",
+        "score": 0.14944965822871265
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.1369955200429866
+      },
+      {
+        "keyword": "people",
+        "score": 0.1162386230667765
+      },
+      {
+        "keyword": "like",
+        "score": 0.10378448488105045
+      },
+      {
+        "keyword": "used",
+        "score": 0.08717896730008237
+      },
+      {
+        "keyword": "uses",
+        "score": 0.07887620850959834
+      }
+    ]
+  },
+  {
+    "video_id": "JRtMQdVJY7o",
+    "text_length": 56971,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.43943596775213256
+      },
+      {
+        "keyword": "data",
+        "score": 0.4199918983825692
+      },
+      {
+        "keyword": "centers",
+        "score": 0.2372176463086733
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.23332883243476066
+      },
+      {
+        "keyword": "center",
+        "score": 0.1594413688304198
+      },
+      {
+        "keyword": "just",
+        "score": 0.1594413688304198
+      },
+      {
+        "keyword": "data center",
+        "score": 0.15166374108259442
+      },
+      {
+        "keyword": "jobs",
+        "score": 0.15166374108259442
+      },
+      {
+        "keyword": "like",
+        "score": 0.14388611333476906
+      },
+      {
+        "keyword": "power",
+        "score": 0.14388611333476906
+      }
+    ]
+  },
+  {
+    "video_id": "J3miEPD1l2o",
+    "text_length": 23970,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.7056261807850569
+      },
+      {
+        "keyword": "data",
+        "score": 0.34627951464451867
+      },
+      {
+        "keyword": "centers",
+        "score": 0.22867515118034254
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.22214157543233273
+      },
+      {
+        "keyword": "use",
+        "score": 0.1568058179522349
+      },
+      {
+        "keyword": "people",
+        "score": 0.12413793921218594
+      },
+      {
+        "keyword": "just",
+        "score": 0.11760436346417616
+      },
+      {
+        "keyword": "center",
+        "score": 0.07840290897611744
+      },
+      {
+        "keyword": "data center",
+        "score": 0.07840290897611744
+      },
+      {
+        "keyword": "like",
+        "score": 0.07840290897611744
+      }
+    ]
+  },
+  {
+    "video_id": "ipPwt1hyvV0",
+    "text_length": 33070,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.7652485303378903
+      },
+      {
+        "keyword": "data",
+        "score": 0.2354610862578124
+      },
+      {
+        "keyword": "centers",
+        "score": 0.1864066932874348
+      },
+      {
+        "keyword": "music",
+        "score": 0.1864066932874348
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.16678493609928377
+      },
+      {
+        "keyword": "just",
+        "score": 0.15697405750520826
+      },
+      {
+        "keyword": "cooling",
+        "score": 0.1177305431289062
+      },
+      {
+        "keyword": "use",
+        "score": 0.1177305431289062
+      },
+      {
+        "keyword": "like",
+        "score": 0.0932033466437174
+      },
+      {
+        "keyword": "need",
+        "score": 0.08829790734667965
+      }
+    ]
+  },
+  {
+    "video_id": "nkDyUL1A65U",
+    "text_length": 26314,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "ocean",
+        "score": 0.38376128944009874
+      },
+      {
+        "keyword": "data",
+        "score": 0.3581772034774255
+      },
+      {
+        "keyword": "centers",
+        "score": 0.27289691693518137
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.26436888828095695
+      },
+      {
+        "keyword": "energy",
+        "score": 0.21320071635561041
+      },
+      {
+        "keyword": "water",
+        "score": 0.18761663039293716
+      },
+      {
+        "keyword": "power",
+        "score": 0.16203254443026394
+      },
+      {
+        "keyword": "use",
+        "score": 0.12792042981336627
+      },
+      {
+        "keyword": "like",
+        "score": 0.11939240115914183
+      },
+      {
+        "keyword": "sea",
+        "score": 0.11939240115914183
+      }
+    ]
+  },
+  {
+    "video_id": "8efHyRAbC7Q",
+    "text_length": 25155,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.6082437622436422
+      },
+      {
+        "keyword": "data",
+        "score": 0.26513189636261325
+      },
+      {
+        "keyword": "use",
+        "score": 0.19494992379603915
+      },
+      {
+        "keyword": "like",
+        "score": 0.17935392989235602
+      },
+      {
+        "keyword": "centers",
+        "score": 0.1637579359886729
+      },
+      {
+        "keyword": "just",
+        "score": 0.1637579359886729
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.15595993903683134
+      },
+      {
+        "keyword": "face_with_tears_of_joy",
+        "score": 0.10917195732578193
+      },
+      {
+        "keyword": "know",
+        "score": 0.10917195732578193
+      },
+      {
+        "keyword": "people",
+        "score": 0.10917195732578193
+      }
+    ]
+  },
+  {
+    "video_id": "Am3xtjZgfqM",
+    "text_length": 13324,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.8248832035181985
+      },
+      {
+        "keyword": "just",
+        "score": 0.16872610981054062
+      },
+      {
+        "keyword": "don",
+        "score": 0.1312314187415316
+      },
+      {
+        "keyword": "people",
+        "score": 0.1312314187415316
+      },
+      {
+        "keyword": "face_with_tears_of_joy",
+        "score": 0.12185774597427933
+      },
+      {
+        "keyword": "use",
+        "score": 0.12185774597427933
+      },
+      {
+        "keyword": "like",
+        "score": 0.09373672767252256
+      },
+      {
+        "keyword": "uses",
+        "score": 0.09373672767252256
+      },
+      {
+        "keyword": "nuclear",
+        "score": 0.08436305490527031
+      },
+      {
+        "keyword": "drinking",
+        "score": 0.07498938213801805
+      }
+    ]
+  },
+  {
+    "video_id": "Vue-svajNaw",
+    "text_length": 20143,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.7335865572754586
+      },
+      {
+        "keyword": "data",
+        "score": 0.2662209280435132
+      },
+      {
+        "keyword": "centers",
+        "score": 0.22480878368118892
+      },
+      {
+        "keyword": "use",
+        "score": 0.22480878368118892
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.20706072181162138
+      },
+      {
+        "keyword": "cooling",
+        "score": 0.1419844949565404
+      },
+      {
+        "keyword": "like",
+        "score": 0.130152453710162
+      },
+      {
+        "keyword": "day",
+        "score": 0.09465632997102692
+      },
+      {
+        "keyword": "gallons",
+        "score": 0.09465632997102692
+      },
+      {
+        "keyword": "just",
+        "score": 0.08282428872464856
+      }
+    ]
+  },
+  {
+    "video_id": "fgrVXraE5Mg",
+    "text_length": 18744,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "use",
+        "score": 0.31703333221881214
+      },
+      {
+        "keyword": "water",
+        "score": 0.31703333221881214
+      },
+      {
+        "keyword": "data",
+        "score": 0.28180740641672186
+      },
+      {
+        "keyword": "using",
+        "score": 0.2700654311493585
+      },
+      {
+        "keyword": "search",
+        "score": 0.17612962901045118
+      },
+      {
+        "keyword": "centers",
+        "score": 0.16438765374308775
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.16438765374308775
+      },
+      {
+        "keyword": "electricity",
+        "score": 0.16438765374308775
+      },
+      {
+        "keyword": "environment",
+        "score": 0.16438765374308775
+      },
+      {
+        "keyword": "google",
+        "score": 0.16438765374308775
+      }
+    ]
+  },
+  {
+    "video_id": "SkWzwoDIGmE",
+    "text_length": 12316,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "data",
+        "score": 0.23497078032307292
+      },
+      {
+        "keyword": "energy",
+        "score": 0.23497078032307292
+      },
+      {
+        "keyword": "power",
+        "score": 0.23497078032307292
+      },
+      {
+        "keyword": "water",
+        "score": 0.21818715315713916
+      },
+      {
+        "keyword": "cbs",
+        "score": 0.18461989882527158
+      },
+      {
+        "keyword": "centers",
+        "score": 0.15105264449340403
+      },
+      {
+        "keyword": "like",
+        "score": 0.15105264449340403
+      },
+      {
+        "keyword": "climate",
+        "score": 0.13426901732747024
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.13426901732747024
+      },
+      {
+        "keyword": "electricity",
+        "score": 0.13426901732747024
+      }
+    ]
+  },
+  {
+    "video_id": "cz3AYYZBiGs",
+    "text_length": 11720,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "data",
+        "score": 0.54154016421399
+      },
+      {
+        "keyword": "electricity",
+        "score": 0.38509522788550404
+      },
+      {
+        "keyword": "energy",
+        "score": 0.264752969171284
+      },
+      {
+        "keyword": "centres",
+        "score": 0.24068451742844002
+      },
+      {
+        "keyword": "data centres",
+        "score": 0.24068451742844002
+      },
+      {
+        "keyword": "nuclear",
+        "score": 0.15644493632848602
+      },
+      {
+        "keyword": "power",
+        "score": 0.14441071045706402
+      },
+      {
+        "keyword": "centre",
+        "score": 0.12034225871422001
+      },
+      {
+        "keyword": "consumption",
+        "score": 0.12034225871422001
+      },
+      {
+        "keyword": "use",
+        "score": 0.12034225871422001
+      }
+    ]
+  },
+  {
+    "video_id": "lPM6EBTCzjY",
+    "text_length": 8446,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "data",
+        "score": 0.48535989707831934
+      },
+      {
+        "keyword": "centers",
+        "score": 0.23431167445160245
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.21757512627648798
+      },
+      {
+        "keyword": "electricity",
+        "score": 0.20083857810137354
+      },
+      {
+        "keyword": "center",
+        "score": 0.18410202992625907
+      },
+      {
+        "keyword": "data center",
+        "score": 0.18410202992625907
+      },
+      {
+        "keyword": "water",
+        "score": 0.11715583722580122
+      },
+      {
+        "keyword": "energy",
+        "score": 0.10041928905068677
+      },
+      {
+        "keyword": "google",
+        "score": 0.10041928905068677
+      },
+      {
+        "keyword": "power",
+        "score": 0.10041928905068677
+      }
+    ]
+  },
+  {
+    "video_id": "3VJT2JeDCyw",
+    "text_length": 980327,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "people",
+        "score": 0.4413603247223637
+      },
+      {
+        "keyword": "just",
+        "score": 0.24528117137749858
+      },
+      {
+        "keyword": "like",
+        "score": 0.2274226611286168
+      },
+      {
+        "keyword": "elon",
+        "score": 0.20081712545171132
+      },
+      {
+        "keyword": "don",
+        "score": 0.19753699091620242
+      },
+      {
+        "keyword": "musk",
+        "score": 0.16838023948945666
+      },
+      {
+        "keyword": "mars",
+        "score": 0.14432591956239144
+      },
+      {
+        "keyword": "face_with_tears_of_joy",
+        "score": 0.14323254138388847
+      },
+      {
+        "keyword": "money",
+        "score": 0.13557889413436772
+      },
+      {
+        "keyword": "know",
+        "score": 0.13011200324185287
+      }
+    ]
+  },
+  {
+    "video_id": "YN6BEUA4jNU",
+    "text_length": 539514,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "data",
+        "score": 0.3397213348188491
+      },
+      {
+        "keyword": "people",
+        "score": 0.3068630417789932
+      },
+      {
+        "keyword": "pay",
+        "score": 0.2645371049818907
+      },
+      {
+        "keyword": "centers",
+        "score": 0.24671565790942648
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.22722345017391876
+      },
+      {
+        "keyword": "power",
+        "score": 0.19547899757609186
+      },
+      {
+        "keyword": "just",
+        "score": 0.17877139094565667
+      },
+      {
+        "keyword": "don",
+        "score": 0.16986066740942454
+      },
+      {
+        "keyword": "water",
+        "score": 0.164848385420294
+      },
+      {
+        "keyword": "need",
+        "score": 0.16262070453623598
+      }
+    ]
+  },
+  {
+    "video_id": "dhqoTku-HAA",
+    "text_length": 294786,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "just",
+        "score": 0.3082240782274791
+      },
+      {
+        "keyword": "like",
+        "score": 0.27538052890815756
+      },
+      {
+        "keyword": "people",
+        "score": 0.2602219676838553
+      },
+      {
+        "keyword": "power",
+        "score": 0.25137947363634566
+      },
+      {
+        "keyword": "data",
+        "score": 0.24253697958883602
+      },
+      {
+        "keyword": "don",
+        "score": 0.16169131972589068
+      },
+      {
+        "keyword": "energy",
+        "score": 0.15790167941981512
+      },
+      {
+        "keyword": "world",
+        "score": 0.15411203911373955
+      },
+      {
+        "keyword": "human",
+        "score": 0.14905918537230547
+      },
+      {
+        "keyword": "think",
+        "score": 0.1440063316308714
+      }
+    ]
+  },
+  {
+    "video_id": "fqQsExCEEZc",
+    "text_length": 585,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "news",
+        "score": 0.4170288281141495
+      },
+      {
+        "keyword": "abc",
+        "score": 0.34752402342845795
+      },
+      {
+        "keyword": "abc news",
+        "score": 0.34752402342845795
+      },
+      {
+        "keyword": "bills",
+        "score": 0.13900960937138318
+      },
+      {
+        "keyword": "centers",
+        "score": 0.13900960937138318
+      },
+      {
+        "keyword": "data",
+        "score": 0.13900960937138318
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.13900960937138318
+      },
+      {
+        "keyword": "impact",
+        "score": 0.13900960937138318
+      },
+      {
+        "keyword": "impact data",
+        "score": 0.13900960937138318
+      },
+      {
+        "keyword": "residents",
+        "score": 0.13900960937138318
+      }
+    ]
+  },
+  {
+    "video_id": "rUgooIHuDC8",
+    "text_length": 1141,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "centers",
+        "score": 0.38245085529570716
+      },
+      {
+        "keyword": "data",
+        "score": 0.38245085529570716
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.38245085529570716
+      },
+      {
+        "keyword": "use",
+        "score": 0.21854334588326124
+      },
+      {
+        "keyword": "electricity",
+        "score": 0.16390750941244592
+      },
+      {
+        "keyword": "activists",
+        "score": 0.10927167294163062
+      },
+      {
+        "keyword": "costs",
+        "score": 0.10927167294163062
+      },
+      {
+        "keyword": "lambermont",
+        "score": 0.10927167294163062
+      },
+      {
+        "keyword": "people",
+        "score": 0.10927167294163062
+      },
+      {
+        "keyword": "virginia",
+        "score": 0.10927167294163062
+      }
+    ]
+  },
+  {
+    "video_id": "9_3u5CBH6Ao",
+    "text_length": 2130,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "data",
+        "score": 0.26699649569399087
+      },
+      {
+        "keyword": "tech",
+        "score": 0.22249707974499242
+      },
+      {
+        "keyword": "centers",
+        "score": 0.1779976637959939
+      },
+      {
+        "keyword": "costs",
+        "score": 0.1779976637959939
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.1779976637959939
+      },
+      {
+        "keyword": "crisis",
+        "score": 0.13349824784699543
+      },
+      {
+        "keyword": "environmental",
+        "score": 0.13349824784699543
+      },
+      {
+        "keyword": "team",
+        "score": 0.13349824784699543
+      },
+      {
+        "keyword": "water",
+        "score": 0.13349824784699543
+      },
+      {
+        "keyword": "center",
+        "score": 0.08899883189799696
+      }
+    ]
+  },
+  {
+    "video_id": "MJQIQJYxey4",
+    "text_length": 2124,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "cnbc",
+        "score": 0.4724930367201291
+      },
+      {
+        "keyword": "follow",
+        "score": 0.2180737092554442
+      },
+      {
+        "keyword": "follow cnbc",
+        "score": 0.2180737092554442
+      },
+      {
+        "keyword": "power",
+        "score": 0.2180737092554442
+      },
+      {
+        "keyword": "grid",
+        "score": 0.1817280910462035
+      },
+      {
+        "keyword": "news",
+        "score": 0.1817280910462035
+      },
+      {
+        "keyword": "cnbc news",
+        "score": 0.1453824728369628
+      },
+      {
+        "keyword": "generative",
+        "score": 0.1090368546277221
+      },
+      {
+        "keyword": "additional",
+        "score": 0.0726912364184814
+      },
+      {
+        "keyword": "data",
+        "score": 0.0726912364184814
+      }
+    ]
+  },
+  {
+    "video_id": "vnGC4YS36gU",
+    "text_length": 2173,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "cnbc",
+        "score": 0.5106059381773481
+      },
+      {
+        "keyword": "follow",
+        "score": 0.20424237527093925
+      },
+      {
+        "keyword": "follow cnbc",
+        "score": 0.20424237527093925
+      },
+      {
+        "keyword": "amazon",
+        "score": 0.17020197939244938
+      },
+      {
+        "keyword": "news",
+        "score": 0.17020197939244938
+      },
+      {
+        "keyword": "additional",
+        "score": 0.13616158351395952
+      },
+      {
+        "keyword": "anthropic",
+        "score": 0.13616158351395952
+      },
+      {
+        "keyword": "chips",
+        "score": 0.13616158351395952
+      },
+      {
+        "keyword": "cnbc news",
+        "score": 0.13616158351395952
+      },
+      {
+        "keyword": "aws",
+        "score": 0.10212118763546962
+      }
+    ]
+  },
+  {
+    "video_id": "sLEnn-sgpIk",
+    "text_length": 1656,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "construction",
+        "score": 0.3576832912153172
+      },
+      {
+        "keyword": "follow",
+        "score": 0.3065856781845576
+      },
+      {
+        "keyword": "b1m",
+        "score": 0.2043904521230384
+      },
+      {
+        "keyword": "content",
+        "score": 0.1532928390922788
+      },
+      {
+        "keyword": "data",
+        "score": 0.1532928390922788
+      },
+      {
+        "keyword": "centres",
+        "score": 0.1021952260615192
+      },
+      {
+        "keyword": "construction talking",
+        "score": 0.1021952260615192
+      },
+      {
+        "keyword": "data centres",
+        "score": 0.1021952260615192
+      },
+      {
+        "keyword": "ies",
+        "score": 0.1021952260615192
+      },
+      {
+        "keyword": "instagram",
+        "score": 0.1021952260615192
+      }
+    ]
+  },
+  {
+    "video_id": "gyYoCDc4pzQ",
+    "text_length": 181,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.5121475197315839
+      },
+      {
+        "keyword": "carterpcs",
+        "score": 0.25607375986579195
+      },
+      {
+        "keyword": "carterpcs tech",
+        "score": 0.25607375986579195
+      },
+      {
+        "keyword": "destroy",
+        "score": 0.25607375986579195
+      },
+      {
+        "keyword": "destroy water",
+        "score": 0.25607375986579195
+      },
+      {
+        "keyword": "tech",
+        "score": 0.25607375986579195
+      },
+      {
+        "keyword": "tech techtok",
+        "score": 0.25607375986579195
+      },
+      {
+        "keyword": "techtok",
+        "score": 0.25607375986579195
+      },
+      {
+        "keyword": "waste",
+        "score": 0.25607375986579195
+      },
+      {
+        "keyword": "waste water",
+        "score": 0.25607375986579195
+      }
+    ]
+  },
+  {
+    "video_id": "SpMIs6AnUW8",
+    "text_length": 1635,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "data",
+        "score": 0.377543342546407
+      },
+      {
+        "keyword": "center",
+        "score": 0.28315750690980523
+      },
+      {
+        "keyword": "data center",
+        "score": 0.28315750690980523
+      },
+      {
+        "keyword": "bloomberg",
+        "score": 0.1887716712732035
+      },
+      {
+        "keyword": "business",
+        "score": 0.14157875345490262
+      },
+      {
+        "keyword": "demand",
+        "score": 0.14157875345490262
+      },
+      {
+        "keyword": "global",
+        "score": 0.14157875345490262
+      },
+      {
+        "keyword": "bloomberg originals",
+        "score": 0.09438583563660174
+      },
+      {
+        "keyword": "center virginia",
+        "score": 0.09438583563660174
+      },
+      {
+        "keyword": "centers",
+        "score": 0.09438583563660174
+      }
+    ]
+  },
+  {
+    "video_id": "Cn88tzdV3oM",
+    "text_length": 37,
+    "keyword_count": 5,
+    "keywords": [
+      {
+        "keyword": "chatgpt",
+        "score": 0.4472135954999579
+      },
+      {
+        "keyword": "chatgpt destroying",
+        "score": 0.4472135954999579
+      },
+      {
+        "keyword": "destroying",
+        "score": 0.4472135954999579
+      },
+      {
+        "keyword": "destroying environment",
+        "score": 0.4472135954999579
+      },
+      {
+        "keyword": "environment",
+        "score": 0.4472135954999579
+      }
+    ]
+  },
+  {
+    "video_id": "FEDpD5hNYyk",
+    "text_length": 1054,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "follow",
+        "score": 0.2229882438741499
+      },
+      {
+        "keyword": "investment",
+        "score": 0.2229882438741499
+      },
+      {
+        "keyword": "personal",
+        "score": 0.2229882438741499
+      },
+      {
+        "keyword": "com",
+        "score": 0.14865882924943327
+      },
+      {
+        "keyword": "email",
+        "score": 0.14865882924943327
+      },
+      {
+        "keyword": "exploretheunfamiliar",
+        "score": 0.14865882924943327
+      },
+      {
+        "keyword": "exploretheunfamiliar com",
+        "score": 0.14865882924943327
+      },
+      {
+        "keyword": "free",
+        "score": 0.14865882924943327
+      },
+      {
+        "keyword": "informational",
+        "score": 0.14865882924943327
+      },
+      {
+        "keyword": "purposes",
+        "score": 0.14865882924943327
+      }
+    ]
+  },
+  {
+    "video_id": "YGfJeH5HRDQ",
+    "text_length": 1069,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "vox",
+        "score": 0.20180183819889375
+      },
+      {
+        "keyword": "centers",
+        "score": 0.1345345587992625
+      },
+      {
+        "keyword": "clean",
+        "score": 0.1345345587992625
+      },
+      {
+        "keyword": "clean energy",
+        "score": 0.1345345587992625
+      },
+      {
+        "keyword": "climate",
+        "score": 0.1345345587992625
+      },
+      {
+        "keyword": "climate goals",
+        "score": 0.1345345587992625
+      },
+      {
+        "keyword": "cloud",
+        "score": 0.1345345587992625
+      },
+      {
+        "keyword": "cloud storage",
+        "score": 0.1345345587992625
+      },
+      {
+        "keyword": "data",
+        "score": 0.1345345587992625
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.1345345587992625
+      }
+    ]
+  },
+  {
+    "video_id": "qk71RxoMads",
+    "text_length": 717,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "power",
+        "score": 0.2544566789039913
+      },
+      {
+        "keyword": "centers",
+        "score": 0.16963778593599418
+      },
+      {
+        "keyword": "data",
+        "score": 0.16963778593599418
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.16963778593599418
+      },
+      {
+        "keyword": "real",
+        "score": 0.16963778593599418
+      },
+      {
+        "keyword": "actually",
+        "score": 0.08481889296799709
+      },
+      {
+        "keyword": "actually energy",
+        "score": 0.08481889296799709
+      },
+      {
+        "keyword": "available",
+        "score": 0.08481889296799709
+      },
+      {
+        "keyword": "available information",
+        "score": 0.08481889296799709
+      },
+      {
+        "keyword": "based",
+        "score": 0.08481889296799709
+      }
+    ]
+  },
+  {
+    "video_id": "i3CA9osjYPo",
+    "text_length": 1496,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "ted",
+        "score": 0.5348383021589467
+      },
+      {
+        "keyword": "talks",
+        "score": 0.19448665533052606
+      },
+      {
+        "keyword": "technology",
+        "score": 0.14586499149789456
+      },
+      {
+        "keyword": "ted talks",
+        "score": 0.14586499149789456
+      },
+      {
+        "keyword": "centers",
+        "score": 0.09724332766526303
+      },
+      {
+        "keyword": "channel",
+        "score": 0.09724332766526303
+      },
+      {
+        "keyword": "commercial",
+        "score": 0.09724332766526303
+      },
+      {
+        "keyword": "coskun",
+        "score": 0.09724332766526303
+      },
+      {
+        "keyword": "data",
+        "score": 0.09724332766526303
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.09724332766526303
+      }
+    ]
+  },
+  {
+    "video_id": "AN7c5S9k5L0",
+    "text_length": 891,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "energy",
+        "score": 0.6257681363874317
+      },
+      {
+        "keyword": "demand",
+        "score": 0.2275520495954297
+      },
+      {
+        "keyword": "energy demand",
+        "score": 0.2275520495954297
+      },
+      {
+        "keyword": "parallelization",
+        "score": 0.17066403719657228
+      },
+      {
+        "keyword": "china",
+        "score": 0.11377602479771486
+      },
+      {
+        "keyword": "deployed",
+        "score": 0.11377602479771486
+      },
+      {
+        "keyword": "gas",
+        "score": 0.11377602479771486
+      },
+      {
+        "keyword": "gpt-4",
+        "score": 0.11377602479771486
+      },
+      {
+        "keyword": "innovation",
+        "score": 0.11377602479771486
+      },
+      {
+        "keyword": "llm",
+        "score": 0.11377602479771486
+      }
+    ]
+  },
+  {
+    "video_id": "kDoCXZEaF5A",
+    "text_length": 1396,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "crawford",
+        "score": 0.13576884666042613
+      },
+      {
+        "keyword": "earth",
+        "score": 0.13576884666042613
+      },
+      {
+        "keyword": "effects",
+        "score": 0.13576884666042613
+      },
+      {
+        "keyword": "environmental",
+        "score": 0.13576884666042613
+      },
+      {
+        "keyword": "impact",
+        "score": 0.13576884666042613
+      },
+      {
+        "keyword": "industry",
+        "score": 0.13576884666042613
+      },
+      {
+        "keyword": "opinion",
+        "score": 0.13576884666042613
+      },
+      {
+        "keyword": "price",
+        "score": 0.13576884666042613
+      },
+      {
+        "keyword": "times",
+        "score": 0.13576884666042613
+      },
+      {
+        "keyword": "totally",
+        "score": 0.13576884666042613
+      }
+    ]
+  },
+  {
+    "video_id": "3Yh9OddmgS0",
+    "text_length": 293,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "centers",
+        "score": 0.27472112789737807
+      },
+      {
+        "keyword": "data",
+        "score": 0.27472112789737807
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.27472112789737807
+      },
+      {
+        "keyword": "animation",
+        "score": 0.13736056394868904
+      },
+      {
+        "keyword": "animation donavon",
+        "score": 0.13736056394868904
+      },
+      {
+        "keyword": "archive",
+        "score": 0.13736056394868904
+      },
+      {
+        "keyword": "archive licensing",
+        "score": 0.13736056394868904
+      },
+      {
+        "keyword": "artificialintelligence",
+        "score": 0.13736056394868904
+      },
+      {
+        "keyword": "artificialintelligence news",
+        "score": 0.13736056394868904
+      },
+      {
+        "keyword": "available",
+        "score": 0.13736056394868904
+      }
+    ]
+  },
+  {
+    "video_id": "Yyf21wz9VmY",
+    "text_length": 421,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "water",
+        "score": 0.4193139346887673
+      },
+      {
+        "keyword": "burger",
+        "score": 0.20965696734438366
+      },
+      {
+        "keyword": "chatgpt",
+        "score": 0.20965696734438366
+      },
+      {
+        "keyword": "concerned",
+        "score": 0.20965696734438366
+      },
+      {
+        "keyword": "concerned water",
+        "score": 0.20965696734438366
+      },
+      {
+        "keyword": "usage",
+        "score": 0.20965696734438366
+      },
+      {
+        "keyword": "water usage",
+        "score": 0.20965696734438366
+      },
+      {
+        "keyword": "answer",
+        "score": 0.10482848367219183
+      },
+      {
+        "keyword": "answer searches",
+        "score": 0.10482848367219183
+      },
+      {
+        "keyword": "beef",
+        "score": 0.10482848367219183
+      }
+    ]
+  },
+  {
+    "video_id": "4LahepRe5SY",
+    "text_length": 1821,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "e-waste",
+        "score": 0.19047619047619047
+      },
+      {
+        "keyword": "eco",
+        "score": 0.19047619047619047
+      },
+      {
+        "keyword": "book",
+        "score": 0.14285714285714285
+      },
+      {
+        "keyword": "does",
+        "score": 0.14285714285714285
+      },
+      {
+        "keyword": "eco book",
+        "score": 0.14285714285714285
+      },
+      {
+        "keyword": "energy",
+        "score": 0.14285714285714285
+      },
+      {
+        "keyword": "environmental",
+        "score": 0.14285714285714285
+      },
+      {
+        "keyword": "environmental impact",
+        "score": 0.14285714285714285
+      },
+      {
+        "keyword": "free",
+        "score": 0.14285714285714285
+      },
+      {
+        "keyword": "impact",
+        "score": 0.14285714285714285
+      }
+    ]
+  },
+  {
+    "video_id": "1elHsKSRqwU",
+    "text_length": 2879,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "climate",
+        "score": 0.3512029712477555
+      },
+      {
+        "keyword": "data",
+        "score": 0.28734788556634544
+      },
+      {
+        "keyword": "centers",
+        "score": 0.22349279988493534
+      },
+      {
+        "keyword": "data centers",
+        "score": 0.22349279988493534
+      },
+      {
+        "keyword": "climate emergency",
+        "score": 0.15963771420352524
+      },
+      {
+        "keyword": "emergency",
+        "score": 0.15963771420352524
+      },
+      {
+        "keyword": "earth",
+        "score": 0.09578262852211514
+      },
+      {
+        "keyword": "emergency forum",
+        "score": 0.09578262852211514
+      },
+      {
+        "keyword": "forum",
+        "score": 0.09578262852211514
+      },
+      {
+        "keyword": "new",
+        "score": 0.09578262852211514
+      }
+    ]
+  },
+  {
+    "video_id": "LkHtqyEfgGw",
+    "text_length": 1027,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "news",
+        "score": 0.519777698189052
+      },
+      {
+        "keyword": "cbs",
+        "score": 0.43314808182420994
+      },
+      {
+        "keyword": "cbs news",
+        "score": 0.43314808182420994
+      },
+      {
+        "keyword": "free",
+        "score": 0.129944424547263
+      },
+      {
+        "keyword": "available",
+        "score": 0.086629616364842
+      },
+      {
+        "keyword": "bills",
+        "score": 0.086629616364842
+      },
+      {
+        "keyword": "com",
+        "score": 0.086629616364842
+      },
+      {
+        "keyword": "follow",
+        "score": 0.086629616364842
+      },
+      {
+        "keyword": "follow cbs",
+        "score": 0.086629616364842
+      },
+      {
+        "keyword": "licensing",
+        "score": 0.086629616364842
+      }
+    ]
+  },
+  {
+    "video_id": "gg_kTRgh5Jo",
+    "text_length": 672,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "energy",
+        "score": 0.27975144247209416
+      },
+      {
+        "keyword": "footprint",
+        "score": 0.18650096164806276
+      },
+      {
+        "keyword": "analysis",
+        "score": 0.09325048082403138
+      },
+      {
+        "keyword": "analysis mit",
+        "score": 0.09325048082403138
+      },
+      {
+        "keyword": "barrels",
+        "score": 0.09325048082403138
+      },
+      {
+        "keyword": "barrels billions",
+        "score": 0.09325048082403138
+      },
+      {
+        "keyword": "billions",
+        "score": 0.09325048082403138
+      },
+      {
+        "keyword": "billions daily",
+        "score": 0.09325048082403138
+      },
+      {
+        "keyword": "carbon",
+        "score": 0.09325048082403138
+      },
+      {
+        "keyword": "carbon footprint",
+        "score": 0.09325048082403138
+      }
+    ]
+  },
+  {
+    "video_id": "xuuo4qWhK6I",
+    "text_length": 860,
+    "keyword_count": 10,
+    "keywords": [
+      {
+        "keyword": "energy",
+        "score": 0.3823595564509363
+      },
+      {
+        "keyword": "power",
+        "score": 0.3823595564509363
+      },
+      {
+        "keyword": "causing",
+        "score": 0.1529438225803745
+      },
+      {
+        "keyword": "cost",
+        "score": 0.1529438225803745
+      },
+      {
+        "keyword": "energy cost",
+        "score": 0.1529438225803745
+      },
+      {
+        "keyword": "support",
+        "score": 0.1529438225803745
+      },
+      {
+        "keyword": "billions",
+        "score": 0.07647191129018725
+      },
+      {
+        "keyword": "billions building",
+        "score": 0.07647191129018725
+      },
+      {
+        "keyword": "building",
+        "score": 0.07647191129018725
+      },
+      {
+        "keyword": "building data",
+        "score": 0.07647191129018725
+      }
+    ]
+  }
+]

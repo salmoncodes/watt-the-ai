@@ -5,11 +5,11 @@ Performs topic modeling on YouTube comments and transcripts
 using BERTopic.
 
 Input:
-    data/processed/clean_comments.json
-    data/processed/clean_transcripts.json
+    data/preprocessing/clean_comments.json
+    data/preprocessing/clean_transcripts.json
 
 Output:
-    feature_extraction/output/topic_results.json
+    data/feature_extraction/topic_results.json
 """
 
 from pathlib import Path
@@ -19,8 +19,8 @@ from utils.text_merger import build_document_map
 from models.bertopic_model import analyze_batch
 
 
-PROCESSED_DATA_DIR = Path("data/processed")
-OUTPUT_DIR = Path("feature_extraction/output")
+PROCESSED_DATA_DIR = Path("data/preprocessing")
+OUTPUT_DIR = Path("data/feature_extraction")
 COMMENTS_FILE = PROCESSED_DATA_DIR / "clean_comments.json"
 TRANSCRIPTS_FILE = PROCESSED_DATA_DIR / "clean_transcripts.json"
 VIDEOS_FILE = PROCESSED_DATA_DIR / "clean_videos.json"
