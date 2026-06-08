@@ -1,13 +1,12 @@
 """
-Lightweight topic modeling wrapper.
+BERTopic topic modeling wrapper.
 
-This uses TF-IDF + MiniBatchKMeans as a runnable fallback for the project
-feature-extraction layer. It produces topic IDs without requiring BERTopic
-transformer downloads.
+This module fits BERTopic on the provided batch and returns topic assignments,
+probabilities, and top topic words.
 """
 
-from sklearn.cluster import MiniBatchKMeans
-from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS, TfidfVectorizer
+from bertopic import BERTopic
+from sklearn.cluster import KMeans
 
 
 def analyze_batch(texts):
@@ -15,33 +14,47 @@ def analyze_batch(texts):
     if not cleaned:
         return []
 
-    non_empty_count = sum(1 for text in cleaned if text)
-    if non_empty_count == 0:
-        return [{"text_id": i, "topic": -1, "probability": 0.0} for i in range(len(cleaned))]
+    if len(cleaned) < 5:
+        return [
+            {
+                "text_id": i,
+                "topic": 0 if text else -1,
+                "probability": 1.0 if text else 0.0,
+                "topic_words": [],
+            }
+            for i, text in enumerate(cleaned)
+        ]
 
-    vectorizer = TfidfVectorizer(
-        stop_words=list(ENGLISH_STOP_WORDS),
-        max_features=5000,
-        min_df=1,
-        ngram_range=(1, 2),
-    )
-    matrix = vectorizer.fit_transform(cleaned)
+    cluster_model = KMeans(n_clusters=min(8, max(2, len(cleaned) // 3)), random_state=42, n_init=10)
+    model = BERTopic(hdbscan_model=cluster_model, calculate_probabilities=False, verbose=False)
+    topics, probs = model.fit_transform(cleaned)
 
-    if matrix.shape[0] < 2:
-        labels = [0] * matrix.shape[0]
-    else:
-        n_clusters = min(8, max(2, matrix.shape[0] // 3))
-        model = MiniBatchKMeans(n_clusters=n_clusters, random_state=42, n_init=10)
-        labels = model.fit_predict(matrix)
+    results = []
+    for i, topic_id in enumerate(topics):
+        topic_words = model.get_topic(topic_id) or []
+        probability = 0.0
+        if probs is not None and len(probs) > i:
+            row = probs[i]
+            if topic_id >= 0 and len(row) > topic_id:
+                probability = float(row[topic_id])
+            elif len(row):
+                probability = float(max(row))
+        elif topic_id >= 0:
+            probability = 1.0
 
-    return [
-        {
-            "text_id": i,
-            "topic": int(labels[i]),
-            "probability": 1.0,
-        }
-        for i in range(len(cleaned))
-    ]
+        results.append(
+            {
+                "text_id": i,
+                "topic": int(topic_id) if topic_id is not None else -1,
+                "probability": probability,
+                "topic_words": [
+                    {"word": word, "score": float(score)}
+                    for word, score in topic_words[:10]
+                ],
+            }
+        )
+
+    return results
 
 
 def analyze_text(text):
