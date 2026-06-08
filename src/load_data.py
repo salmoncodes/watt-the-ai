@@ -29,11 +29,8 @@ def load_jsonl(path):
 
 def load_file(path):
     path = Path(path)
-
     if path.suffix.lower() == ".json":
         return load_json(path)
-
     if path.suffix.lower() == ".jsonl":
         return load_jsonl(path)
-
     raise ValueError(f"Unsupported file type: {path.suffix}")
