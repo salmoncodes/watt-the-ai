@@ -42,6 +42,7 @@ def preprocess_comments():
             continue
 
         # Text cleaning pipeline.
+        text = remove_punctuation(text)
         text = normalize_unicode(text)
         text = remove_noise(text)
         text = convert_emojis(text)
