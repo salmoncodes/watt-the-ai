@@ -43,6 +43,7 @@ def preprocess_transcripts():
         text = normalize_unicode(text)
         text = remove_noise(text)
         text = normalize_text(text)
+        text = remove_punctuation(text)
 
         processed.append({
             "video_id": transcript["video_id"],
