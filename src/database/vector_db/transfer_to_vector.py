@@ -22,7 +22,7 @@ from sentence_transformers import SentenceTransformer
 
 
 DB_PATH = Path("database/vector_db/vector.db")
-SCHEMA_PATH = Path("database/vector_db/schema.sql")
+SCHEMA_PATH = Path("database/vector_db/vector_schema.sql")
 
 
 # ----------------------------
