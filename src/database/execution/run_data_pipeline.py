@@ -8,8 +8,6 @@ Final execution layer that loads:
 and transfers them into:
 - structured SQLite DB
 - vector SQLite DB (with embeddings)
-
-This assumes preprocessing + feature extraction are already completed.
 """
 
 import subprocess
