@@ -1,15 +1,15 @@
 """
 run_data_pipeline.py
 
-Orchestrates the full end-to-end data pipeline:
+Final execution layer that loads:
+- cleaned data
+- feature extraction outputs
 
-1. YouTube extraction (assumed already run externally or via scripts)
-2. Preprocessing layer
-3. Feature extraction layer
-4. Structured database transfer
-5. Vector database transfer (with embeddings)
+and transfers them into:
+- structured SQLite DB
+- vector SQLite DB (with embeddings)
 
-This script ensures reproducibility of the entire data workflow.
+This assumes preprocessing + feature extraction are already completed.
 """
 
 import subprocess
@@ -34,21 +34,6 @@ def run_step(command, step_name):
 
 
 def main():
-    # ----------------------------
-    # PREPROCESSING LAYER
-    # ----------------------------
-    run_step(
-        ["preprocessing/run_all.py"],
-        "Preprocessing Pipeline"
-    )
-
-    # ----------------------------
-    # FEATURE EXTRACTION LAYER
-    # ----------------------------
-    run_step(
-        ["feature_extraction/run_all.py"],
-        "Feature Extraction Pipeline"
-    )
 
     # ----------------------------
     # STRUCTURED DATABASE
@@ -59,7 +44,7 @@ def main():
     )
 
     # ----------------------------
-    # VECTOR DATABASE (WITH EMBEDDINGS)
+    # VECTOR DATABASE
     # ----------------------------
     run_step(
         ["database/vector_db/transfer_to_vector.py"],
@@ -67,7 +52,7 @@ def main():
     )
 
     print("\n" + "=" * 60)
-    print("FULL PIPELINE EXECUTION COMPLETE")
+    print("DATABASE PIPELINE COMPLETE")
     print("=" * 60)
 
 
