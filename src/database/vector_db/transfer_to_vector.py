@@ -8,8 +8,6 @@ Builds the vector database and directly generates embeddings for:
 
 This is a single-step ingestion pipeline:
 text -> embedding -> vector_db
-
-No separate embedding stage is required.
 """
 
 import sqlite3
