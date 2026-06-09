@@ -1,4 +1,4 @@
--- schema.sql
+-- structured_schema.sql
 -- Structured Database Schema (Relational Layer)
 -- Stores cleaned data + NLP feature outputs for analytics and filtering
 
