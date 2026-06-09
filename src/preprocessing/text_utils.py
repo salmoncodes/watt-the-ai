@@ -22,20 +22,23 @@ import re
 import unicodedata
 import emoji
 from langdetect import detect
+import csv
+from pathlib import Path
 
 
 # Common internet slang dictionary.
 # Additional entries can be added as needed.
-SLANG_MAP = {
-    "idk": "i do not know",
-    "ngl": "not gonna lie",
-    "imo": "in my opinion",
-    "lmao": "laughing",
-    "bruh": "disbelief",
-    "wtf": "what the hell",
-    "omg": "oh my god"
-}
 
+def load_slang_map():
+    csv_path = Path(__file__).parent
+    slang_map = {}
+    with open(csv_path, "r", encoding="utf-8") as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            slang_map[row["slang"].lower()] = row["expanded"]
+    return slang_map
+
+SLANG_MAP = load_slang_map()
 
 # Regular expressions used during cleaning.
 URL_PATTERN = r"http\S+|www\.\S+"
@@ -54,6 +57,9 @@ def save_json(path, data):
     with open(path, "w", encoding="utf-8") as file:
         json.dump(data, file, indent=2, ensure_ascii=False)
 
+def remove_punctuation(text):
+    text = re.sub(r"[^\w\s']", "", text)
+    return text
 
 def normalize_unicode(text):
     text = unicodedata.normalize("NFKC", text)
