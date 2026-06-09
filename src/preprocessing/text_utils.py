@@ -17,6 +17,7 @@ All preprocessing pipelines import these utilities.
 """
 
 import json
+import html
 import re
 import unicodedata
 import emoji
@@ -38,7 +39,9 @@ SLANG_MAP = {
 
 # Regular expressions used during cleaning.
 URL_PATTERN = r"http\S+|www\.\S+"
-HTML_PATTERN = r"&\w+;"
+HTML_TAG_PATTERN = r"<[^>]+>"
+MENTION_PATTERN = r"(?<!\w)@[\w.-]+"
+ZERO_WIDTH_PATTERN = r"[\u200b-\u200f\u2060\ufeff]"
 
 
 def load_json(path):
@@ -53,18 +56,42 @@ def save_json(path, data):
 
 
 def normalize_unicode(text):
-    return unicodedata.normalize("NFKC", text)
+    text = unicodedata.normalize("NFKC", text)
+    replacements = {
+        "\u2018": "'",
+        "\u2019": "'",
+        "\u201c": '"',
+        "\u201d": '"',
+        "\u2013": "-",
+        "\u2014": "-",
+        "\u00a0": " ",
+    }
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+    return text
 
 
 def remove_noise(text):
+    text = html.unescape(text)
     text = re.sub(URL_PATTERN, "", text)
-    text = re.sub(HTML_PATTERN, "", text)
+    text = re.sub(HTML_TAG_PATTERN, " ", text)
+    text = re.sub(ZERO_WIDTH_PATTERN, "", text)
+    text = re.sub(MENTION_PATTERN, " ", text)
+    text = re.sub(r"@[A-Za-z][A-Za-z0-9_.-]*\d+(?=[A-Za-z])", " ", text)
+    text = re.sub(r"@\S+", " ", text)
+    text = re.sub(r"#(\w+)", r"\1", text)
     text = re.sub(r"\s+", " ", text)
     return text.strip()
 
 
 def convert_emojis(text):
-    return emoji.demojize(text, delimiters=(" ", " "))
+    text = emoji.demojize(text, delimiters=(" ", " "))
+    text = re.sub(
+        r"\b[A-Za-z]+(?:_[A-Za-z0-9-]+)+\b",
+        lambda match: match.group(0).replace("_", " "),
+        text,
+    )
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def normalize_slang(text):
@@ -78,7 +105,9 @@ def normalize_slang(text):
 def normalize_text(text):
     text = text.lower()
     text = re.sub(r"(.)\1{2,}", r"\1", text)
-    return text
+    text = re.sub(r"\s+([?.!,;:])", r"\1", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
 
 
 def detect_language(text):
@@ -98,9 +127,11 @@ def filter_language(text, target_language="en"):
 def is_spam(text):
     if len(text.strip()) < 3:
         return True
+    if len(text.split()) < 2 and len(text.strip()) < 12:
+        return True
     if re.fullmatch(r"[\W_]+", text):
         return True
-    if text.lower() in ["nice", "lol", "ok", "cool"]:
+    if text.lower() in ["nice", "lol", "ok", "cool", "first", "same", "thanks"]:
         return True
     return False
 

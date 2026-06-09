@@ -1,7 +1,7 @@
 [
   {
     "video_id": "H_c6MWk7PQc",
-    "text_length": 1432054,
+    "text_length": 1387403,
     "keyword_count": 10,
     "keywords": [
       {
@@ -48,7 +48,7 @@
   },
   {
     "video_id": "t-8TDOFqkQA",
-    "text_length": 635257,
+    "text_length": 618295,
     "keyword_count": 10,
     "keywords": [
       {
@@ -72,6 +72,10 @@
         "score": 0.6119
       },
       {
+        "keyword": "datacenters thinking",
+        "score": 0.6105
+      },
+      {
         "keyword": "say datacenters",
         "score": 0.6105
       },
@@ -86,204 +90,200 @@
       {
         "keyword": "datacenter desert",
         "score": 0.5978
-      },
-      {
-        "keyword": "datacenters wasteful",
-        "score": 0.5938
       }
     ]
   },
   {
     "video_id": "DGjj7wDYaiI",
-    "text_length": 603155,
+    "text_length": 586965,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "electricity datacenter",
-        "score": 0.5803
-      },
-      {
-        "keyword": "datacenters real",
-        "score": 0.5574
+        "score": 0.5748
       },
       {
         "keyword": "ai datacenters",
-        "score": 0.5547
+        "score": 0.5594
+      },
+      {
+        "keyword": "datacenters real",
+        "score": 0.5514
       },
       {
         "keyword": "agreed datacenters",
-        "score": 0.5477
+        "score": 0.5455
       },
       {
         "keyword": "datacenter companies",
-        "score": 0.5474
+        "score": 0.5402
       },
       {
         "keyword": "tech datacenters",
-        "score": 0.5472
-      },
-      {
-        "keyword": "datacenters magically",
-        "score": 0.5454
+        "score": 0.54
       },
       {
         "keyword": "building datacenters",
-        "score": 0.5415
+        "score": 0.5393
+      },
+      {
+        "keyword": "datacenters magically",
+        "score": 0.5393
       },
       {
         "keyword": "datacenters",
-        "score": 0.5367
+        "score": 0.5299
       },
       {
         "keyword": "data centers",
-        "score": 0.5348
+        "score": 0.5287
       }
     ]
   },
   {
     "video_id": "3__HO-akNC8",
-    "text_length": 460593,
+    "text_length": 452628,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai electricity",
-        "score": 0.5987
+        "score": 0.6091
       },
       {
         "keyword": "electricity ai",
-        "score": 0.5799
+        "score": 0.5914
       },
       {
         "keyword": "electricity worries",
-        "score": 0.5558
+        "score": 0.5633
       },
       {
         "keyword": "electricity predicted",
-        "score": 0.5465
+        "score": 0.5576
+      },
+      {
+        "keyword": "power quality",
+        "score": 0.5369
       },
       {
         "keyword": "causes power",
-        "score": 0.5447
+        "score": 0.5361
       },
       {
         "keyword": "causing power",
-        "score": 0.5428
+        "score": 0.536
       },
       {
         "keyword": "power causes",
-        "score": 0.54
-      },
-      {
-        "keyword": "distorted power",
-        "score": 0.5287
+        "score": 0.5357
       },
       {
         "keyword": "electricity power",
-        "score": 0.5261
+        "score": 0.5333
       },
       {
-        "keyword": "reality electricity",
-        "score": 0.5248
+        "keyword": "powering ai",
+        "score": 0.53
       }
     ]
   },
   {
     "video_id": "7rEzhCwPhqc",
-    "text_length": 320073,
+    "text_length": 312136,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai datacenters",
-        "score": 0.6231
+        "score": 0.6386
       },
       {
         "keyword": "datacenters ai",
-        "score": 0.6066
+        "score": 0.6196
       },
       {
         "keyword": "ai datacenter",
-        "score": 0.5955
+        "score": 0.6076
       },
       {
         "keyword": "datacenters substantially",
-        "score": 0.5805
+        "score": 0.5934
       },
       {
         "keyword": "datacenter roughly",
-        "score": 0.5682
+        "score": 0.5837
       },
       {
         "keyword": "huge datacenters",
-        "score": 0.5528
-      },
-      {
-        "keyword": "think datacenters",
-        "score": 0.5506
+        "score": 0.5683
       },
       {
         "keyword": "datacenter business",
-        "score": 0.5496
+        "score": 0.559
+      },
+      {
+        "keyword": "think datacenters",
+        "score": 0.559
       },
       {
         "keyword": "datacenters pretty",
-        "score": 0.5411
+        "score": 0.5503
       },
       {
-        "keyword": "energy datacenters",
-        "score": 0.5358
+        "keyword": "impact datacenters",
+        "score": 0.5398
       }
     ]
   },
   {
     "video_id": "b0C56yqIkbk",
-    "text_length": 199481,
+    "text_length": 195374,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai water",
-        "score": 0.6483
+        "score": 0.6459
       },
       {
         "keyword": "water ai",
-        "score": 0.6127
+        "score": 0.6103
       },
       {
         "keyword": "ai thirsty",
-        "score": 0.5656
+        "score": 0.5633
       },
       {
         "keyword": "ai drink",
-        "score": 0.5632
+        "score": 0.561
       },
       {
         "keyword": "thirsty ai",
-        "score": 0.562
+        "score": 0.5597
       },
       {
         "keyword": "water bbc",
-        "score": 0.5504
+        "score": 0.5497
       },
       {
         "keyword": "technology water",
-        "score": 0.5378
+        "score": 0.5369
       },
       {
         "keyword": "ai drinking",
-        "score": 0.5365
+        "score": 0.5342
       },
       {
         "keyword": "thirst ai",
-        "score": 0.5258
+        "score": 0.5235
       },
       {
         "keyword": "drinking ai",
-        "score": 0.5254
+        "score": 0.523
       }
     ]
   },
   {
     "video_id": "5sFBySzNIX0",
-    "text_length": 448568,
+    "text_length": 444023,
     "keyword_count": 10,
     "keywords": [
       {
@@ -330,101 +330,101 @@
   },
   {
     "video_id": "eyklsgOClJA",
-    "text_length": 241254,
+    "text_length": 237177,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai datacenters",
-        "score": 0.6889
+        "score": 0.667
       },
       {
         "keyword": "datacenters ai",
-        "score": 0.6625
-      },
-      {
-        "keyword": "datacenters ocean",
-        "score": 0.6038
+        "score": 0.6408
       },
       {
         "keyword": "datacenters underwater",
-        "score": 0.5994
+        "score": 0.61
       },
       {
-        "keyword": "sinking datacentres",
-        "score": 0.5794
-      },
-      {
-        "keyword": "datacentres ocean",
-        "score": 0.5728
+        "keyword": "datacenters ocean",
+        "score": 0.6099
       },
       {
         "keyword": "underwater datacenters",
-        "score": 0.5691
+        "score": 0.5834
+      },
+      {
+        "keyword": "datacentres ocean",
+        "score": 0.5804
       },
       {
         "keyword": "oceans ai",
-        "score": 0.5675
+        "score": 0.5785
+      },
+      {
+        "keyword": "sinking datacentres",
+        "score": 0.5763
       },
       {
         "keyword": "datacenters sea",
-        "score": 0.5634
+        "score": 0.5651
       },
       {
-        "keyword": "water datacenters",
-        "score": 0.5589
+        "keyword": "underwater datacenter",
+        "score": 0.565
       }
     ]
   },
   {
     "video_id": "Ho7yc-gDcd0",
-    "text_length": 189855,
+    "text_length": 186619,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai datacenters",
-        "score": 0.5903
+        "score": 0.5914
       },
       {
         "keyword": "ai datacentres",
-        "score": 0.5819
-      },
-      {
-        "keyword": "water datacenters",
-        "score": 0.5803
-      },
-      {
-        "keyword": "datacenter india",
-        "score": 0.5802
+        "score": 0.5816
       },
       {
         "keyword": "ai datacenter",
-        "score": 0.5766
+        "score": 0.5782
+      },
+      {
+        "keyword": "datacenter india",
+        "score": 0.5781
+      },
+      {
+        "keyword": "water datacenters",
+        "score": 0.5741
       },
       {
         "keyword": "indian datacenter",
-        "score": 0.5743
+        "score": 0.5721
       },
       {
         "keyword": "datacentres ai",
-        "score": 0.5704
+        "score": 0.5694
       },
       {
-        "keyword": "india water",
-        "score": 0.5347
+        "keyword": "datacenters water",
+        "score": 0.5687
       },
       {
         "keyword": "data centres",
-        "score": 0.5322
+        "score": 0.532
       },
       {
-        "keyword": "data india",
-        "score": 0.5199
+        "keyword": "india water",
+        "score": 0.5198
       }
     ]
   },
   {
     "video_id": "-lzQxbcrscc",
-    "text_length": 160937,
+    "text_length": 159093,
     "keyword_count": 10,
     "keywords": [
       {
@@ -471,148 +471,148 @@
   },
   {
     "video_id": "Tx0uoiuLAZg",
-    "text_length": 75498,
+    "text_length": 74233,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai datacenters",
-        "score": 0.6927
+        "score": 0.6977
       },
       {
         "keyword": "ai demand",
-        "score": 0.5754
-      },
-      {
-        "keyword": "costs ai",
-        "score": 0.5668
+        "score": 0.5742
       },
       {
         "keyword": "cost ai",
-        "score": 0.5655
+        "score": 0.5639
+      },
+      {
+        "keyword": "costs ai",
+        "score": 0.5615
       },
       {
         "keyword": "ai power",
-        "score": 0.5455
-      },
-      {
-        "keyword": "power ai",
-        "score": 0.5414
+        "score": 0.5362
       },
       {
         "keyword": "ai cheaper",
-        "score": 0.5397
+        "score": 0.5353
       },
       {
-        "keyword": "ai vidéos",
-        "score": 0.5251
+        "keyword": "power ai",
+        "score": 0.5339
       },
       {
-        "keyword": "ai videos",
-        "score": 0.5251
+        "keyword": "ai nvidia",
+        "score": 0.5224
       },
       {
         "keyword": "datacenters",
-        "score": 0.5248
+        "score": 0.5217
+      },
+      {
+        "keyword": "datacenter",
+        "score": 0.5185
       }
     ]
   },
   {
     "video_id": "4secds0JgzE",
-    "text_length": 18497,
+    "text_length": 18105,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai environmental",
-        "score": 0.6125
+        "score": 0.6186
       },
       {
         "keyword": "water ai",
-        "score": 0.596
+        "score": 0.614
       },
       {
         "keyword": "sustainable ai",
-        "score": 0.5751
+        "score": 0.5774
       },
       {
         "keyword": "infrastructure water",
-        "score": 0.5685
-      },
-      {
-        "keyword": "global water",
-        "score": 0.5344
+        "score": 0.5742
       },
       {
         "keyword": "water scarcity",
-        "score": 0.5286
+        "score": 0.5524
       },
       {
-        "keyword": "aiwatercrisis artificialintelligence",
-        "score": 0.5256
-      },
-      {
-        "keyword": "chatgpt aiwatercrisis",
-        "score": 0.5222
-      },
-      {
-        "keyword": "artificialintelligence environmentalimpact",
-        "score": 0.5128
+        "keyword": "global water",
+        "score": 0.5461
       },
       {
         "keyword": "water consumption",
-        "score": 0.5078
+        "score": 0.5433
+      },
+      {
+        "keyword": "wasting water",
+        "score": 0.5409
+      },
+      {
+        "keyword": "chatgpt aiwatercrisis",
+        "score": 0.5325
+      },
+      {
+        "keyword": "aiwatercrisis artificialintelligence",
+        "score": 0.5269
       }
     ]
   },
   {
     "video_id": "Js-hZPtspJc",
-    "text_length": 29667,
+    "text_length": 29016,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "datacenters ai",
-        "score": 0.5419
+        "score": 0.5413
       },
       {
         "keyword": "datacenters think",
-        "score": 0.5404
+        "score": 0.54
       },
       {
         "keyword": "data centers",
-        "score": 0.5131
+        "score": 0.5132
       },
       {
         "keyword": "datacenters want",
-        "score": 0.4941
+        "score": 0.4939
       },
       {
         "keyword": "datacenters",
-        "score": 0.4912
+        "score": 0.4907
       },
       {
         "keyword": "climate threat",
-        "score": 0.4793
+        "score": 0.4795
       },
       {
         "keyword": "datacenters use",
-        "score": 0.4745
+        "score": 0.4744
       },
       {
         "keyword": "heat datacenters",
-        "score": 0.464
+        "score": 0.4637
       },
       {
         "keyword": "data centres",
-        "score": 0.4546
+        "score": 0.4548
       },
       {
         "keyword": "data center",
-        "score": 0.4512
+        "score": 0.4513
       }
     ]
   },
   {
     "video_id": "ym2imGxnXzM",
-    "text_length": 32755,
+    "text_length": 31673,
     "keyword_count": 10,
     "keywords": [
       {
@@ -659,63 +659,63 @@
   },
   {
     "video_id": "JRtMQdVJY7o",
-    "text_length": 56971,
+    "text_length": 56755,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "water datacenters",
-        "score": 0.602
+        "score": 0.6014
       },
       {
         "keyword": "ai water",
-        "score": 0.5769
+        "score": 0.5758
       },
       {
         "keyword": "water ai",
-        "score": 0.5398
+        "score": 0.5389
       },
       {
         "keyword": "water scam",
-        "score": 0.5291
+        "score": 0.5289
       },
       {
         "keyword": "money ai",
-        "score": 0.4955
+        "score": 0.4952
       },
       {
         "keyword": "ai demand",
-        "score": 0.4934
+        "score": 0.4927
       },
       {
         "keyword": "water infrastructure",
-        "score": 0.4926
+        "score": 0.4919
       },
       {
         "keyword": "datacenters",
-        "score": 0.4883
+        "score": 0.4879
       },
       {
         "keyword": "electricity water",
-        "score": 0.488
+        "score": 0.4859
       },
       {
         "keyword": "power water",
-        "score": 0.4785
+        "score": 0.4768
       }
     ]
   },
   {
     "video_id": "J3miEPD1l2o",
-    "text_length": 23970,
+    "text_length": 23854,
     "keyword_count": 10,
     "keywords": [
       {
-        "keyword": "water consumption",
-        "score": 0.502
+        "keyword": "water data",
+        "score": 0.5092
       },
       {
-        "keyword": "water data",
-        "score": 0.5004
+        "keyword": "water consumption",
+        "score": 0.503
       },
       {
         "keyword": "water usage",
@@ -723,152 +723,152 @@
       },
       {
         "keyword": "ai datacenters",
-        "score": 0.4411
+        "score": 0.4459
       },
       {
         "keyword": "ai water",
-        "score": 0.4408
+        "score": 0.4442
       },
       {
         "keyword": "water available",
-        "score": 0.4348
+        "score": 0.4377
       },
       {
-        "keyword": "water scarcity",
-        "score": 0.4343
+        "keyword": "water computer",
+        "score": 0.4347
       },
       {
-        "keyword": "water scarce",
-        "score": 0.4316
-      },
-      {
-        "keyword": "consumption water",
-        "score": 0.4307
+        "keyword": "water ai",
+        "score": 0.4329
       },
       {
         "keyword": "jobs water",
-        "score": 0.429
+        "score": 0.4312
+      },
+      {
+        "keyword": "consumption water",
+        "score": 0.4299
       }
     ]
   },
   {
     "video_id": "ipPwt1hyvV0",
-    "text_length": 33070,
+    "text_length": 32614,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "datacenters water",
-        "score": 0.6366
+        "score": 0.6368
       },
       {
         "keyword": "ai sustainability",
-        "score": 0.6214
+        "score": 0.6201
       },
       {
         "keyword": "water datacenters",
-        "score": 0.6132
+        "score": 0.6133
       },
       {
         "keyword": "ai water",
-        "score": 0.6026
+        "score": 0.6007
       },
       {
         "keyword": "technological water",
-        "score": 0.5946
+        "score": 0.5936
       },
       {
         "keyword": "water ai",
-        "score": 0.5745
-      },
-      {
-        "keyword": "ai environmental",
-        "score": 0.5729
-      },
-      {
-        "keyword": "sustainable ai",
         "score": 0.5725
       },
       {
-        "keyword": "ai datacenters",
-        "score": 0.5576
+        "keyword": "ai environmental",
+        "score": 0.5716
       },
       {
-        "keyword": "ai datacenter",
-        "score": 0.5395
+        "keyword": "sustainable ai",
+        "score": 0.5711
+      },
+      {
+        "keyword": "ai datacenters",
+        "score": 0.5572
+      },
+      {
+        "keyword": "water consumption",
+        "score": 0.5398
       }
     ]
   },
   {
     "video_id": "nkDyUL1A65U",
-    "text_length": 26314,
+    "text_length": 26207,
     "keyword_count": 10,
     "keywords": [
       {
-        "keyword": "wednesday earth",
-        "score": 0.4711
-      },
-      {
         "keyword": "cbs news",
-        "score": 0.467
+        "score": 0.4617
       },
       {
-        "keyword": "cbs sunday",
-        "score": 0.453
-      },
-      {
-        "keyword": "subscribe cbs",
-        "score": 0.4512
+        "keyword": "wednesday earth",
+        "score": 0.4608
       },
       {
         "keyword": "channel earth",
-        "score": 0.4471
+        "score": 0.4515
+      },
+      {
+        "keyword": "subscribe cbs",
+        "score": 0.4477
+      },
+      {
+        "keyword": "cbs sunday",
+        "score": 0.4433
       },
       {
         "keyword": "earth day",
-        "score": 0.4442
-      },
-      {
-        "keyword": "news sunday",
-        "score": 0.436
-      },
-      {
-        "keyword": "channel cbs",
-        "score": 0.4291
-      },
-      {
-        "keyword": "follow cbs",
-        "score": 0.4247
+        "score": 0.435
       },
       {
         "keyword": "ocean data",
-        "score": 0.4153
+        "score": 0.429
+      },
+      {
+        "keyword": "news sunday",
+        "score": 0.4268
+      },
+      {
+        "keyword": "channel cbs",
+        "score": 0.4256
+      },
+      {
+        "keyword": "follow cbs",
+        "score": 0.4226
       }
     ]
   },
   {
     "video_id": "8efHyRAbC7Q",
-    "text_length": 25155,
+    "text_length": 24279,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai environmental",
-        "score": 0.6538
+        "score": 0.654
       },
       {
         "keyword": "ai climate",
-        "score": 0.6022
+        "score": 0.6025
       },
       {
         "keyword": "ai water",
-        "score": 0.5786
+        "score": 0.5778
       },
       {
         "keyword": "ai regulations",
-        "score": 0.555
+        "score": 0.5553
       },
       {
         "keyword": "ai scientists",
-        "score": 0.5488
+        "score": 0.5494
       },
       {
         "keyword": "demand ai",
@@ -876,260 +876,260 @@
       },
       {
         "keyword": "ai innovation",
-        "score": 0.5082
+        "score": 0.5089
       },
       {
         "keyword": "ai companies",
-        "score": 0.5047
+        "score": 0.5046
       },
       {
         "keyword": "invent ai",
-        "score": 0.4969
+        "score": 0.4975
       },
       {
         "keyword": "ai energy",
-        "score": 0.4959
+        "score": 0.4961
       }
     ]
   },
   {
     "video_id": "Am3xtjZgfqM",
-    "text_length": 13324,
+    "text_length": 13084,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "chatgpt water",
-        "score": 0.6603
+        "score": 0.6473
       },
       {
         "keyword": "water gpt",
-        "score": 0.5902
+        "score": 0.605
       },
       {
         "keyword": "water consumption",
-        "score": 0.5083
-      },
-      {
-        "keyword": "water servers",
-        "score": 0.4996
+        "score": 0.5515
       },
       {
         "keyword": "computers water",
-        "score": 0.4851
+        "score": 0.5069
       },
       {
         "keyword": "gallons drinkable",
-        "score": 0.4793
-      },
-      {
-        "keyword": "water required",
-        "score": 0.4788
-      },
-      {
-        "keyword": "water demands",
-        "score": 0.4742
+        "score": 0.5068
       },
       {
         "keyword": "consuming gallons",
-        "score": 0.4725
+        "score": 0.4968
       },
       {
-        "keyword": "chat gpt",
-        "score": 0.4703
+        "keyword": "water servers",
+        "score": 0.4929
+      },
+      {
+        "keyword": "water required",
+        "score": 0.4926
+      },
+      {
+        "keyword": "water demands",
+        "score": 0.4916
+      },
+      {
+        "keyword": "gpt consumes",
+        "score": 0.4892
       }
     ]
   },
   {
     "video_id": "Vue-svajNaw",
-    "text_length": 20143,
+    "text_length": 19936,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai water",
-        "score": 0.5687
+        "score": 0.5671
       },
       {
         "keyword": "water demand",
-        "score": 0.5412
+        "score": 0.5406
       },
       {
         "keyword": "water ai",
-        "score": 0.5407
+        "score": 0.5392
       },
       {
         "keyword": "water usage",
-        "score": 0.5247
+        "score": 0.5245
       },
       {
         "keyword": "water consumption",
-        "score": 0.5117
+        "score": 0.5111
       },
       {
         "keyword": "water data",
-        "score": 0.5069
+        "score": 0.5053
       },
       {
         "keyword": "industrial water",
-        "score": 0.4595
+        "score": 0.4591
       },
       {
         "keyword": "amounts water",
-        "score": 0.4535
+        "score": 0.4528
       },
       {
         "keyword": "water allocation",
-        "score": 0.4522
+        "score": 0.452
       },
       {
         "keyword": "utilize water",
-        "score": 0.4432
+        "score": 0.4421
       }
     ]
   },
   {
     "video_id": "fgrVXraE5Mg",
-    "text_length": 18744,
+    "text_length": 18650,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai consumed",
-        "score": 0.5984
+        "score": 0.5989
       },
       {
         "keyword": "ai make",
-        "score": 0.5634
+        "score": 0.561
       },
       {
         "keyword": "ai usage",
-        "score": 0.5624
-      },
-      {
-        "keyword": "ai concern",
-        "score": 0.5574
-      },
-      {
-        "keyword": "cost ai",
-        "score": 0.5571
+        "score": 0.5598
       },
       {
         "keyword": "consumption ai",
-        "score": 0.554
+        "score": 0.556
       },
       {
-        "keyword": "does ai",
-        "score": 0.5503
+        "keyword": "cost ai",
+        "score": 0.5548
       },
       {
-        "keyword": "ai water",
-        "score": 0.5498
+        "keyword": "ai concern",
+        "score": 0.5541
       },
       {
         "keyword": "ai uses",
-        "score": 0.5493
+        "score": 0.5489
+      },
+      {
+        "keyword": "sustainability ai",
+        "score": 0.5457
       },
       {
         "keyword": "ai lives",
-        "score": 0.5474
+        "score": 0.5455
+      },
+      {
+        "keyword": "does ai",
+        "score": 0.5433
       }
     ]
   },
   {
     "video_id": "SkWzwoDIGmE",
-    "text_length": 12316,
+    "text_length": 12214,
     "keyword_count": 10,
     "keywords": [
       {
-        "keyword": "energy forecast",
-        "score": 0.5364
-      },
-      {
         "keyword": "cbs mornings",
-        "score": 0.5312
+        "score": 0.5447
       },
       {
         "keyword": "morning cbs",
-        "score": 0.5106
+        "score": 0.5237
+      },
+      {
+        "keyword": "energy forecast",
+        "score": 0.5008
       },
       {
         "keyword": "subscribe cbs",
-        "score": 0.4988
+        "score": 0.5001
       },
       {
         "keyword": "follow cbs",
-        "score": 0.48
-      },
-      {
-        "keyword": "forecast hit",
-        "score": 0.4781
+        "score": 0.4857
       },
       {
         "keyword": "watch cbs",
-        "score": 0.4737
+        "score": 0.4814
       },
       {
         "keyword": "weekdays cbs",
-        "score": 0.4651
+        "score": 0.4773
       },
       {
         "keyword": "cbs stream",
-        "score": 0.4587
+        "score": 0.4689
+      },
+      {
+        "keyword": "forecast hit",
+        "score": 0.4661
       },
       {
         "keyword": "reporting cbs",
-        "score": 0.4377
+        "score": 0.4498
       }
     ]
   },
   {
     "video_id": "cz3AYYZBiGs",
-    "text_length": 11720,
+    "text_length": 11660,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "electricity ai",
-        "score": 0.6599
+        "score": 0.6614
       },
       {
         "keyword": "ai energy",
-        "score": 0.6059
+        "score": 0.6052
       },
       {
         "keyword": "energy ai",
-        "score": 0.5998
+        "score": 0.5981
       },
       {
         "keyword": "electricity data",
-        "score": 0.5833
-      },
-      {
-        "keyword": "energy sector",
-        "score": 0.5498
+        "score": 0.5841
       },
       {
         "keyword": "ai data",
-        "score": 0.5474
+        "score": 0.5488
+      },
+      {
+        "keyword": "energy sector",
+        "score": 0.5456
       },
       {
         "keyword": "electricity demand",
-        "score": 0.5426
+        "score": 0.5422
       },
       {
         "keyword": "iea energy",
-        "score": 0.541
+        "score": 0.5374
       },
       {
         "keyword": "electricity consumption",
-        "score": 0.5308
+        "score": 0.5317
       },
       {
         "keyword": "energy industry",
-        "score": 0.5264
+        "score": 0.5227
       }
     ]
   },
   {
     "video_id": "lPM6EBTCzjY",
-    "text_length": 8446,
+    "text_length": 8375,
     "keyword_count": 10,
     "keywords": [
       {
@@ -1176,142 +1176,142 @@
   },
   {
     "video_id": "3VJT2JeDCyw",
-    "text_length": 980327,
+    "text_length": 946214,
     "keyword_count": 10,
     "keywords": [
       {
-        "keyword": "musk corporations",
-        "score": 0.5263
-      },
-      {
         "keyword": "musk politics",
-        "score": 0.5174
+        "score": 0.4948
       },
       {
-        "keyword": "funding musk",
-        "score": 0.5084
+        "keyword": "memphis capitalist",
+        "score": 0.4928
       },
       {
-        "keyword": "enron musk",
-        "score": 0.5025
+        "keyword": "musk corporations",
+        "score": 0.4893
       },
       {
-        "keyword": "billionaire musk",
-        "score": 0.4998
-      },
-      {
-        "keyword": "businesses musk",
-        "score": 0.4987
+        "keyword": "corporations memphis",
+        "score": 0.4858
       },
       {
         "keyword": "corrupt profiteering",
-        "score": 0.4969
+        "score": 0.4799
+      },
+      {
+        "keyword": "funding musk",
+        "score": 0.4792
+      },
+      {
+        "keyword": "musk power",
+        "score": 0.4769
       },
       {
         "keyword": "disaster musk",
-        "score": 0.4942
+        "score": 0.4758
       },
       {
-        "keyword": "musk agenda",
-        "score": 0.4914
+        "keyword": "power corrupts",
+        "score": 0.4715
       },
       {
-        "keyword": "musk impunity",
-        "score": 0.4898
+        "keyword": "corporate power",
+        "score": 0.4703
       }
     ]
   },
   {
     "video_id": "YN6BEUA4jNU",
-    "text_length": 539514,
+    "text_length": 526046,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "lobbying datacenter",
-        "score": 0.5886
-      },
-      {
-        "keyword": "pay datacenters",
-        "score": 0.5878
+        "score": 0.583
       },
       {
         "keyword": "untrue datacenters",
-        "score": 0.5805
+        "score": 0.5778
       },
       {
         "keyword": "datacenters profits",
-        "score": 0.5792
+        "score": 0.5775
+      },
+      {
+        "keyword": "pay datacenters",
+        "score": 0.5767
       },
       {
         "keyword": "paying datacenter",
-        "score": 0.5621
+        "score": 0.5516
       },
       {
         "keyword": "data pay",
-        "score": 0.5397
+        "score": 0.5329
+      },
+      {
+        "keyword": "data corporations",
+        "score": 0.5319
       },
       {
         "keyword": "employ datacenter",
-        "score": 0.5365
+        "score": 0.53
       },
       {
         "keyword": "harping datacenters",
-        "score": 0.5322
+        "score": 0.5291
       },
       {
         "keyword": "datacenters make",
-        "score": 0.5308
-      },
-      {
-        "keyword": "datacenters truly",
-        "score": 0.5244
+        "score": 0.5265
       }
     ]
   },
   {
     "video_id": "dhqoTku-HAA",
-    "text_length": 294786,
+    "text_length": 282164,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai datacentres",
-        "score": 0.678
+        "score": 0.6769
       },
       {
         "keyword": "ai datacenters",
-        "score": 0.6657
+        "score": 0.6659
       },
       {
         "keyword": "ai datacenter",
-        "score": 0.6474
+        "score": 0.6483
       },
       {
         "keyword": "rapidly datacenters",
-        "score": 0.6457
+        "score": 0.6454
       },
       {
         "keyword": "datacenters extremely",
-        "score": 0.6264
+        "score": 0.6297
       },
       {
         "keyword": "semianalysis datacenter",
-        "score": 0.6258
+        "score": 0.6269
       },
       {
         "keyword": "datacenters highly",
-        "score": 0.6199
+        "score": 0.6237
       },
       {
         "keyword": "datacenter critical",
-        "score": 0.6123
+        "score": 0.6172
       },
       {
         "keyword": "datacenters massive",
-        "score": 0.6109
+        "score": 0.6122
       },
       {
         "keyword": "giant datacenter",
-        "score": 0.5965
+        "score": 0.5977
       }
     ]
   },
@@ -1369,43 +1369,43 @@
     "keywords": [
       {
         "keyword": "data centers",
-        "score": 0.6042
+        "score": 0.6035
       },
       {
         "keyword": "electricity expensive",
-        "score": 0.5087
+        "score": 0.5068
       },
       {
         "keyword": "electricity costs",
-        "score": 0.4676
+        "score": 0.4696
       },
       {
         "keyword": "virginia electricity",
-        "score": 0.4442
+        "score": 0.4592
       },
       {
         "keyword": "electricity need",
-        "score": 0.4076
+        "score": 0.4061
       },
       {
         "keyword": "increased electricity",
-        "score": 0.3864
+        "score": 0.3845
       },
       {
         "keyword": "demand data",
-        "score": 0.381
+        "score": 0.3719
       },
       {
         "keyword": "government data",
-        "score": 0.3778
+        "score": 0.37
       },
       {
         "keyword": "angry data",
-        "score": 0.3742
+        "score": 0.3686
       },
       {
-        "keyword": "expensive government",
-        "score": 0.3623
+        "keyword": "hate data",
+        "score": 0.3544
       }
     ]
   },
@@ -1458,189 +1458,189 @@
   },
   {
     "video_id": "MJQIQJYxey4",
-    "text_length": 2124,
+    "text_length": 2123,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "power generated",
-        "score": 0.5189
+        "score": 0.5122
       },
       {
         "keyword": "generate power",
-        "score": 0.5023
+        "score": 0.499
       },
       {
         "keyword": "grid increasingly",
-        "score": 0.488
-      },
-      {
-        "keyword": "energy source",
-        "score": 0.4692
+        "score": 0.4788
       },
       {
         "keyword": "power draw",
-        "score": 0.4662
+        "score": 0.4638
+      },
+      {
+        "keyword": "energy source",
+        "score": 0.4574
       },
       {
         "keyword": "power aging",
-        "score": 0.4535
+        "score": 0.4519
       },
       {
         "keyword": "massive power",
-        "score": 0.4458
+        "score": 0.4434
       },
       {
         "keyword": "power needs",
-        "score": 0.438
+        "score": 0.4316
       },
       {
         "keyword": "aging grid",
-        "score": 0.4283
+        "score": 0.4214
       },
       {
-        "keyword": "energy",
-        "score": 0.4247
+        "keyword": "power",
+        "score": 0.4131
       }
     ]
   },
   {
     "video_id": "vnGC4YS36gU",
-    "text_length": 2173,
+    "text_length": 2172,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "nvidia chips",
-        "score": 0.5229
+        "score": 0.5208
       },
       {
         "keyword": "aws chips",
-        "score": 0.5201
+        "score": 0.5139
       },
       {
         "keyword": "powering openai",
-        "score": 0.4681
+        "score": 0.4656
       },
       {
         "keyword": "nvidia",
-        "score": 0.4464
+        "score": 0.4422
       },
       {
         "keyword": "million aws",
-        "score": 0.4312
+        "score": 0.4246
       },
       {
         "keyword": "aws trainium2",
-        "score": 0.4171
+        "score": 0.4153
       },
       {
         "keyword": "non nvidia",
-        "score": 0.406
-      },
-      {
-        "keyword": "cnbc amazon",
-        "score": 0.3888
+        "score": 0.4044
       },
       {
         "keyword": "trainium2 chips",
-        "score": 0.3882
+        "score": 0.3892
+      },
+      {
+        "keyword": "cnbc amazon",
+        "score": 0.3851
       },
       {
         "keyword": "exclusively aws",
-        "score": 0.3843
+        "score": 0.3794
       }
     ]
   },
   {
     "video_id": "sLEnn-sgpIk",
-    "text_length": 1656,
+    "text_length": 1648,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "construction talking",
-        "score": 0.5097
-      },
-      {
-        "keyword": "construction podcast",
-        "score": 0.4817
-      },
-      {
-        "keyword": "construction mental",
-        "score": 0.48
+        "score": 0.5013
       },
       {
         "keyword": "crisis construction",
-        "score": 0.48
+        "score": 0.4764
+      },
+      {
+        "keyword": "construction podcast",
+        "score": 0.4745
+      },
+      {
+        "keyword": "construction mental",
+        "score": 0.4712
       },
       {
         "keyword": "construction",
-        "score": 0.4757
-      },
-      {
-        "keyword": "construction creating",
-        "score": 0.4672
+        "score": 0.467
       },
       {
         "keyword": "data centres",
-        "score": 0.4634
+        "score": 0.4601
       },
       {
-        "keyword": "construction 06",
-        "score": 0.4515
+        "keyword": "construction creating",
+        "score": 0.4591
       },
       {
         "keyword": "data centre",
-        "score": 0.4509
+        "score": 0.4469
+      },
+      {
+        "keyword": "construction 06",
+        "score": 0.4449
       },
       {
         "keyword": "construction architecture",
-        "score": 0.4395
+        "score": 0.4322
       }
     ]
   },
   {
     "video_id": "gyYoCDc4pzQ",
-    "text_length": 181,
+    "text_length": 173,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai waste",
-        "score": 0.6242
-      },
-      {
-        "keyword": "destroy water",
-        "score": 0.5631
+        "score": 0.6629
       },
       {
         "keyword": "ai ai",
-        "score": 0.5568
+        "score": 0.5794
       },
       {
         "keyword": "techtok ai",
-        "score": 0.5449
+        "score": 0.5728
       },
       {
-        "keyword": "water destroy",
-        "score": 0.5432
+        "keyword": "destroy water",
+        "score": 0.5688
       },
       {
         "keyword": "ai",
-        "score": 0.5336
+        "score": 0.5626
       },
       {
         "keyword": "waste water",
-        "score": 0.5263
+        "score": 0.5506
+      },
+      {
+        "keyword": "water destroy",
+        "score": 0.5396
       },
       {
         "keyword": "water",
-        "score": 0.4218
+        "score": 0.4381
       },
       {
         "keyword": "water carterpcs",
-        "score": 0.4176
+        "score": 0.4191
       },
       {
         "keyword": "tech techtok",
-        "score": 0.3651
+        "score": 0.3852
       }
     ]
   },
@@ -1720,48 +1720,48 @@
   },
   {
     "video_id": "FEDpD5hNYyk",
-    "text_length": 1054,
+    "text_length": 981,
     "keyword_count": 10,
     "keywords": [
       {
-        "keyword": "electricity bubble",
-        "score": 0.4816
-      },
-      {
-        "keyword": "ai electricity",
-        "score": 0.4596
-      },
-      {
-        "keyword": "electricity",
-        "score": 0.3923
-      },
-      {
-        "keyword": "money power",
-        "score": 0.3642
-      },
-      {
-        "keyword": "smarter money",
-        "score": 0.3428
+        "keyword": "making investment",
+        "score": 0.462
       },
       {
         "keyword": "personal investment",
-        "score": 0.3364
+        "score": 0.4518
       },
       {
-        "keyword": "newsletter smarter",
-        "score": 0.329
+        "keyword": "ai electricity",
+        "score": 0.4454
       },
       {
-        "keyword": "business exploretheunfamiliar",
-        "score": 0.3253
+        "keyword": "electricity bubble",
+        "score": 0.4294
+      },
+      {
+        "keyword": "investment recommendations",
+        "score": 0.4179
+      },
+      {
+        "keyword": "investment",
+        "score": 0.4158
       },
       {
         "keyword": "financial advice",
-        "score": 0.3175
+        "score": 0.4006
       },
       {
-        "keyword": "sponsorship inquiries",
-        "score": 0.3154
+        "keyword": "intended investment",
+        "score": 0.396
+      },
+      {
+        "keyword": "investment legal",
+        "score": 0.3803
+      },
+      {
+        "keyword": "investment decisions",
+        "score": 0.3802
       }
     ]
   },
@@ -1772,43 +1772,43 @@
     "keywords": [
       {
         "keyword": "ai cloud",
-        "score": 0.5802
+        "score": 0.5775
       },
       {
         "keyword": "crypto ai",
-        "score": 0.4885
+        "score": 0.4834
       },
       {
         "keyword": "clean energy",
-        "score": 0.4657
+        "score": 0.4689
       },
       {
         "keyword": "cloud",
-        "score": 0.4546
+        "score": 0.4487
       },
       {
         "keyword": "cryptocurrency cloud",
-        "score": 0.4393
+        "score": 0.4352
       },
       {
         "keyword": "demands ai",
-        "score": 0.4348
+        "score": 0.4346
       },
       {
         "keyword": "ai boom",
-        "score": 0.4261
+        "score": 0.4257
       },
       {
         "keyword": "data centers",
-        "score": 0.4089
+        "score": 0.4094
       },
       {
         "keyword": "cloud storage",
-        "score": 0.3993
+        "score": 0.395
       },
       {
         "keyword": "ai",
-        "score": 0.3955
+        "score": 0.3927
       }
     ]
   },
@@ -1861,95 +1861,95 @@
   },
   {
     "video_id": "i3CA9osjYPo",
-    "text_length": 1496,
+    "text_length": 1493,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai facilities",
-        "score": 0.5159
-      },
-      {
-        "keyword": "tedtalks technology",
-        "score": 0.4593
+        "score": 0.5185
       },
       {
         "keyword": "smarter ai",
-        "score": 0.458
+        "score": 0.4583
+      },
+      {
+        "keyword": "tedtalks technology",
+        "score": 0.4576
       },
       {
         "keyword": "ai",
-        "score": 0.4462
+        "score": 0.4456
       },
       {
         "keyword": "computer scientist",
-        "score": 0.4344
-      },
-      {
-        "keyword": "ai data",
-        "score": 0.4266
+        "score": 0.4331
       },
       {
         "keyword": "centers computer",
-        "score": 0.4266
+        "score": 0.4285
       },
       {
         "keyword": "data centers",
-        "score": 0.4234
+        "score": 0.4252
       },
       {
-        "keyword": "ai crashing",
-        "score": 0.4218
+        "keyword": "ai data",
+        "score": 0.4247
       },
       {
         "keyword": "clean energy",
-        "score": 0.4202
+        "score": 0.4245
+      },
+      {
+        "keyword": "ai crashing",
+        "score": 0.4228
       }
     ]
   },
   {
     "video_id": "AN7c5S9k5L0",
-    "text_length": 891,
+    "text_length": 888,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai energy",
-        "score": 0.635
+        "score": 0.6369
       },
       {
         "keyword": "energy demand",
-        "score": 0.5721
+        "score": 0.5809
       },
       {
         "keyword": "future energy",
-        "score": 0.5719
+        "score": 0.5781
       },
       {
         "keyword": "china energy",
-        "score": 0.5544
+        "score": 0.5593
       },
       {
         "keyword": "production energy",
-        "score": 0.5074
+        "score": 0.5114
       },
       {
         "keyword": "demand ai",
-        "score": 0.4897
-      },
-      {
-        "keyword": "power production",
-        "score": 0.4884
+        "score": 0.4948
       },
       {
         "keyword": "energy supply",
-        "score": 0.4884
+        "score": 0.494
+      },
+      {
+        "keyword": "power production",
+        "score": 0.4887
+      },
+      {
+        "keyword": "ai innovation",
+        "score": 0.4856
       },
       {
         "keyword": "energy demands",
-        "score": 0.4827
-      },
-      {
-        "keyword": "energy power",
-        "score": 0.4819
+        "score": 0.4854
       }
     ]
   },
@@ -1960,137 +1960,137 @@
     "keywords": [
       {
         "keyword": "environmental impact",
-        "score": 0.5607
+        "score": 0.5477
       },
       {
         "keyword": "environmental effects",
-        "score": 0.5067
+        "score": 0.4934
       },
       {
         "keyword": "bring extinction",
-        "score": 0.4476
-      },
-      {
-        "keyword": "environmental",
-        "score": 0.4369
-      },
-      {
-        "keyword": "climate change",
-        "score": 0.427
-      },
-      {
-        "keyword": "extinction nuance",
-        "score": 0.4064
+        "score": 0.4303
       },
       {
         "keyword": "intelligence impact",
-        "score": 0.3995
+        "score": 0.4204
+      },
+      {
+        "keyword": "environmental",
+        "score": 0.4181
+      },
+      {
+        "keyword": "climate change",
+        "score": 0.4137
+      },
+      {
+        "keyword": "extinction nuance",
+        "score": 0.3942
       },
       {
         "keyword": "extinction",
-        "score": 0.3979
-      },
-      {
-        "keyword": "solve climate",
-        "score": 0.3688
+        "score": 0.3823
       },
       {
         "keyword": "price earth",
-        "score": 0.3634
+        "score": 0.3651
+      },
+      {
+        "keyword": "solve climate",
+        "score": 0.3595
       }
     ]
   },
   {
     "video_id": "3Yh9OddmgS0",
-    "text_length": 293,
+    "text_length": 290,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "data centers",
-        "score": 0.5592
-      },
-      {
-        "keyword": "ai",
-        "score": 0.5046
+        "score": 0.5698
       },
       {
         "keyword": "technology artificialintelligence",
-        "score": 0.4879
+        "score": 0.5157
+      },
+      {
+        "keyword": "ai",
+        "score": 0.5114
       },
       {
         "keyword": "work ai",
-        "score": 0.4776
-      },
-      {
-        "keyword": "ai driving",
-        "score": 0.4097
+        "score": 0.4845
       },
       {
         "keyword": "artificialintelligence",
-        "score": 0.4078
+        "score": 0.4285
+      },
+      {
+        "keyword": "ai driving",
+        "score": 0.421
       },
       {
         "keyword": "artificialintelligence news",
-        "score": 0.3935
-      },
-      {
-        "keyword": "growth",
-        "score": 0.3657
+        "score": 0.4165
       },
       {
         "keyword": "technology",
-        "score": 0.3551
+        "score": 0.3583
       },
       {
         "keyword": "centers operate",
-        "score": 0.333
+        "score": 0.3507
+      },
+      {
+        "keyword": "growth",
+        "score": 0.3448
       }
     ]
   },
   {
     "video_id": "Yyf21wz9VmY",
-    "text_length": 421,
+    "text_length": 418,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "ai water",
-        "score": 0.6566
+        "score": 0.6529
       },
       {
         "keyword": "ai",
-        "score": 0.5157
+        "score": 0.514
       },
       {
         "keyword": "concerned ai",
-        "score": 0.4976
+        "score": 0.4914
       },
       {
         "keyword": "chatgpt ai",
-        "score": 0.477
+        "score": 0.4706
       },
       {
         "keyword": "water usage",
-        "score": 0.4377
+        "score": 0.4385
       },
       {
         "keyword": "water use",
-        "score": 0.4202
-      },
-      {
-        "keyword": "equal water",
-        "score": 0.3956
+        "score": 0.4215
       },
       {
         "keyword": "language model",
-        "score": 0.3937
+        "score": 0.4039
+      },
+      {
+        "keyword": "equal water",
+        "score": 0.3948
       },
       {
         "keyword": "large language",
-        "score": 0.3363
+        "score": 0.3422
       },
       {
         "keyword": "language",
-        "score": 0.3223
+        "score": 0.33
       }
     ]
   },
@@ -2147,138 +2147,138 @@
     "keyword_count": 10,
     "keywords": [
       {
-        "keyword": "ai servers",
-        "score": 0.4876
-      },
-      {
-        "keyword": "cloud infrastructure",
-        "score": 0.4852
-      },
-      {
         "keyword": "growth ai",
-        "score": 0.4828
+        "score": 0.4877
       },
       {
         "keyword": "data centers",
-        "score": 0.4775
+        "score": 0.461
       },
       {
-        "keyword": "cloud",
-        "score": 0.4488
+        "keyword": "ai servers",
+        "score": 0.4582
       },
       {
         "keyword": "scientist ai",
-        "score": 0.4474
+        "score": 0.4532
+      },
+      {
+        "keyword": "cloud infrastructure",
+        "score": 0.4523
       },
       {
         "keyword": "green ai",
-        "score": 0.4465
-      },
-      {
-        "keyword": "data ai",
-        "score": 0.4419
+        "score": 0.4365
       },
       {
         "keyword": "ai data",
-        "score": 0.4372
+        "score": 0.4335
+      },
+      {
+        "keyword": "data ai",
+        "score": 0.4314
+      },
+      {
+        "keyword": "cloud",
+        "score": 0.4267
       },
       {
         "keyword": "digital growth",
-        "score": 0.4303
+        "score": 0.4227
       }
     ]
   },
   {
     "video_id": "LkHtqyEfgGw",
-    "text_length": 1027,
+    "text_length": 1014,
     "keyword_count": 10,
     "keywords": [
       {
         "keyword": "cbsnews",
-        "score": 0.542
+        "score": 0.5514
       },
       {
         "keyword": "free cbsnews",
-        "score": 0.5171
+        "score": 0.5297
       },
       {
         "keyword": "cbsnews com",
-        "score": 0.5141
-      },
-      {
-        "keyword": "watch cbs",
-        "score": 0.5022
+        "score": 0.5217
       },
       {
         "keyword": "cbs news",
-        "score": 0.5013
-      },
-      {
-        "keyword": "subscribe cbs",
-        "score": 0.4963
+        "score": 0.5104
       },
       {
         "keyword": "service cbs",
-        "score": 0.4951
+        "score": 0.5065
+      },
+      {
+        "keyword": "watch cbs",
+        "score": 0.5053
+      },
+      {
+        "keyword": "subscribe cbs",
+        "score": 0.5025
       },
       {
         "keyword": "follow cbs",
-        "score": 0.479
-      },
-      {
-        "keyword": "download cbs",
-        "score": 0.4483
+        "score": 0.4827
       },
       {
         "keyword": "streaming news",
-        "score": 0.4444
+        "score": 0.4751
+      },
+      {
+        "keyword": "download cbs",
+        "score": 0.4566
       }
     ]
   },
   {
     "video_id": "gg_kTRgh5Jo",
-    "text_length": 672,
+    "text_length": 670,
     "keyword_count": 10,
     "keywords": [
       {
-        "keyword": "energy footprint",
-        "score": 0.6163
+        "keyword": "ai energy",
+        "score": 0.6125
       },
       {
-        "keyword": "ai energy",
-        "score": 0.6032
+        "keyword": "energy footprint",
+        "score": 0.5936
       },
       {
         "keyword": "energy ai",
-        "score": 0.5704
+        "score": 0.5684
       },
       {
         "keyword": "climatechange ai",
-        "score": 0.5536
-      },
-      {
-        "keyword": "carbon footprint",
-        "score": 0.5481
-      },
-      {
-        "keyword": "ai climatechange",
-        "score": 0.5241
-      },
-      {
-        "keyword": "energy future",
-        "score": 0.4932
+        "score": 0.5317
       },
       {
         "keyword": "ai industry",
-        "score": 0.4828
+        "score": 0.5069
       },
       {
-        "keyword": "chatbots",
-        "score": 0.4388
+        "keyword": "carbon footprint",
+        "score": 0.5037
       },
       {
-        "keyword": "turn chatbots",
-        "score": 0.4357
+        "keyword": "ai climatechange",
+        "score": 0.5025
+      },
+      {
+        "keyword": "energy future",
+        "score": 0.4691
+      },
+      {
+        "keyword": "learn ai",
+        "score": 0.4508
+      },
+      {
+        "keyword": "heard ai",
+        "score": 0.4363
       }
     ]
   },
