@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS documents (
 
     metadata TEXT,                 -- JSON string for flexible attributes
 
-    embedding BLOB                 -- vector embedding (stored as binary or serialized list)
+    embedding TEXT                 -- vector embedding (stored as text)
 );
 
 ------------------------------------------------------------
