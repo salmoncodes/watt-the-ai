@@ -7,8 +7,6 @@ This module handles:
 - Loading processed JSON files
 - Mapping them into relational tables
 - Inserting data into structured SQLite DB
-
-Used as the final step of the structured data pipeline.
 """
 
 import sqlite3
