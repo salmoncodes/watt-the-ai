@@ -91,7 +91,6 @@ def fetch_arxiv(query: str, max_results: int, pause: float) -> list[dict]:
                 "doi": "",
                 "url": arxiv_id,
                 "venue": "arXiv",
-                "text_for_rag": f"{title}. {abstract}".strip(),
             }
         )
 
@@ -157,7 +156,6 @@ def fetch_openalex(
                 "doi": item.get("doi", ""),
                 "url": item.get("id", ""),
                 "venue": source.get("display_name", ""),
-                "text_for_rag": f"{title}. {abstract}".strip(),
             }
         )
 
@@ -210,7 +208,6 @@ def fetch_crossref(query: str, max_results: int, mailto: Optional[str], pause: f
                 "doi": item.get("DOI", ""),
                 "url": item.get("URL", ""),
                 "venue": (item.get("container-title") or [""])[0],
-                "text_for_rag": f"{title}. {abstract}".strip(),
             }
         )
 
