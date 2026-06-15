@@ -27,17 +27,25 @@ def main():
     print("Starting YouTube NLP Preprocessing")
     print("======================================\n")
 
-    print("[1/3] Processing comments...")
+    print("[1/5] Processing comments...")
     preprocess_comments()
     print("Comments complete.\n")
 
-    print("[2/3] Processing transcripts...")
+    print("[2/5] Processing transcripts...")
     preprocess_transcripts()
     print("Transcripts complete.\n")
 
-    print("[3/3] Processing metadata...")
+    print("[3/5] Processing metadata...")
     preprocess_metadata()
     print("Metadata complete.\n")
+
+    print("[4/5] Processing hackernews...")
+    preprocess_hackernews()
+    print("hackernews complete.\n")
+
+    print("[5/5] Processing research...")
+    preprocess_research_sources()
+    print("research complete.\n")
 
     print("======================================")
     print("All preprocessing completed successfully")
