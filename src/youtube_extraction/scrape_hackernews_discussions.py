@@ -66,8 +66,7 @@ def fetch_hn_hits(query: str, pages: int, hits_per_page: int, pause: float) -> l
                     "url": hit.get("url") or hit.get("story_url") or "",
                     "points": hit.get("points"),
                     "num_comments": hit.get("num_comments"),
-                    "text_original": text,
-                    "text_for_sentiment": text,
+                    "text": text,
                 }
             )
 
