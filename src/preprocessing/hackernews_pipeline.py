@@ -30,21 +30,25 @@ def preprocess_hackernews():
     processed = []
 
     for record in records:
-        text = record.get("text_original") or record.get("text_for_sentiment", "")
-        if not text:
+
+        text_original = record.get("text", "")
+
+        if not text_original:
             continue
-        text = normalize_unicode(text)
+
+        text = normalize_unicode(text_original)
         text = remove_noise(text)
         text = convert_emojis(text)
         text = normalize_slang(text)
         text = normalize_text(text)
-        text = remove_punctuation(text)
-        text = filter_language(text)
-        if text is None:
+
+        if filter_language(text) is None:
             continue
 
         if is_spam(text):
             continue
+
+        text_clean = text
 
         processed.append({
             "source": "hackernews",
@@ -54,9 +58,8 @@ def preprocess_hackernews():
             "author": record.get("author", ""),
             "title": record.get("title", ""),
             "url": record.get("url", ""),
-            "text_original": record.get("text_original", ""),
-            "text_clean": text,
-            "text_topic": text_topic,
+            "text_original": text_original,
+            "text_clean": text_clean,
             "points": record.get("points"),
             "num_comments": record.get("num_comments"),
             "created_at": record.get("created_at", ""),
@@ -65,6 +68,7 @@ def preprocess_hackernews():
 
     processed = deduplicate(processed, ["record_id"])
     save_json(OUTPUT_FILE, processed)
+
     print(f"Processed {len(processed):,} Hacker News records")
 
 
