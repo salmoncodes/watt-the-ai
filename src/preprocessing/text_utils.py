@@ -30,7 +30,7 @@ from pathlib import Path
 # Additional entries can be added as needed.
 
 def load_slang_map():
-    csv_path = Path(__file__).parent
+    csv_path = Path(__file__).parent / "acrynom.csv"
     slang_map = {}
     with open(csv_path, "r", encoding="utf-8") as file:
         reader = csv.DictReader(file)
