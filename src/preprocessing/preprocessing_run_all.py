@@ -19,6 +19,8 @@ into clean, structured datasets ready for:
 from comments_pipeline import preprocess_comments
 from transcripts_pipeline import preprocess_transcripts
 from metadata_pipeline import preprocess_metadata
+from hackernews_pipeline import preprocess_hackernews
+from research_pipeline import preprocess_research_sources
 
 
 def main():
