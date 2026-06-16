@@ -9,7 +9,6 @@ Input:
 Output:
     data/preprocessing/clean_research_sources.json
 """
-
 from pathlib import Path
 from text_utils import *
 
@@ -39,15 +38,16 @@ def preprocess_research_sources():
     processed = []
 
     for record in records:
-        abstract = record.get("text_for_rag") or record.get("abstract", "")
+
+        abstract = record.get("abstract", "")
         title = record.get("title", "")
+
         combined_text = f"{title}. {abstract}".strip()
+
         if not combined_text:
             continue
 
-        abstract_clean = clean_research_text(abstract) if abstract else ""
         text_clean = clean_research_text(combined_text)
-        text_topic = remove_emoji_analysis_noise(text_clean)
 
         if is_spam(text_clean):
             continue
@@ -59,11 +59,10 @@ def preprocess_research_sources():
             "doi": record.get("doi", ""),
             "title": title,
             "title_clean": clean_research_text(title) if title else "",
-            "abstract": record.get("abstract", ""),
+            "abstract": abstract,
             "text_original": combined_text,
             "text_clean": text_clean,
-            "text_topic": text_topic,
-            "text_for_rag": abstract_clean or text_clean,
+            "text_for_rag": clean_research_text(abstract) if abstract else text_clean,
             "authors": record.get("authors", []),
             "published_at": record.get("published_at", ""),
             "updated_at": record.get("updated_at", ""),
@@ -73,6 +72,7 @@ def preprocess_research_sources():
 
     processed = deduplicate(processed, ["record_id", "doi", "title"])
     save_json(OUTPUT_FILE, processed)
+
     print(f"Processed {len(processed):,} research source records")
 
 
