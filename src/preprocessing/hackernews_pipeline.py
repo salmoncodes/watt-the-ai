@@ -31,7 +31,7 @@ def preprocess_hackernews():
 
     for record in records:
 
-        text_original = record.get("text", "")
+        text_original = record.get("text_original") or record.get("text_for_sentiment") or record.get("text", "")
 
         if not text_original:
             continue

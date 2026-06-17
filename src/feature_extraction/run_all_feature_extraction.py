@@ -1,24 +1,9 @@
 """
 run_all_feature_extraction.py
 
-Master execution script for the Feature Extraction layer.
+Runs the feature extraction files.
 
-This file runs all feature extraction modules in sequence:
-1. Sentiment Analysis
-2. Named Entity Recognition (NER)
-3. Keyword Extraction
-4. Topic Modeling
-
-This ensures that all processed data is enriched with:
-- sentiment signals
-- entities
-- keywords
-- topic assignments
-
-Output is used for:
-- RAG indexing
-- analytics dashboard
-- MLflow evaluation
+It runs YouTube, Hacker News, and research feature extraction.
 """
 
 from extraction_youtube.sentiment_analysis import run_sentiment_analysis
@@ -31,12 +16,12 @@ from extraction_hackernews.sentiment_analysis_hackernews import run_sentiment_an
 from extraction_hackernews.ner_extraction_hackernews import run_ner_extraction_hackernews
 from extraction_hackernews.keyword_extraction_hackernews import run_keyword_extraction_hackernews
 from extraction_hackernews.topic_modeling_hackernews import run_topic_modeling_hackernews
-from extraction_youtube.relation_extraction_hackernews import run_relation_extraction_hackernews
+from extraction_hackernews.relation_extraction_hackernews import run_relation_extraction_hackernews
 
 from extraction_research.ner_extraction_research import run_ner_extraction_research
 from extraction_research.keyword_extraction_research import run_keyword_extraction_research
 from extraction_research.topic_modeling_research import run_topic_modeling_research
-from extraction_youtube.relation_extraction_research import run_relation_extraction_research
+from extraction_research.relation_extraction_research import run_relation_extraction_research
 
 def main():
 
