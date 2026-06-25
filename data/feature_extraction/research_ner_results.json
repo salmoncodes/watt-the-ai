@@ -1,0 +1,4033 @@
+[
+  {
+    "record_id": "https://openalex.org/W3000603264",
+    "doi": "https://doi.org/10.1038/s41467-019-14108-y",
+    "title": "The role of artificial intelligence in achieving the Sustainable Development Goals",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "134",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "59",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2969625533",
+    "doi": "https://doi.org/10.1016/j.ijinfomgt.2019.08.002",
+    "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "decades",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4399379480",
+    "doi": "https://doi.org/10.1016/j.compag.2024.109126",
+    "title": "Artificial intelligence to optimize water consumption in agriculture: A predictive algorithm-based irrigation management system",
+    "entity_count": 9,
+    "entities": [
+      {
+        "text": "the united nations",
+        "label": "ORG"
+      },
+      {
+        "text": "only about 31 percent",
+        "label": "PERCENT"
+      },
+      {
+        "text": "40",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "threeday",
+        "label": "DATE"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "nearly 99",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "up to",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "27",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "57",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4319304408",
+    "doi": "https://doi.org/10.1016/j.nbt.2023.02.001",
+    "title": "AI for life: Trends in artificial intelligence for biotechnology",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "today",
+        "label": "DATE"
+      },
+      {
+        "text": "today",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4395462356",
+    "doi": "https://doi.org/10.1007/s11269-024-03823-x",
+    "title": "Artificial Intelligence for Water Consumption Assessment: State of the Art Review",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "recent decades",
+        "label": "DATE"
+      },
+      {
+        "text": "229",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4362663195",
+    "doi": "https://doi.org/10.1016/j.cogr.2023.04.001",
+    "title": "Artificial intelligence, machine learning and deep learning in advanced robotics, a review",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "recent years",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2767568774",
+    "doi": "https://doi.org/10.3386/w24001",
+    "title": "Artificial Intelligence and the Modern Productivity Paradox: A Clash of Expectations and Statistics",
+    "entity_count": 5,
+    "entities": [
+      {
+        "text": "half",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "the past decade",
+        "label": "DATE"
+      },
+      {
+        "text": "the late 1990s",
+        "label": "DATE"
+      },
+      {
+        "text": "americans",
+        "label": "NORP"
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4283392904",
+    "doi": "https://doi.org/10.1016/j.autcon.2022.104440",
+    "title": "Artificial intelligence and smart vision for building and construction 4.0: Machine and deep learning methods and applications",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "40",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "40",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4288391568",
+    "doi": "https://doi.org/10.1109/tai.2022.3194503",
+    "title": "An Overview of Artificial Intelligence Ethics",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W3199397800",
+    "doi": "https://doi.org/10.1016/j.techsoc.2021.101741",
+    "title": "Artificial intelligence, systemic risks, and sustainability",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "today",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4382182093",
+    "doi": "https://doi.org/10.1007/s10311-023-01604-3",
+    "title": "Artificial intelligence for waste management in smart cities: a review",
+    "entity_count": 4,
+    "entities": [
+      {
+        "text": "368",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1335",
+        "label": "DATE"
+      },
+      {
+        "text": "2822",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "728",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W3155159764",
+    "doi": "https://doi.org/10.3390/su13084259",
+    "title": "Modelling and Prediction of Water Quality by Using Artificial Intelligence",
+    "entity_count": 5,
+    "entities": [
+      {
+        "text": "eight",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "100",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "9617",
+        "label": "DATE"
+      },
+      {
+        "text": "100",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W3034272367",
+    "doi": "https://doi.org/10.1016/j.rser.2020.109899",
+    "title": "Artificial intelligence and machine learning approaches to energy demand-side response: A systematic review",
+    "entity_count": 4,
+    "entities": [
+      {
+        "text": "recent years",
+        "label": "DATE"
+      },
+      {
+        "text": "over 160",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "40",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "21",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4313527987",
+    "doi": "https://doi.org/10.1080/10447318.2022.2153320",
+    "title": "Six Human-Centered Artificial Intelligence Grand Challenges",
+    "entity_count": 9,
+    "entities": [
+      {
+        "text": "six",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "26",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4386285839",
+    "doi": "https://doi.org/10.3390/admsci13090196",
+    "title": "Managing the Strategic Transformation of Higher Education through Artificial Intelligence",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "the smart university",
+        "label": "ORG"
+      },
+      {
+        "text": "aidriven",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.5220/0010834900003116",
+    "doi": "10.5220/0010834900003116",
+    "title": "Water Consumption Demand Pattern Analysis using Uncertain Smart Water Meter Data",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.24232/jmd.1668600",
+    "doi": "10.24232/jmd.1668600",
+    "title": "Artificial Intelligence in Water Consumption Forecasting: A Systematic Review",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "between 2019 and 2024",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "10.21275/sr24203193927",
+    "doi": "10.21275/sr24203193927",
+    "title": "Use of Artificial Intelligence in Optimizing HVAC Energy Consumption",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.21203/rs.3.rs-851484/v1",
+    "doi": "10.21203/rs.3.rs-851484/v1",
+    "title": "Analysis of the Change of Artificial Intelligence to Online Consumption Patterns and Consumption Concepts",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.3390/w16131793",
+    "doi": "10.3390/w16131793",
+    "title": "Predicting Urban Water Consumption and Health Using Artificial Intelligence Techniques in Tanganyika Lake, East Africa",
+    "entity_count": 10,
+    "entities": [
+      {
+        "text": "lake east africa",
+        "label": "LOC"
+      },
+      {
+        "text": "the past few decades",
+        "label": "DATE"
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "9989",
+        "label": "DATE"
+      },
+      {
+        "text": "r2",
+        "label": "PERSON"
+      },
+      {
+        "text": "081",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "078",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0759",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "10.1007/978-3-319-40195-9_22",
+    "doi": "10.1007/978-3-319-40195-9_22",
+    "title": "Urban Water Consumption Estimation Using Artificial Intelligence Techniques",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.70675/38d5f724z5ccez47f1za23cz47af02dee1f2",
+    "doi": "10.70675/38d5f724z5ccez47f1za23cz47af02dee1f2",
+    "title": "Artificial intelligence models for large scale buildings energy consumption analysis",
+    "entity_count": 29,
+    "entities": [
+      {
+        "text": "pour analyse énergétique des bâtiments de la consommation la performance énergétique",
+        "label": "PERSON"
+      },
+      {
+        "text": "dans",
+        "label": "NORP"
+      },
+      {
+        "text": "par de",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "la structure",
+        "label": "FAC"
+      },
+      {
+        "text": "comme",
+        "label": "PERSON"
+      },
+      {
+        "text": "de la consommation énergétique",
+        "label": "ORG"
+      },
+      {
+        "text": "sur la mise à",
+        "label": "ORG"
+      },
+      {
+        "text": "d'intelligence artificielle",
+        "label": "ORG"
+      },
+      {
+        "text": "d'abord",
+        "label": "ORG"
+      },
+      {
+        "text": "compris",
+        "label": "PERSON"
+      },
+      {
+        "text": "d'ingénierie",
+        "label": "PERSON"
+      },
+      {
+        "text": "vecteur de la",
+        "label": "ORG"
+      },
+      {
+        "text": "la robustesse de ces",
+        "label": "FAC"
+      },
+      {
+        "text": "par l'introduction manuelle",
+        "label": "ORG"
+      },
+      {
+        "text": "dans",
+        "label": "NORP"
+      },
+      {
+        "text": "la capacité de détection",
+        "label": "PERSON"
+      },
+      {
+        "text": "de la faisabilité de l'obtention eux et sur",
+        "label": "ORG"
+      },
+      {
+        "text": "dans",
+        "label": "NORP"
+      },
+      {
+        "text": "expérimentaux confirmer",
+        "label": "PERSON"
+      },
+      {
+        "text": "validité de l'ensemble",
+        "label": "PERSON"
+      },
+      {
+        "text": "de la consommation énergétique",
+        "label": "ORG"
+      },
+      {
+        "text": "d'accélérer la prédiction de",
+        "label": "ORG"
+      },
+      {
+        "text": "parallèle de support",
+        "label": "ORG"
+      },
+      {
+        "text": "sur la",
+        "label": "ORG"
+      },
+      {
+        "text": "résoudre de tels problèmes la",
+        "label": "PERSON"
+      },
+      {
+        "text": "sont traitées par solveur d'optimisation",
+        "label": "ORG"
+      },
+      {
+        "text": "par la version de mémoire",
+        "label": "ORG"
+      },
+      {
+        "text": "expérimentaux montrent",
+        "label": "PERSON"
+      },
+      {
+        "text": "de la vitesse élevée par",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "record_id": "10.70675/375e59d6z5ae2z422cz9673z43d7d3b9b5b1",
+    "doi": "10.70675/375e59d6z5ae2z422cz9673z43d7d3b9b5b1",
+    "title": "Optimisation of Energy Consumption of Data Center using Artificial Intelligence",
+    "entity_count": 19,
+    "entities": [
+      {
+        "text": "de la consommation d'énergie dans les data center",
+        "label": "ORG"
+      },
+      {
+        "text": "une méthode d'intelligence artificielle",
+        "label": "ORG"
+      },
+      {
+        "text": "diminuer l'énergie",
+        "label": "PERSON"
+      },
+      {
+        "text": "dans",
+        "label": "NORP"
+      },
+      {
+        "text": "un",
+        "label": "ORG"
+      },
+      {
+        "text": "de la recherche",
+        "label": "ORG"
+      },
+      {
+        "text": "être appliquées à des cas",
+        "label": "PERSON"
+      },
+      {
+        "text": "de la",
+        "label": "PERSON"
+      },
+      {
+        "text": "dans",
+        "label": "NORP"
+      },
+      {
+        "text": "dans la",
+        "label": "ORG"
+      },
+      {
+        "text": "de la",
+        "label": "PERSON"
+      },
+      {
+        "text": "dans la modélisation et",
+        "label": "ORG"
+      },
+      {
+        "text": "lorsqu'une",
+        "label": "PERSON"
+      },
+      {
+        "text": "dans",
+        "label": "NORP"
+      },
+      {
+        "text": "de la",
+        "label": "PERSON"
+      },
+      {
+        "text": "modèle à la",
+        "label": "ORG"
+      },
+      {
+        "text": "un",
+        "label": "ORG"
+      },
+      {
+        "text": "dans",
+        "label": "NORP"
+      },
+      {
+        "text": "dans",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "record_id": "10.1016/j.engappai.2019.103323",
+    "doi": "10.1016/j.engappai.2019.103323",
+    "title": "Short-term natural gas consumption prediction based on Volterra adaptive filter and improved whale optimization algorithm",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1016/j.engappai.2021.104502",
+    "doi": "10.1016/j.engappai.2021.104502",
+    "title": "Natural gas consumption behavior of companies by clustering analysis",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1201/9781003547099-16",
+    "doi": "10.1201/9781003547099-16",
+    "title": "Artificial Intelligence and Water Conservation",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1007/s11269-024-03823-x",
+    "doi": "10.1007/s11269-024-03823-x",
+    "title": "Artificial Intelligence for Water Consumption Assessment: State of the Art Review",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "recent decades",
+        "label": "DATE"
+      },
+      {
+        "text": "229",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.3390/app112110167",
+    "doi": "10.3390/app112110167",
+    "title": "Analysis of Water Consumption in Fruit and Vegetable Processing Plants with the Use of Artificial Intelligence",
+    "entity_count": 3,
+    "entities": [
+      {
+        "text": "poland",
+        "label": "GPE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.59934/jaiea.v5i1.1275",
+    "doi": "10.59934/jaiea.v5i1.1275",
+    "title": "Application of IoT in Measuring Consumption Water Quality in Water Sources",
+    "entity_count": 5,
+    "entities": [
+      {
+        "text": "tanambanas village",
+        "label": "GPE"
+      },
+      {
+        "text": "mamdani",
+        "label": "PERSON"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "20x4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "10.1109/aiotc63215.2024.10748289",
+    "doi": "10.1109/aiotc63215.2024.10748289",
+    "title": "Analysis of the Impact of Artificial Intelligence on Electricity Consumption",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W2736578080",
+    "doi": "https://doi.org/10.2172/1372902",
+    "title": "United States Data Center Energy Usage Report",
+    "entity_count": 19,
+    "entities": [
+      {
+        "text": "united states",
+        "label": "ORG"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2020",
+        "label": "DATE"
+      },
+      {
+        "text": "202020",
+        "label": "DATE"
+      },
+      {
+        "text": "2014",
+        "label": "DATE"
+      },
+      {
+        "text": "us",
+        "label": "GPE"
+      },
+      {
+        "text": "an estimated 70 billion",
+        "label": "MONEY"
+      },
+      {
+        "text": "about 18",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "about 4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "20102014",
+        "label": "DATE"
+      },
+      {
+        "text": "24 percent",
+        "label": "PERCENT"
+      },
+      {
+        "text": "20052010",
+        "label": "DATE"
+      },
+      {
+        "text": "nearly 90",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "202005",
+        "label": "DATE"
+      },
+      {
+        "text": "4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "20142020",
+        "label": "DATE"
+      },
+      {
+        "text": "the past five years",
+        "label": "DATE"
+      },
+      {
+        "text": "approximately 73 billion kwh",
+        "label": "MONEY"
+      },
+      {
+        "text": "2020",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2123673345",
+    "doi": "https://doi.org/10.3133/ofr200092",
+    "title": "MODFLOW-2000, The U.S. Geological Survey modular ground-water model: User guide to modularization concepts and the ground-water flow process",
+    "entity_count": 5,
+    "entities": [
+      {
+        "text": "modflow20",
+        "label": "DATE"
+      },
+      {
+        "text": "us",
+        "label": "GPE"
+      },
+      {
+        "text": "us",
+        "label": "GPE"
+      },
+      {
+        "text": "modflow20",
+        "label": "PERSON"
+      },
+      {
+        "text": "us",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W3136117146",
+    "doi": "https://doi.org/10.1016/j.apenergy.2021.116798",
+    "title": "Usage impact on data center electricity needs: A system dynamic forecasting model",
+    "entity_count": 21,
+    "entities": [
+      {
+        "text": "286",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      },
+      {
+        "text": "about 321",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2030",
+        "label": "DATE"
+      },
+      {
+        "text": "about 658",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2030",
+        "label": "DATE"
+      },
+      {
+        "text": "about 115",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      },
+      {
+        "text": "186",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2030",
+        "label": "DATE"
+      },
+      {
+        "text": "about 364",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "about 103",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2030",
+        "label": "DATE"
+      },
+      {
+        "text": "up to",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "752",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2030",
+        "label": "DATE"
+      },
+      {
+        "text": "about 213",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "95",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "343",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1031",
+        "label": "DATE"
+      },
+      {
+        "text": "twh",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4393353064",
+    "doi": "https://doi.org/10.3390/bioengineering11040337",
+    "title": "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the 21st Century",
+    "entity_count": 3,
+    "entities": [
+      {
+        "text": "the 21st century",
+        "label": "DATE"
+      },
+      {
+        "text": "clinicians",
+        "label": "NORP"
+      },
+      {
+        "text": "aidriven",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4381848566",
+    "doi": "https://doi.org/10.1016/j.inffus.2023.101896",
+    "title": "Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation",
+    "entity_count": 6,
+    "entities": [
+      {
+        "text": "seven",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "seven",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W3189663779",
+    "doi": "https://doi.org/10.1109/access.2021.3102227",
+    "title": "Big Data and AI Revolution in Precision Agriculture: Survey and Challenges",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W4306292106",
+    "doi": "https://doi.org/10.1007/s10462-022-10286-2",
+    "title": "AI-big data analytics for building automation and management systems: a survey, actual challenges and future perspectives",
+    "entity_count": 3,
+    "entities": [
+      {
+        "text": "first",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4322761281",
+    "doi": "https://doi.org/10.1016/j.iotcps.2023.02.004",
+    "title": "Edge AI: A survey",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W2899363336",
+    "doi": "https://doi.org/10.1029/2017wr022437",
+    "title": "Satellite Remote Sensing for Water Resources Management: Potential for Supporting Sustainable Development in Data‐Poor Regions",
+    "entity_count": 5,
+    "entities": [
+      {
+        "text": "the past decade",
+        "label": "DATE"
+      },
+      {
+        "text": "latin american",
+        "label": "NORP"
+      },
+      {
+        "text": "caribbean",
+        "label": "LOC"
+      },
+      {
+        "text": "latin american",
+        "label": "NORP"
+      },
+      {
+        "text": "caribbean",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4362707075",
+    "doi": "https://doi.org/10.48550/arxiv.2304.03271",
+    "title": "Making AI Less \"Thirsty\": Uncovering and Addressing the Secret Water Footprint of AI Models",
+    "entity_count": 7,
+    "entities": [
+      {
+        "text": "gpt3",
+        "label": "ORG"
+      },
+      {
+        "text": "microsoft",
+        "label": "ORG"
+      },
+      {
+        "text": "7000",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4266 billion cubic meters",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "2027",
+        "label": "DATE"
+      },
+      {
+        "text": "46",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "half",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4293770403",
+    "doi": "https://doi.org/10.1007/s10586-022-03713-0",
+    "title": "Energy efficiency in cloud computing data centers: a survey on software technologies",
+    "entity_count": 5,
+    "entities": [
+      {
+        "text": "2006",
+        "label": "DATE"
+      },
+      {
+        "text": "200",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2016",
+        "label": "DATE"
+      },
+      {
+        "text": "2967",
+        "label": "DATE"
+      },
+      {
+        "text": "2030",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4323655724",
+    "doi": "https://doi.org/10.1016/j.lindif.2023.102274",
+    "title": "ChatGPT for good? On opportunities and challenges of large language models for education",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W3047335959",
+    "doi": "https://doi.org/10.2166/wst.2020.369",
+    "title": "A comprehensive review of deep learning applications in hydrology and water resources",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "175",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2025",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4383737134",
+    "doi": "https://doi.org/10.36227/techrxiv.23589741.v1",
+    "title": "A Survey on Large Language Models: Applications, Challenges, Limitations, and Practical Usage",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.31219/osf.io/hvxf5",
+    "doi": "10.31219/osf.io/hvxf5",
+    "title": "Grounding AI Policy: Towards Researcher Access to AI Usage Data",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.1145/3570991.3571021",
+    "doi": "10.1145/3570991.3571021",
+    "title": "Promoting Sustainable Water Usage and Management With Water Data, AI and Policy",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1515/9781501522635-008",
+    "doi": "10.1515/9781501522635-008",
+    "title": "Chapter 7: Ethical Data Usage and Minimization",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "chapter 7",
+        "label": "LAW"
+      }
+    ]
+  },
+  {
+    "record_id": "10.1109/sieds69358.2026.11540139",
+    "doi": "10.1109/sieds69358.2026.11540139",
+    "title": "Water Usage in Data Center Infrastructures: A Multidimensional Framework Ethical Analysis",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1063/10.0043573",
+    "doi": "10.1063/10.0043573",
+    "title": "Reducing data center energy usage",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.21275/sr241120062602",
+    "doi": "10.21275/sr241120062602",
+    "title": "Synthetic Test Data Preparation using Generative AI &amp; Usage in Secured Healthcare Practice",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2172/1471661",
+    "doi": "10.2172/1471661",
+    "title": "Thermosyphon Cooler Hybrid System for Water Savings in an Energy-Efficient HPC Data Center: Results from 24 Months and the Impact on Water Usage Effectiveness",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "24 months",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "10.3403/30432704",
+    "doi": "10.3403/30432704",
+    "title": "Information technology - Data centre facilities and infrastructures.",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.3403/30432704u",
+    "doi": "10.3403/30432704u",
+    "title": "Information technology - Data centre facilities and infrastructures.",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.3403/30396765u",
+    "doi": "10.3403/30396765u",
+    "title": "Information technology - Data centres key performance indicators",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.3403/30396765",
+    "doi": "10.3403/30396765",
+    "title": "Information technology - Data centres key performance indicators",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1109/iccbd-ai62252.2023.00046",
+    "doi": "10.1109/iccbd-ai62252.2023.00046",
+    "title": "Clustering Analysis of Water Usage Structures Based on Knowledge Graph",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.21428/ae6a44a6.52f495bc",
+    "doi": "10.21428/ae6a44a6.52f495bc",
+    "title": "An Update on punctum books Usage Data: Interoperability, Interpretability, and AI",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2139/ssrn.6671278",
+    "doi": "10.2139/ssrn.6671278",
+    "title": "Sustainability of AI Infrastructure and Knowledge Management and Monitoring: Investigating the Energy-Water Nexus of Data Center Buildouts in Asia and Pacific Island Countries",
+    "entity_count": 3,
+    "entities": [
+      {
+        "text": "asia",
+        "label": "LOC"
+      },
+      {
+        "text": "pacific island",
+        "label": "LOC"
+      },
+      {
+        "text": "pacific island",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "record_id": "10.51202/9783181024331-331",
+    "doi": "10.51202/9783181024331-331",
+    "title": "Quality Improvement through AI-based Usage of Production and Field Data Analysis",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W4389359039",
+    "doi": "https://doi.org/10.1007/s12525-023-00680-1",
+    "title": "Generative artificial intelligence",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W4383913712",
+    "doi": "https://doi.org/10.1111/1748-8583.12524",
+    "title": "Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W4401509761",
+    "doi": "https://doi.org/10.3390/informatics11030058",
+    "title": "Ethical Challenges and Solutions of Generative AI: An Interdisciplinary Perspective",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "37",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "democratic",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4379416244",
+    "doi": "https://doi.org/10.1108/ijchm-05-2023-0686",
+    "title": "Leveraging ChatGPT and other generative artificial intelligence (AI)-based applications in the hospitality and tourism industry: practices, challenges and research agenda",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W2907683311",
+    "doi": "https://doi.org/10.1109/access.2018.2890507",
+    "title": "Blockchain for AI: Review and Open Research Challenges",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4322153971",
+    "doi": "https://doi.org/10.1016/j.suscom.2023.100857",
+    "title": "Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning",
+    "entity_count": 3,
+    "entities": [
+      {
+        "text": "first",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two year later",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4360612111",
+    "doi": "https://doi.org/10.1007/s10311-023-01591-5",
+    "title": "Strategies to save energy in the context of the energy crisis: a review",
+    "entity_count": 15,
+    "entities": [
+      {
+        "text": "2019",
+        "label": "DATE"
+      },
+      {
+        "text": "russian",
+        "label": "NORP"
+      },
+      {
+        "text": "germany",
+        "label": "GPE"
+      },
+      {
+        "text": "100",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2050",
+        "label": "DATE"
+      },
+      {
+        "text": "china",
+        "label": "GPE"
+      },
+      {
+        "text": "2020",
+        "label": "DATE"
+      },
+      {
+        "text": "3001",
+        "label": "DATE"
+      },
+      {
+        "text": "2618",
+        "label": "DATE"
+      },
+      {
+        "text": "2208",
+        "label": "DATE"
+      },
+      {
+        "text": "1040",
+        "label": "DATE"
+      },
+      {
+        "text": "75",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "33",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "530",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "18974260",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4389834551",
+    "doi": "https://doi.org/10.1016/j.procir.2024.01.098",
+    "title": "Estimating the environmental impact of Generative-AI services using an LCA-based methodology",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W4388409187",
+    "doi": "https://doi.org/10.1007/s42438-023-00440-6",
+    "title": "Generative AI and the Automating of Academia",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "uk",
+        "label": "GPE"
+      },
+      {
+        "text": "284",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4220962633",
+    "doi": "https://doi.org/10.1145/3490099.3511119",
+    "title": "Investigating Explainability of Generative AI for Code through Scenario-based Design",
+    "entity_count": 4,
+    "entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "43",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4408997758",
+    "doi": "https://doi.org/10.3390/info16040281",
+    "title": "Green MLOps to Green GenOps: An Empirical Study of Energy Consumption in Discriminative and Generative AI Operations",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W4385070262",
+    "doi": "https://doi.org/10.18559/ebr.2023.2.743",
+    "title": "Challenges for higher education in the era of widespread access to generative AI",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W4402230126",
+    "doi": "https://doi.org/10.3390/electronics13173509",
+    "title": "A Systematic Review of Synthetic Data Generation Techniques Using Generative AI",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.4018/979-8-3373-4272-6.ch010",
+    "doi": "10.4018/979-8-3373-4272-6.ch010",
+    "title": "Generative AI for Personalized Energy Consumption Behavior Analysis",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.4018/979-8-3373-4272-6.ch009",
+    "doi": "10.4018/979-8-3373-4272-6.ch009",
+    "title": "A Study of Generative AI for Energy Consumption Behavior Analysis",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "smart home",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "record_id": "10.4018/979-8-3373-4272-6.ch008",
+    "doi": "10.4018/979-8-3373-4272-6.ch008",
+    "title": "Generative AI for Energy Consumption Behavior Analysis",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1002/9781394464272.ch11",
+    "doi": "10.1002/9781394464272.ch11",
+    "title": "Generative AI for Energy Consumption Behavior Analysis",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2139/ssrn.6319503",
+    "doi": "10.2139/ssrn.6319503",
+    "title": "Adaptive Constraints on the Consumption of Generative AI: Sensorium and Source",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "tinbergen",
+        "label": "ORG"
+      },
+      {
+        "text": "four",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.24940/ijird/2024/v13/i9/sep24021",
+    "doi": "10.24940/ijird/2024/v13/i9/sep24021",
+    "title": "Balancing Innovation and Sustainability: Assessing the Impact of Generative AI on Energy Consumption",
+    "entity_count": 4,
+    "entities": [
+      {
+        "text": "secondly",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "third",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "fourth",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "fifth",
+        "label": "ORDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.63111/qes-2025.1.0026",
+    "doi": "10.63111/qes-2025.1.0026",
+    "title": "The Energy-Bot: a generative AI algorithm for optimizing production and domestic consumption",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "futurasun",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "record_id": "10.32469/10355/109961",
+    "doi": "10.32469/10355/109961",
+    "title": "Generative AI Alcohol and Breast Cancer Dataset (v1 - 20251107)",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "20251107",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "10.4018/979-8-3373-4272-6.ch007",
+    "doi": "10.4018/979-8-3373-4272-6.ch007",
+    "title": "Modeling and Understanding Energy Use Patterns With Generative AI",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1007/979-8-8688-0917-0_8",
+    "doi": "10.1007/979-8-8688-0917-0_8",
+    "title": "Energy-Efficient AI Deployment and Scaling",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2139/ssrn.6906956",
+    "doi": "10.2139/ssrn.6906956",
+    "title": "From Digital Consumption to Sovereign Compute: A Socio-Technical Framework for Generative AI in African Education",
+    "entity_count": 4,
+    "entities": [
+      {
+        "text": "african",
+        "label": "NORP"
+      },
+      {
+        "text": "african",
+        "label": "NORP"
+      },
+      {
+        "text": "aimsnef ngren",
+        "label": "PERSON"
+      },
+      {
+        "text": "african",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "record_id": "10.2139/ssrn.5677522",
+    "doi": "10.2139/ssrn.5677522",
+    "title": "Exploring Generative AI in Accounting: Information Production and Consumption",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1109/icicnis64247.2024.10823172",
+    "doi": "10.1109/icicnis64247.2024.10823172",
+    "title": "Renewable Energy Consumption on Solar and Wind Energy Prediction Using Deep Learning and Generative AI",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2139/ssrn.6082066",
+    "doi": "10.2139/ssrn.6082066",
+    "title": "&lt;span&gt;Sensorium and Source: Adaptive Constraints on the Consumption of Generative AI&lt;/span&gt;",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.5210/fm.v31i3.14379",
+    "doi": "10.5210/fm.v31i3.14379",
+    "title": "Generative AI and political simulacra: Hyperreality, consumption, and humorous relationships in users’ YouTube comments",
+    "entity_count": 11,
+    "entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "first",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "us",
+        "label": "GPE"
+      },
+      {
+        "text": "joe biden",
+        "label": "PERSON"
+      },
+      {
+        "text": "donald trump",
+        "label": "PERSON"
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "indian",
+        "label": "NORP"
+      },
+      {
+        "text": "narendra modi",
+        "label": "PERSON"
+      },
+      {
+        "text": "italian",
+        "label": "NORP"
+      },
+      {
+        "text": "giorgia meloni",
+        "label": "PERSON"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4322718191",
+    "doi": "https://doi.org/10.48550/arxiv.2302.13971",
+    "title": "LLaMA: Open and Efficient Foundation Language Models",
+    "entity_count": 6,
+    "entities": [
+      {
+        "text": "7b",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "65b",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "trillions",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "gpt3",
+        "label": "ORG"
+      },
+      {
+        "text": "175b",
+        "label": "PRODUCT"
+      },
+      {
+        "text": "chinchilla70b",
+        "label": "FAC"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2023906603",
+    "doi": "https://doi.org/10.2307/1941811",
+    "title": "Northern Peatlands: Role in the Carbon Cycle and Probable Responses to Climatic Warming",
+    "entity_count": 15,
+    "entities": [
+      {
+        "text": "455",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0096",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "10 1 5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1984",
+        "label": "DATE"
+      },
+      {
+        "text": "0076",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0026",
+        "label": "DATE"
+      },
+      {
+        "text": "4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0046",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "annually",
+        "label": "DATE"
+      },
+      {
+        "text": "soviet",
+        "label": "NORP"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "west siberian",
+        "label": "NORP"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W1989432205",
+    "doi": "https://doi.org/10.1051/aas:1997368",
+    "title": "CHIANTI - an atomic database for emission lines",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "1992",
+        "label": "DATE"
+      },
+      {
+        "text": "between 50 and 1100",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4401685844",
+    "doi": "https://doi.org/10.1016/j.jmsy.2024.08.008",
+    "title": "ProcessCarbonAgent: A large language models-empowered autonomous agent for decision-making in manufacturing carbon emission management",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W2111677512",
+    "doi": "https://doi.org/10.1038/nclimate2392",
+    "title": "Betting on negative emissions",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W1522177459",
+    "doi": "https://doi.org/10.1029/2006gb002840",
+    "title": "Historical emissions of black and organic carbon aerosol from energy‐related combustion, 1850–2000",
+    "entity_count": 22,
+    "entities": [
+      {
+        "text": "185020",
+        "label": "DATE"
+      },
+      {
+        "text": "between 1850 and 20",
+        "label": "DATE"
+      },
+      {
+        "text": "about 10",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1850 2200",
+        "label": "DATE"
+      },
+      {
+        "text": "1900 30",
+        "label": "DATE"
+      },
+      {
+        "text": "1950",
+        "label": "DATE"
+      },
+      {
+        "text": "4400",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "4100",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "6700 gg and",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "8700",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1850 1900 1950",
+        "label": "DATE"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "over half",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "between 1880 and 1975",
+        "label": "DATE"
+      },
+      {
+        "text": "1975",
+        "label": "DATE"
+      },
+      {
+        "text": "1990",
+        "label": "DATE"
+      },
+      {
+        "text": "between 1950 and",
+        "label": "DATE"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "between 1950",
+        "label": "DATE"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "between 1850 and 1925",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4384389802",
+    "doi": "https://doi.org/10.48550/arxiv.2307.06435",
+    "title": "A Comprehensive Overview of Large Language Models",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W2158765373",
+    "doi": "https://doi.org/10.1098/rstb.2013.0122",
+    "title": "Nitrous oxide emissions from soils: how well do we understand the processes and their controls?",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W4283170666",
+    "doi": "https://doi.org/10.1145/3531146.3533088",
+    "title": "Taxonomy of Risks posed by Language Models",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "six",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2153815449",
+    "doi": "https://doi.org/10.5194/bg-10-1717-2013",
+    "title": "Causes of variation in soil carbon simulations from CMIP5 Earth system models and comparison with observations",
+    "entity_count": 32,
+    "entities": [
+      {
+        "text": "cmip5",
+        "label": "ORG"
+      },
+      {
+        "text": "11",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "510",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3040",
+        "label": "DATE"
+      },
+      {
+        "text": "1260",
+        "label": "DATE"
+      },
+      {
+        "text": "95",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "8901660",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "between 60 and 820",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "95",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "380620",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "290",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "59",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "26fold",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "36fold",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "038",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "097",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "075",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "less than 04",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "94",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "208 kg",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "m2",
+        "label": "PERSON"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "033",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "062",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "093",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "9",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "11",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "only explained 10",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "093",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2098627306",
+    "doi": "https://doi.org/10.5194/bg-11-6573-2014",
+    "title": "Estimated stocks of circumpolar permafrost carbon with quantified uncertainty ranges and identified data gaps",
+    "entity_count": 30,
+    "entities": [
+      {
+        "text": "03",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3 am",
+        "label": "TIME"
+      },
+      {
+        "text": "siberia",
+        "label": "LOC"
+      },
+      {
+        "text": "alaska",
+        "label": "GPE"
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "217",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "12",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "472",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "27",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "003",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "01",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "95",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "03",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1035",
+        "label": "DATE"
+      },
+      {
+        "text": "150",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "34",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "16",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "arctic",
+        "label": "LOC"
+      },
+      {
+        "text": "3",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "181",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "74",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1300",
+        "label": "DATE"
+      },
+      {
+        "text": "1100",
+        "label": "DATE"
+      },
+      {
+        "text": "1500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "500",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "seasonally",
+        "label": "DATE"
+      },
+      {
+        "text": "800",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "300",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2161454991",
+    "doi": "https://doi.org/10.5194/essd-5-165-2013",
+    "title": "The global carbon budget 1959–2011",
+    "entity_count": 46,
+    "entities": [
+      {
+        "text": "19592011",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "presentday",
+        "label": "DATE"
+      },
+      {
+        "text": "co2 sink socean",
+        "label": "PERSON"
+      },
+      {
+        "text": "the 1990s",
+        "label": "DATE"
+      },
+      {
+        "text": "annual",
+        "label": "DATE"
+      },
+      {
+        "text": "the last decade",
+        "label": "DATE"
+      },
+      {
+        "text": "20022011",
+        "label": "DATE"
+      },
+      {
+        "text": "83",
+        "label": "DATE"
+      },
+      {
+        "text": "04",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "10 amppm",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "05",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "43",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "01",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "pgc yr1",
+        "label": "PERSON"
+      },
+      {
+        "text": "socean 25",
+        "label": "DATE"
+      },
+      {
+        "text": "05",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "sland 26",
+        "label": "LAW"
+      },
+      {
+        "text": "08",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "year 2011",
+        "label": "DATE"
+      },
+      {
+        "text": "eff",
+        "label": "ORG"
+      },
+      {
+        "text": "95",
+        "label": "DATE"
+      },
+      {
+        "text": "05",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "30 percent",
+        "label": "PERCENT"
+      },
+      {
+        "text": "2010",
+        "label": "DATE"
+      },
+      {
+        "text": "09",
+        "label": "DATE"
+      },
+      {
+        "text": "05",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "the decade",
+        "label": "DATE"
+      },
+      {
+        "text": "36",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "pgc yr1",
+        "label": "PERSON"
+      },
+      {
+        "text": "27",
+        "label": "DATE"
+      },
+      {
+        "text": "05",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "41",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "09",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2011",
+        "label": "DATE"
+      },
+      {
+        "text": "20022011",
+        "label": "DATE"
+      },
+      {
+        "text": "pacific",
+        "label": "LOC"
+      },
+      {
+        "text": "39131",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "the end of year 2011",
+        "label": "DATE"
+      },
+      {
+        "text": "eff",
+        "label": "ORG"
+      },
+      {
+        "text": "26 1935",
+        "label": "DATE"
+      },
+      {
+        "text": "2012",
+        "label": "DATE"
+      },
+      {
+        "text": "amppm1",
+        "label": "PERSON"
+      },
+      {
+        "text": "68",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "gaussian",
+        "label": "NORP"
+      },
+      {
+        "text": "annual",
+        "label": "DATE"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2886310324",
+    "doi": "https://doi.org/10.1038/s41467-018-05738-9",
+    "title": "21st-century modeled permafrost carbon emissions accelerated by abrupt thaw beneath lakes",
+    "entity_count": 4,
+    "entities": [
+      {
+        "text": "this century",
+        "label": "DATE"
+      },
+      {
+        "text": "14",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "125190",
+        "label": "DATE"
+      },
+      {
+        "text": "this century",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4321610465",
+    "doi": "https://doi.org/10.1021/acs.est.3c01106",
+    "title": "Risks and Benefits of Large Language Models for the Environment",
+    "entity_count": 34,
+    "entities": [
+      {
+        "text": "14195",
+        "label": "DATE"
+      },
+      {
+        "text": "berlin",
+        "label": "GPE"
+      },
+      {
+        "text": "14195",
+        "label": "DATE"
+      },
+      {
+        "text": "berlin",
+        "label": "GPE"
+      },
+      {
+        "text": "environmental science stockholm university se106",
+        "label": "ORG"
+      },
+      {
+        "text": "91",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "stockholm",
+        "label": "GPE"
+      },
+      {
+        "text": "bimohan",
+        "label": "GPE"
+      },
+      {
+        "text": "universität berlin institute",
+        "label": "ORG"
+      },
+      {
+        "text": "14195",
+        "label": "DATE"
+      },
+      {
+        "text": "berlin",
+        "label": "GPE"
+      },
+      {
+        "text": "14195",
+        "label": "DATE"
+      },
+      {
+        "text": "berlin",
+        "label": "GPE"
+      },
+      {
+        "text": "mohan bi kenneth",
+        "label": "PERSON"
+      },
+      {
+        "text": "university of new york",
+        "label": "ORG"
+      },
+      {
+        "text": "2900",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "bedford avenue",
+        "label": "FAC"
+      },
+      {
+        "text": "11210",
+        "label": "DATE"
+      },
+      {
+        "text": "kenneth",
+        "label": "PERSON"
+      },
+      {
+        "text": "linguistics zas",
+        "label": "PERSON"
+      },
+      {
+        "text": "18",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "10117",
+        "label": "DATE"
+      },
+      {
+        "text": "berlin",
+        "label": "GPE"
+      },
+      {
+        "text": "sci",
+        "label": "ORG"
+      },
+      {
+        "text": "2023 57",
+        "label": "DATE"
+      },
+      {
+        "text": "9 34643466publication",
+        "label": "DATE"
+      },
+      {
+        "text": "23 2023publication",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "february 2023published",
+        "label": "DATE"
+      },
+      {
+        "text": "february",
+        "label": "DATE"
+      },
+      {
+        "text": "march 2023",
+        "label": "DATE"
+      },
+      {
+        "text": "2023",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "american",
+        "label": "NORP"
+      },
+      {
+        "text": "november 2008",
+        "label": "DATE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.2139/ssrn.5325159",
+    "doi": "10.2139/ssrn.5325159",
+    "title": "Large-Language-Model-Enabled Carbon Emissions Abatement in Green Production: Single Hedging or Double Hedging",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1145/3727200.3727208",
+    "doi": "10.1145/3727200.3727208",
+    "title": "Improving Carbon Emissions of Federated Large Language Model Inference through Classification of Task-Specificity",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "8",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.2139/ssrn.5584538",
+    "doi": "10.2139/ssrn.5584538",
+    "title": "Forecasting carbon market with a multi-agent system of large language model",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2139/ssrn.5099516",
+    "doi": "10.2139/ssrn.5099516",
+    "title": "A One-Shot Automated Framework Based on Large Language Model and Automl: Accelerating the Design of Porous Carbon Materials and Carbon Capture Optimization",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1016/j.cie.2025.111299",
+    "doi": "10.1016/j.cie.2025.111299",
+    "title": "Large language model-driven multi-agent systems for improving production efficiency and reducing carbon emissions in manufacturing",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2139/ssrn.5170350",
+    "doi": "10.2139/ssrn.5170350",
+    "title": "Mini-Carbongpt: A Domain-Specific Large Language Model for Carbon Neutrality",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.18653/v1/2022.bigscience-1.8",
+    "doi": "10.18653/v1/2022.bigscience-1.8",
+    "title": "A Holistic Assessment of the Carbon Footprint of Noor, a Very Large Arabic Language Model",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "arabic",
+        "label": "LANGUAGE"
+      }
+    ]
+  },
+  {
+    "record_id": "10.2139/ssrn.4970698",
+    "doi": "10.2139/ssrn.4970698",
+    "title": "Ceca: An Intelligent Large-Language-Model-Enabled Method for Accounting Embodied Carbon in Buildings",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1787/888933449116",
+    "doi": "10.1787/888933449116",
+    "title": "Figure 3.4 A large share of carbon emissions are priced but at low rates outside the transport sector",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "34",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.2139/ssrn.4851326",
+    "doi": "10.2139/ssrn.4851326",
+    "title": "How Have Land Use Carbon Emissions Changed in the Past and Future Under Multiple Scenarios? -Based on Carbon Emissions Fair Model and Plus Model",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.26716/redlands/master/2010.7",
+    "doi": "10.26716/redlands/master/2010.7",
+    "title": "Building a Carbon Dioxide Emissions Model for the City of Redlands",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.20944/preprints202412.1705.v1",
+    "doi": "10.20944/preprints202412.1705.v1",
+    "title": "PCF-RWKV: Product Carbon Footprint Estimation System Based on Large Language Model",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.1109/fllm67465.2025.11391221",
+    "doi": "10.1109/fllm67465.2025.11391221",
+    "title": "Emissions and Performance Trade-off Between Small and Large Language Models",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2139/ssrn.5068796",
+    "doi": "10.2139/ssrn.5068796",
+    "title": "Large Disparities in Spatiotemporal Distributions of Building Carbon Emissions Across China",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "china",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "record_id": "10.59681/2175-4411.v16.iespecial.2024.1275",
+    "doi": "10.59681/2175-4411.v16.iespecial.2024.1275",
+    "title": "Large language model para geração de prontuários eletrônicos sintéticos",
+    "entity_count": 13,
+    "entities": [
+      {
+        "text": "para geração de prontuários",
+        "label": "ORG"
+      },
+      {
+        "text": "sintéticos introdução",
+        "label": "PERSON"
+      },
+      {
+        "text": "utilização de dados de saúde them",
+        "label": "ORG"
+      },
+      {
+        "text": "éticas isso",
+        "label": "PERSON"
+      },
+      {
+        "text": "seu",
+        "label": "ORG"
+      },
+      {
+        "text": "eletrônicos",
+        "label": "WORK_OF_ART"
+      },
+      {
+        "text": "sintéticos de pacientes cardiológicos",
+        "label": "PERSON"
+      },
+      {
+        "text": "de algoritmos de classificação de texto",
+        "label": "PERSON"
+      },
+      {
+        "text": "103",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "sintéticos",
+        "label": "PERSON"
+      },
+      {
+        "text": "diagnósticos",
+        "label": "PERSON"
+      },
+      {
+        "text": "sintéticos através de llm apresentaram qualidade",
+        "label": "PERSON"
+      },
+      {
+        "text": "conceito de ciência",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2328573691",
+    "doi": "https://doi.org/10.3354/cr00953",
+    "title": "Changes in precipitation with climate change",
+    "entity_count": 7,
+    "entities": [
+      {
+        "text": "about 7",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "1c",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "early spring",
+        "label": "DATE"
+      },
+      {
+        "text": "summer",
+        "label": "DATE"
+      },
+      {
+        "text": "el nio",
+        "label": "ORG"
+      },
+      {
+        "text": "mount pinatubo",
+        "label": "GPE"
+      },
+      {
+        "text": "1991",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2513922847",
+    "doi": "https://doi.org/10.59327/ipcc/ar5-9789291691432",
+    "title": "Climate Change 2014 - Synthesis Report",
+    "entity_count": 9,
+    "entities": [
+      {
+        "text": "2014",
+        "label": "DATE"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "fifth",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "2013",
+        "label": "DATE"
+      },
+      {
+        "text": "2014",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2014",
+        "label": "DATE"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2011",
+        "label": "DATE"
+      },
+      {
+        "text": "2011",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2766136866",
+    "doi": "https://doi.org/10.1073/pnas.1710465114",
+    "title": "Natural climate solutions",
+    "entity_count": 5,
+    "entities": [
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "20",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "between now and 2030",
+        "label": "DATE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "paris",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2261645655",
+    "doi": "https://doi.org/10.1038/sdata.2015.66",
+    "title": "The climate hazards infrared precipitation with stations—a new environmental record for monitoring extremes",
+    "entity_count": 8,
+    "entities": [
+      {
+        "text": "005",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "monthly",
+        "label": "DATE"
+      },
+      {
+        "text": "005",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "about 2 days",
+        "label": "DATE"
+      },
+      {
+        "text": "about 3 weeks",
+        "label": "DATE"
+      },
+      {
+        "text": "africa",
+        "label": "LOC"
+      },
+      {
+        "text": "ethiopia",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2060172488",
+    "doi": "https://doi.org/10.1175/jcli-d-12-00823.1",
+    "title": "The NCEP Climate Forecast System Version 2",
+    "entity_count": 12,
+    "entities": [
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "second",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "cfsv2",
+        "label": "PERSON"
+      },
+      {
+        "text": "march 2011",
+        "label": "DATE"
+      },
+      {
+        "text": "a 32yr period 19792010",
+        "label": "DATE"
+      },
+      {
+        "text": "29 years 19822010",
+        "label": "DATE"
+      },
+      {
+        "text": "cfsv2",
+        "label": "PERSON"
+      },
+      {
+        "text": "cfsv2",
+        "label": "PERSON"
+      },
+      {
+        "text": "6 to 17 days",
+        "label": "DATE"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "the united states",
+        "label": "GPE"
+      },
+      {
+        "text": "cfsv2",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2990498400",
+    "doi": "https://doi.org/10.1016/j.enbuild.2019.109634",
+    "title": "Effect of climate conditions on the thermodynamic performance of a data center cooling system under water-side economization",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W1985217958",
+    "doi": "https://doi.org/10.1175/2011jcli4083.1",
+    "title": "The Community Climate System Model Version 4",
+    "entity_count": 26,
+    "entities": [
+      {
+        "text": "4",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "fourth",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "ccsm4",
+        "label": "LOC"
+      },
+      {
+        "text": "ccsm3",
+        "label": "PERSON"
+      },
+      {
+        "text": "1",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "ccsm4",
+        "label": "GPE"
+      },
+      {
+        "text": "el niñosouthern",
+        "label": "ORG"
+      },
+      {
+        "text": "ccsm3",
+        "label": "GPE"
+      },
+      {
+        "text": "gulf",
+        "label": "LOC"
+      },
+      {
+        "text": "north atlantic",
+        "label": "LOC"
+      },
+      {
+        "text": "ccsm4",
+        "label": "LOC"
+      },
+      {
+        "text": "annual",
+        "label": "DATE"
+      },
+      {
+        "text": "ccsm4",
+        "label": "LOC"
+      },
+      {
+        "text": "ccsm3",
+        "label": "PERSON"
+      },
+      {
+        "text": "the arctic sea ice concentration",
+        "label": "LOC"
+      },
+      {
+        "text": "ccsm4",
+        "label": "LOC"
+      },
+      {
+        "text": "arctic sea",
+        "label": "LOC"
+      },
+      {
+        "text": "1979",
+        "label": "DATE"
+      },
+      {
+        "text": "ccsm4",
+        "label": "LOC"
+      },
+      {
+        "text": "between 1850 and 2005",
+        "label": "DATE"
+      },
+      {
+        "text": "about 04c",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "ccsm4",
+        "label": "LOC"
+      },
+      {
+        "text": "ccsm4",
+        "label": "LOC"
+      },
+      {
+        "text": "pacific",
+        "label": "LOC"
+      },
+      {
+        "text": "arctic",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2586819609",
+    "doi": "https://doi.org/10.1016/j.gloenvcha.2017.01.002",
+    "title": "Trees, forests and water: Cool insights for a hot world",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W2072228305",
+    "doi": "https://doi.org/10.1175/2007mwr1978.1",
+    "title": "A Reanalysis of Ocean Climate Using Simple Ocean Data Assimilation (SODA)",
+    "entity_count": 13,
+    "entities": [
+      {
+        "text": "025",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "every 10 days",
+        "label": "DATE"
+      },
+      {
+        "text": "142",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "the 44yr period from 1958 to 2001",
+        "label": "DATE"
+      },
+      {
+        "text": "the span of the",
+        "label": "DATE"
+      },
+      {
+        "text": "40yr",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "european",
+        "label": "NORP"
+      },
+      {
+        "text": "140",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "one",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "142",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "140",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "0700",
+        "label": "DATE"
+      },
+      {
+        "text": "142",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2125634634",
+    "doi": "https://doi.org/10.1175/bams-d-13-00255.1",
+    "title": "The Community Earth System Model (CESM) Large Ensemble Project: A Community Resource for Studying Climate Change in the Presence of Internal Climate Variability",
+    "entity_count": 11,
+    "entities": [
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "cmip5",
+        "label": "ORG"
+      },
+      {
+        "text": "cmip5",
+        "label": "PERSON"
+      },
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "the twenty to twentyfirst century 19202100 30",
+        "label": "DATE"
+      },
+      {
+        "text": "85",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "10yrlong",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "twentieth",
+        "label": "DATE"
+      },
+      {
+        "text": "cmip5",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2082291024",
+    "doi": "https://doi.org/10.1038/nature01675",
+    "title": "Impact of urbanization and land-use change on climate",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W2945485796",
+    "doi": "https://doi.org/10.1126/science.aau9101",
+    "title": "A radiative cooling structural material",
+    "entity_count": 4,
+    "entities": [
+      {
+        "text": "4043",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "more than eight",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "both day",
+        "label": "DATE"
+      },
+      {
+        "text": "between 20 and 60",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2800299140",
+    "doi": "https://doi.org/10.1038/s41558-018-0156-3",
+    "title": "Future climate risk from compound events",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W2900538720",
+    "doi": "https://doi.org/10.5194/gmd-12-1573-2019",
+    "title": "The Beijing Climate Center Climate System Model (BCC-CSM): the main progress from CMIP5 to CMIP6",
+    "entity_count": 29,
+    "entities": [
+      {
+        "text": "beijing",
+        "label": "GPE"
+      },
+      {
+        "text": "cmip5",
+        "label": "PERSON"
+      },
+      {
+        "text": "cmip6",
+        "label": "PERSON"
+      },
+      {
+        "text": "bcc",
+        "label": "ORG"
+      },
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "cmip5",
+        "label": "PERSON"
+      },
+      {
+        "text": "6",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "cmip6",
+        "label": "PERSON"
+      },
+      {
+        "text": "bcccsm11",
+        "label": "NORP"
+      },
+      {
+        "text": "bcccsm11",
+        "label": "NORP"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "cmip5",
+        "label": "PERSON"
+      },
+      {
+        "text": "bcccsm2mr bcccsm2hr",
+        "label": "PERSON"
+      },
+      {
+        "text": "bccesm10",
+        "label": "PERSON"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "cmip6",
+        "label": "PERSON"
+      },
+      {
+        "text": "1851",
+        "label": "DATE"
+      },
+      {
+        "text": "bcccsm2mr cmip6",
+        "label": "PERSON"
+      },
+      {
+        "text": "1851 to 2005",
+        "label": "DATE"
+      },
+      {
+        "text": "bcccsm11",
+        "label": "NORP"
+      },
+      {
+        "text": "cmip5",
+        "label": "PERSON"
+      },
+      {
+        "text": "east asia",
+        "label": "LOC"
+      },
+      {
+        "text": "pacific",
+        "label": "LOC"
+      },
+      {
+        "text": "atlantic",
+        "label": "LOC"
+      },
+      {
+        "text": "the 20th century",
+        "label": "DATE"
+      },
+      {
+        "text": "maddenjulian",
+        "label": "NORP"
+      },
+      {
+        "text": "bcccsm11",
+        "label": "NORP"
+      },
+      {
+        "text": "bcccsm2mr",
+        "label": "PERSON"
+      },
+      {
+        "text": "east asia",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W2115385872",
+    "doi": "https://doi.org/10.1073/pnas.1222474110",
+    "title": "Constraints and potentials of future irrigation water availability on agricultural production under climate change",
+    "entity_count": 18,
+    "entities": [
+      {
+        "text": "10",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "six",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "85",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "fifth",
+        "label": "ORDINAL"
+      },
+      {
+        "text": "4001400",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "824",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "presentday",
+        "label": "DATE"
+      },
+      {
+        "text": "14002600 pcal 2443",
+        "label": "DATE"
+      },
+      {
+        "text": "western united states",
+        "label": "GPE"
+      },
+      {
+        "text": "china",
+        "label": "GPE"
+      },
+      {
+        "text": "west south",
+        "label": "LOC"
+      },
+      {
+        "text": "asia",
+        "label": "LOC"
+      },
+      {
+        "text": "2060",
+        "label": "DATE"
+      },
+      {
+        "text": "6002900",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "united states",
+        "label": "GPE"
+      },
+      {
+        "text": "south america",
+        "label": "LOC"
+      },
+      {
+        "text": "europe",
+        "label": "LOC"
+      },
+      {
+        "text": "south east asia",
+        "label": "LOC"
+      }
+    ]
+  },
+  {
+    "record_id": "10.70917/jcc-2025-035",
+    "doi": "10.70917/jcc-2025-035",
+    "title": "Towards Climate-Resilient Data Center Cooling: Experimental Study of Water Conservation Technologies",
+    "entity_count": 4,
+    "entities": [
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "billions",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "daily",
+        "label": "DATE"
+      },
+      {
+        "text": "up to 8472",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.2139/ssrn.4687775",
+    "doi": "10.2139/ssrn.4687775",
+    "title": "Climate Zones for the Application of Water-Side Economizer in a Data Center Cooling System",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2139/ssrn.4713066",
+    "doi": "10.2139/ssrn.4713066",
+    "title": "Climate Zones for the Application of Water-Side Economizer in a Data Center Cooling System",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2175/193864718825160104",
+    "doi": "10.2175/193864718825160104",
+    "title": "Recycled Water Makes Data Center Cooling More Sustainable",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.63044/w26nav185",
+    "doi": "10.63044/w26nav185",
+    "title": "Modeling Mechanical Cooling Equipment for Data Centers Across U.S. Climate Zones to Optimize Power and Water Usage",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2175/193864718825159111",
+    "doi": "10.2175/193864718825159111",
+    "title": "Reclaimed Water for Data Center Direct Evaporative Cooling Systems",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1016/j.applthermaleng.2024.123450",
+    "doi": "10.1016/j.applthermaleng.2024.123450",
+    "title": "Climate zones for the application of water-side economizer in a data center cooling system",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1016/j.jobe.2024.111235",
+    "doi": "10.1016/j.jobe.2024.111235",
+    "title": "Performance of a hybrid thermosyphon cooling system using airside economizers for data center free cooling under different climate conditions",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.32614/cran.package.clidamonger",
+    "doi": "10.32614/cran.package.clidamonger",
+    "title": "clidamonger: Monthly Climate Data for Germany, Usable for Heating and Cooling Calculations",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "monthly",
+        "label": "DATE"
+      },
+      {
+        "text": "germany",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "record_id": "10.31224/7240",
+    "doi": "10.31224/7240",
+    "title": "Reclaiming Cooling: Wastewater Reuse as a Strategic Resource for Data Center Water Management",
+    "entity_count": 12,
+    "entities": [
+      {
+        "text": "us",
+        "label": "GPE"
+      },
+      {
+        "text": "20  30",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "up to 300 million gallons",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "texas",
+        "label": "GPE"
+      },
+      {
+        "text": "webber 2014",
+        "label": "DATE"
+      },
+      {
+        "text": "2020",
+        "label": "DATE"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "roughly 80",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "over five",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "today",
+        "label": "DATE"
+      },
+      {
+        "text": "2050",
+        "label": "DATE"
+      },
+      {
+        "text": "less than 01 percent",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "record_id": "10.2118/1025-0004-jpt",
+    "doi": "10.2118/1025-0004-jpt",
+    "title": "Scaling Treated Produced Water for Data Center Cooling in the Permian",
+    "entity_count": 12,
+    "entities": [
+      {
+        "text": "permian",
+        "label": "NORP"
+      },
+      {
+        "text": "roughly 60",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "millions of gallons",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "west texas",
+        "label": "LOC"
+      },
+      {
+        "text": "12 barrels",
+        "label": "QUANTITY"
+      },
+      {
+        "text": "2024",
+        "label": "DATE"
+      },
+      {
+        "text": "more than 20 million",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "26 million",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "2030",
+        "label": "DATE"
+      },
+      {
+        "text": "west texas",
+        "label": "LOC"
+      },
+      {
+        "text": "300",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "3000",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.15199/9.2016.3.4",
+    "doi": "10.15199/9.2016.3.4",
+    "title": "Decision Making Model of Data Center Chilled Water Cooling System",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1007/springerreference_28988",
+    "doi": "10.1007/springerreference_28988",
+    "title": "National Climate Data Center/Data Sources",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1109/itherm55375.2024.10709470",
+    "doi": "10.1109/itherm55375.2024.10709470",
+    "title": "Air Cooling and Water Cooling for Data Center High-Speed I/O Interconnects",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.32657/10356/204506",
+    "doi": "10.32657/10356/204506",
+    "title": "Feasibility study of immersion cooling for data center",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "https://openalex.org/W3135539146",
+    "doi": "https://doi.org/10.1007/s43681-021-00043-6",
+    "title": "Sustainable AI: AI for sustainability and the sustainability of AI",
+    "entity_count": 4,
+    "entities": [
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "sustainability ie social economic environment",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W3174661481",
+    "doi": "https://doi.org/10.1109/twc.2021.3088910",
+    "title": "Energy-Efficient Resource Management for Federated Edge Learning With CPU-GPU Heterogeneous Computing",
+    "entity_count": 3,
+    "entities": [
+      {
+        "text": "cpugpu",
+        "label": "GPE"
+      },
+      {
+        "text": "gpu",
+        "label": "PERSON"
+      },
+      {
+        "text": "cpugpu",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W3043273434",
+    "doi": "https://doi.org/10.1109/ccgrid49817.2020.00-15",
+    "title": "Benchmarking the Performance and Energy Efficiency of AI Accelerators for AI Training",
+    "entity_count": 3,
+    "entities": [
+      {
+        "text": "gpu",
+        "label": "PERSON"
+      },
+      {
+        "text": "xmlnsmml",
+        "label": "PERSON"
+      },
+      {
+        "text": "2",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4220837296",
+    "doi": "https://doi.org/10.1109/iccrd54409.2022.9730377",
+    "title": "A Survey on Convolutional Neural Network Accelerators: GPU, FPGA and ASIC",
+    "entity_count": 7,
+    "entities": [
+      {
+        "text": "gpu fpga",
+        "label": "PERSON"
+      },
+      {
+        "text": "recent years",
+        "label": "DATE"
+      },
+      {
+        "text": "cnn",
+        "label": "ORG"
+      },
+      {
+        "text": "cnn",
+        "label": "ORG"
+      },
+      {
+        "text": "gpu",
+        "label": "GPE"
+      },
+      {
+        "text": "three",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "cnn",
+        "label": "ORG"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W3037032032",
+    "doi": "https://doi.org/10.1609/aaai.v34i09.7123",
+    "title": "Energy and Policy Considerations for Modern Deep Learning Research",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "this year",
+        "label": "DATE"
+      },
+      {
+        "text": "2019",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W3084790829",
+    "doi": "https://doi.org/10.1109/lca.2020.3023723",
+    "title": "GPU-NEST: Characterizing Energy Efficiency of Multi-GPU Inference Servers",
+    "entity_count": 3,
+    "entities": [
+      {
+        "text": "multigpu",
+        "label": "GPE"
+      },
+      {
+        "text": "nongpu",
+        "label": "GPE"
+      },
+      {
+        "text": "as much as 40 percent",
+        "label": "PERCENT"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4285105424",
+    "doi": "https://doi.org/10.1109/jiot.2022.3176400",
+    "title": "A Survey on the Convergence of Edge Computing and AI for UAVs: Opportunities and Challenges",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "5",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W3030790048",
+    "doi": "https://doi.org/10.1109/jbhi.2020.2991043",
+    "title": "AI in Medical Imaging Informatics: Current Challenges and Future Directions",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "3d",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "today",
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W3023935494",
+    "doi": "https://doi.org/10.3390/s20092533",
+    "title": "Edge Machine Learning for AI-Enabled IoT Devices: A Review",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "a few years",
+        "label": "DATE"
+      },
+      {
+        "text": "billions",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "https://openalex.org/W4205348240",
+    "doi": "https://doi.org/10.1109/tpds.2021.3137867",
+    "title": "Dynamic GPU Energy Optimization for Machine Learning Training Workloads",
+    "entity_count": 5,
+    "entities": [
+      {
+        "text": "dynamic gpu",
+        "label": "PERSON"
+      },
+      {
+        "text": "71",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "two",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "162",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "51",
+        "label": "CARDINAL"
+      }
+    ]
+  },
+  {
+    "record_id": "10.2316/p.2010.724-013",
+    "doi": "10.2316/p.2010.724-013",
+    "title": "Energy Consumption of GPU with Molecular Dynamics",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.32628/cseit251112375",
+    "doi": "10.32628/cseit251112375",
+    "title": "The Energy Efficiency Paradox of AI Hardware: Debunking GPU Power Consumption Myths",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.70675/428d9b42zfab7z432czb381z533ab7cf8a62",
+    "doi": "10.70675/428d9b42zfab7z432czb381z533ab7cf8a62",
+    "title": "Bridging the Gap between MAC Optimization and Energy Efficiency in GPU-Powered Edge AI",
+    "entity_count": 16,
+    "entities": [
+      {
+        "text": "aborde l'optimisation énergétique",
+        "label": "PERSON"
+      },
+      {
+        "text": "déploiement bien",
+        "label": "PERSON"
+      },
+      {
+        "text": "de mac",
+        "label": "PERSON"
+      },
+      {
+        "text": "qui conduit à",
+        "label": "ORG"
+      },
+      {
+        "text": "de la consommation énergétique",
+        "label": "PERSON"
+      },
+      {
+        "text": "un",
+        "label": "ORG"
+      },
+      {
+        "text": "mac et",
+        "label": "PERSON"
+      },
+      {
+        "text": "d'un",
+        "label": "PERSON"
+      },
+      {
+        "text": "l'énergie consommée par",
+        "label": "ORG"
+      },
+      {
+        "text": "la nvidia jetson",
+        "label": "ORG"
+      },
+      {
+        "text": "nano notre",
+        "label": "PERSON"
+      },
+      {
+        "text": "60",
+        "label": "CARDINAL"
+      },
+      {
+        "text": "qu'indicateurs d'efficacité",
+        "label": "PERSON"
+      },
+      {
+        "text": "un",
+        "label": "ORG"
+      },
+      {
+        "text": "la consommation énergétique des couches de",
+        "label": "ORG"
+      },
+      {
+        "text": "démontrée",
+        "label": "GPE"
+      }
+    ]
+  },
+  {
+    "record_id": "10.21203/rs.3.rs-9423012/v1",
+    "doi": "10.21203/rs.3.rs-9423012/v1",
+    "title": "Impact of Dynamic Voltage on GPU Energy Consumption for Real-Time Systems",
+    "entity_count": 2,
+    "entities": [
+      {
+        "text": "dvfs",
+        "label": "ORG"
+      },
+      {
+        "text": "gpu computing",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "record_id": "10.1109/dasc.2011.117",
+    "doi": "10.1109/dasc.2011.117",
+    "title": "A Performance and Energy Consumption Analytical Model for GPU",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2139/ssrn.5089139",
+    "doi": "10.2139/ssrn.5089139",
+    "title": "Optimizing AI Performance with Renewable Energy and GPU Dependency in Offline Environments",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "gpu",
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "record_id": "10.2139/ssrn.5187050",
+    "doi": "10.2139/ssrn.5187050",
+    "title": "Energy Consumption and Sustainability of AI-Powered Chatbots/Tools",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.21275/sr24128114158",
+    "doi": "10.21275/sr24128114158",
+    "title": "AI - Based Smart Energy Consumption Prediction for IoT - Connected Homes",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2139/ssrn.5222616",
+    "doi": "10.2139/ssrn.5222616",
+    "title": "Energy Efficiency in AI and How Power Consumption Impedes Innovation",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1109/rtss46320.2019.00070",
+    "doi": "10.1109/rtss46320.2019.00070",
+    "title": "Work-in-Progress: Understanding the Effect of Kernel Scheduling on GPU Energy Consumption",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.2139/ssrn.5340330",
+    "doi": "10.2139/ssrn.5340330",
+    "title": "AI-Driven Energy Optimisation - Transforming Generation, Hydrocarbon Operations and Consumption",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1109/greentech68285.2026.11471623",
+    "doi": "10.1109/greentech68285.2026.11471623",
+    "title": "Energy Modeling and Optimization of Multi-GPU AI Servers: A comparative Study",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.55248/gengpi.6.0125.0526",
+    "doi": "10.55248/gengpi.6.0125.0526",
+    "title": "Smart Infrastructure for Sustainable Energy Consumption: Leveraging AI and Big Data.",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "record_id": "10.1109/globecom59602.2025.11431828",
+    "doi": "10.1109/globecom59602.2025.11431828",
+    "title": "GPU-accelerated In-Network Computing for Split-AI in 6G: A Trade-Off Between Inference Time and Energy Consumption",
+    "entity_count": 1,
+    "entities": [
+      {
+        "text": "6",
+        "label": "CARDINAL"
+      }
+    ]
+  }
+]
