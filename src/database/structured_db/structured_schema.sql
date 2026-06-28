@@ -66,7 +66,6 @@ CREATE TABLE IF NOT EXISTS sentiment_results (
     video_id TEXT,
     document_id TEXT,
     doc_type TEXT,
-
     negative REAL,
     neutral REAL,
     positive REAL,
@@ -109,3 +108,44 @@ CREATE TABLE IF NOT EXISTS topic_results (
     topic_score REAL,
     doc_type TEXT
 );
+
+------------------------------------------------------------
+-- 8. HACKERNEWS TABLE
+------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS hackernews (
+    record_id TEXT PRIMARY KEY,
+    source TEXT
+    story_id INTEGER,
+    parent_id INTEGER,
+    author TEXT,
+    title TEXT,
+    URL TEXT,
+    text_original TEXT,
+    text_clean TEXT,
+    points INTEGER,
+    num_comments INTEGER,
+    created_at TEXT,
+    query TEXT
+    );
+
+------------------------------------------------------------
+-- 9. HACKERNEWS SENTIMENT TABLE
+------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS hackernews_sentiment_results (
+    record_id TEXT,
+    story_id INTEGER,
+    author TEXT,
+    text_length INTEGER,
+    negative REAL,
+    neutral REAL,
+    positive REAL,
+    compound REAL,
+    sentiment_label TEXT,
+    points INTEGER,
+    num_comments INTEGER,
+    created_at TEXT
+    );
+
+------------------------------------------------------------
+-- 10. HACKERNEWS NER TABLE
+------------------------------------------------------------
