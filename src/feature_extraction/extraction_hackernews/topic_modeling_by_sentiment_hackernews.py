@@ -20,7 +20,7 @@ FEATURE_DIR = Path("feature_extraction/output")
 INPUT_FILE = FEATURE_DIR / "hackernews_sentiment_results.json"
 OUTPUT_FILE = FEATURE_DIR / "hackernews_topic_by_sentiment_results.json"
 
-def run_topic_modeling_hackernews():
+def run_topic_modeling_by_sentiment_hackernews():
     records = load_json(INPUT_FILE)
     sentiment_groups = defaultdict(list)
     for record in records:
@@ -66,4 +66,4 @@ def run_topic_modeling_hackernews():
     print(f"Generated sentiment-based topics for {len(final_results)} Hacker News sentiment groups")
 
 if __name__ == "__main__":
-    run_topic_modeling_hackernews()
+    run_topic_modeling_by_sentiment_hackernews()
