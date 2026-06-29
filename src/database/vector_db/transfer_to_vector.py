@@ -1,26 +1,34 @@
 """
 transfer_to_vector.py
 
-Builds the vector database and directly generates embeddings for:
-- comments
-- transcript chunks
-- video metadata
+Builds the vector database and generates embeddings for the chunked documents
+produced by chunking.py, across all three sources:
+- YouTube   (comments, transcript chunks, video summaries)
+- HackerNews (posts / text chunks)
+- Research  (abstract chunks)
 
-This is a single-step ingestion pipeline:
-text -> embedding -> vector_db
+Pipeline:  chunked JSONL -> embedding -> vector_db
+
+This step consumes chunking.py's output (the *_documents.jsonl files) rather than
+re-deriving documents from the cleaned JSON, so chunking remains the single
+source of truth for how text is split. Run chunking.py before this script.
 """
 
-import sqlite3
+import sys
 import json
+import sqlite3
 from pathlib import Path
-
-from database.utils.io_utils import load_json
+from database.utils.io_utils.py import load_json1
 
 from sentence_transformers import SentenceTransformer
 
 
+# ----------------------------
+# PATHS
+# ----------------------------
 DB_PATH = Path("database/vector_db/vector.db")
 SCHEMA_PATH = Path("database/vector_db/vector_schema.sql")
+CHUNK_DIR = Path("database/vector_db/chunking.py")
 
 
 # ----------------------------
@@ -33,12 +41,14 @@ model = SentenceTransformer("all-MiniLM-L6-v2")
 # DB INIT
 # ----------------------------
 def init_db():
+    DB_PATH.parent.mkdir(parents=True, exist_ok=True)
+    if DB_PATH.exists():          # rebuild from scratch for a clean, idempotent load
+        DB_PATH.unlink()
+
     conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
-
+    conn.execute("PRAGMA foreign_keys = ON")
     with open(SCHEMA_PATH, "r", encoding="utf-8") as f:
-        cursor.executescript(f.read())
-
+        conn.executescript(f.read())
     conn.commit()
     return conn
 
@@ -46,100 +56,73 @@ def init_db():
 # ----------------------------
 # EMBEDDING HELPER
 # ----------------------------
-def embed(text):
-    if not text:
-        return None
-    return model.encode(text).tolist()
+def embed_texts(texts):
+    """Batch-encode a list of texts into a list of vectors (as plain lists).
+    Empty input returns an empty list."""
+    if not texts:
+        return []
+    return model.encode(texts, show_progress_bar=False).tolist()
 
 
 # ----------------------------
-# DOCUMENT BUILDERS
+# INSERT INTO VECTOR DB (one function per source table)
 # ----------------------------
-def build_comment_docs(comments):
-    docs = []
-    for c in comments:
-        text = c.get("text_original", "")
-        docs.append({
-            "document_id": f"c_{c.get('comment_id')}",
-            "video_id": c.get("video_id"),
-            "doc_type": "comment",
-            "text": text,
-            "metadata": {
-                "like_count": c.get("like_count"),
-                "author": c.get("author_display_name"),
-                "published_at": c.get("published_at"),
-                "parent_id": c.get("parent_id"),
-                "comment_type": c.get("comment_type")
-            },
-            "embedding": embed(text)
-        })
-    return docs
-
-
-def build_transcript_docs(transcripts):
-    docs = []
-    for t in transcripts:
-        text = t.get("text", "")
-        if not text:
-            continue
-
-        docs.append({
-            "document_id": f"t_{t.get('video_id')}",
-            "video_id": t.get("video_id"),
-            "doc_type": "transcript",
-            "text": text,
-            "metadata": {
-                "status": t.get("status"),
-                "language_attempted": t.get("language_attempted")
-            },
-            "embedding": embed(text)
-        })
-    return docs
-
-
-def build_video_docs(videos):
-    docs = []
-    for v in videos:
-        text = f"{v.get('title','')} {v.get('description','')}"
-
-        docs.append({
-            "document_id": f"v_{v.get('video_id')}",
-            "video_id": v.get("video_id"),
-            "doc_type": "video_summary",
-            "text": text,
-            "metadata": {
-                "channel_title": v.get("channel_title"),
-                "published_at": v.get("published_at"),
-                "view_count": v.get("view_count"),
-                "like_count": v.get("like_count"),
-                "comment_count": v.get("comment_count"),
-                "tags": v.get("tags", [])
-            },
-            "embedding": embed(text)
-        })
-    return docs
-
-
-# ----------------------------
-# INSERT INTO VECTOR DB
-# ----------------------------
-def insert_documents(conn, docs):
-    cursor = conn.cursor()
-
-    for d in docs:
-        cursor.execute("""
-            INSERT OR REPLACE INTO documents
+def insert_youtube(conn, docs):
+    cur = conn.cursor()
+    embeddings = embed_texts([d.get("text", "") for d in docs])
+    for d, emb in zip(docs, embeddings):
+        cur.execute("""
+            INSERT OR REPLACE INTO youtube_documents
             (document_id, video_id, doc_type, text, metadata, embedding)
-            VALUES (?, ?, ?, ?, ?, ?)
+            VALUES (?,?,?,?,?,?)
         """, (
             d.get("document_id"),
             d.get("video_id"),
             d.get("doc_type"),
             d.get("text"),
             json.dumps(d.get("metadata", {}), ensure_ascii=False),
-            json.dumps(d.get("embedding")) if d.get("embedding") else None
+            json.dumps(emb),
         ))
+    conn.commit()
 
+
+def insert_hackernews(conn, docs):
+    cur = conn.cursor()
+    embeddings = embed_texts([d.get("text", "") for d in docs])
+    for d, emb in zip(docs, embeddings):
+        cur.execute("""
+            INSERT OR REPLACE INTO hackernews_documents
+            (document_id, record_id, story_id, doc_type, text, metadata, embedding)
+            VALUES (?,?,?,?,?,?,?)
+        """, (
+            d.get("document_id"),
+            d.get("record_id"),
+            d.get("story_id"),
+            d.get("doc_type"),
+            d.get("text"),
+            json.dumps(d.get("metadata", {}), ensure_ascii=False),
+            json.dumps(emb),
+        ))
+    conn.commit()
+
+
+def insert_research(conn, docs):
+    cur = conn.cursor()
+    embeddings = embed_texts([d.get("text", "") for d in docs])
+    for d, emb in zip(docs, embeddings):
+        cur.execute("""
+            INSERT OR REPLACE INTO research_documents
+            (document_id, record_id, doi, doc_type, text, metadata, embedding)
+            VALUES (?,?,?,?,?,?,?)
+        """, (
+            d.get("document_id"),
+            d.get("record_id"),
+            d.get("doi"),
+            d.get("doc_type"),
+            d.get("text"),
+            json.dumps(d.get("metadata", {}), ensure_ascii=False),
+            json.dumps(emb),
+        ))
     conn.commit()
 
 
@@ -149,21 +132,19 @@ def insert_documents(conn, docs):
 def main():
     conn = init_db()
 
-    comments = load_json("data/preprocessing/clean_comments.json")
-    transcripts = load_json("data/preprocessing/clean_transcripts.json")
-    videos = load_json("data/preprocessing/clean_videos.json")
+    youtube = load_jsonl(CHUNK_DIR / "youtube_documents.jsonl")
+    hackernews = load_jsonl(CHUNK_DIR / "hackernews_documents.jsonl")
+    research = load_jsonl(CHUNK_DIR / "research_documents.jsonl")
 
-    comment_docs = build_comment_docs(comments)
-    transcript_docs = build_transcript_docs(transcripts)
-    video_docs = build_video_docs(videos)
+    insert_youtube(conn, youtube)
+    insert_hackernews(conn, hackernews)
+    insert_research(conn, research)
 
-    all_docs = comment_docs + transcript_docs + video_docs
-
-    insert_documents(conn, all_docs)
-
+    total = len(youtube) + len(hackernews) + len(research)
     conn.close()
 
-    print(f"Vector DB created with {len(all_docs)} embedded documents.")
+    print(f"Vector DB created with {total} embedded documents "
+          f"(youtube={len(youtube)}, hackernews={len(hackernews)}, research={len(research)}).")
 
 
 if __name__ == "__main__":
