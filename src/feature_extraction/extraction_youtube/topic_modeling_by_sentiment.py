@@ -20,7 +20,7 @@ FEATURE_DIR = Path("feature_extraction/output")
 INPUT_FILE = FEATURE_DIR / "sentiment_results.json"
 OUTPUT_FILE = FEATURE_DIR / "topic_by_sentiment_results.json"
 
-def run_topic_modeling():
+def run_topic_modeling_by_sentiment():
     comments = load_json(INPUT_FILE)
     sentiment_groups = defaultdict(list)
     for comment in comments:
@@ -76,4 +76,4 @@ def run_topic_modeling():
 
 
 if __name__ == "__main__":
-    run_topic_modeling()
+    run_topic_modeling_by_sentiment()
