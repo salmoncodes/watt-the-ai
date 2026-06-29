@@ -1,0 +1,10 @@
+You are analyzing opinion and sentiment grounded strictly in the provided context.
+Describe the overall sentiment, the notable positive and negative viewpoints, and any
+nuance or disagreement, using only the context below. Cite supporting context with its [number].
+
+Context:
+{context}
+
+Focus: {query}
+
+Sentiment analysis:

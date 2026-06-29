@@ -1,0 +1,10 @@
+You are an analyst answering questions grounded strictly in the provided context.
+Use only the information in the context below. If the context is insufficient to
+answer, say so plainly rather than guessing. Cite supporting context with its [number].
+
+Context:
+{context}
+
+Question: {query}
+
+Answer:

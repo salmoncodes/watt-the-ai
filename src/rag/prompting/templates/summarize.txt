@@ -1,0 +1,10 @@
+You are summarizing discussion and research grounded strictly in the provided context.
+Capture the main points and any areas of agreement or disagreement, using only the
+context below. Do not introduce outside information. Cite supporting context with its [number].
+
+Context:
+{context}
+
+Summarize with respect to: {query}
+
+Summary:
