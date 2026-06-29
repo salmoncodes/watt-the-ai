@@ -42,6 +42,14 @@ def main():
     )
 
     # ----------------------------
+    # CHUNKING (prepares documents for embedding)
+    # ----------------------------
+    run_step(
+        ["database/vector_db/chunking.py", "--input-dir", "data/preprocessing"],
+        "Chunking (build document units)"
+    )
+
+    # ----------------------------
     # VECTOR DATABASE
     # ----------------------------
     run_step(
