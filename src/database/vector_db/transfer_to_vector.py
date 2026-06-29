@@ -28,7 +28,7 @@ from sentence_transformers import SentenceTransformer
 # ----------------------------
 DB_PATH = Path("database/vector_db/vector.db")
 SCHEMA_PATH = Path("database/vector_db/vector_schema.sql")
-CHUNK_DIR = Path("database/vector_db/chunking.py")
+CHUNK_DIR = Path("database/vector_db/chunks")
 
 
 # ----------------------------
