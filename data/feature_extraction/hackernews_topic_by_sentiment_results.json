@@ -1,0 +1,1703 @@
+[
+  {
+    "sentiment_label": "positive",
+    "document_count": 1278,
+    "topic_count": 8,
+    "topics": [
+      {
+        "sentiment_label": "positive",
+        "topic": 0,
+        "count": 302,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.05848983826211493
+          },
+          {
+            "word": "to",
+            "score": 0.05082011599610726
+          },
+          {
+            "word": "and",
+            "score": 0.04827066966814158
+          },
+          {
+            "word": "of",
+            "score": 0.04706504234563582
+          },
+          {
+            "word": "that",
+            "score": 0.03405417318547724
+          },
+          {
+            "word": "is",
+            "score": 0.03389120534946916
+          },
+          {
+            "word": "in",
+            "score": 0.03152099486274368
+          },
+          {
+            "word": "it",
+            "score": 0.030649463120437925
+          },
+          {
+            "word": "for",
+            "score": 0.025770352943977524
+          },
+          {
+            "word": "intelligence",
+            "score": 0.025706547934938703
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "37125118",
+            "story_id": 37125118,
+            "text": "outlines is a python library that focuses on text generation with large language models. brandon and i are not llm experts and started the project a few months ago because we wanted to understand better how the generation process works. our original background is probabilistic, relational and symbolic programming. recently we came up with a fast way to generate text that matches a regex ( the basic idea is simple: regular expressions have an equivalent deterministic-finite automaton (dfa) representation. we can transform this dfa into a generative model: in each state we get a list of symbols which correspond to completions that partially match the regular expression. we mask the other symbols in the logits returned by a large language model, sample a new symbol and move to the next state. the subtelty is that language models work with tokens, not symbols, so we derive a new flying spaghetti monster whose alphabet is the model's vocabulary. we can do this in only one pass over the vocabulary. generating the token masks thus only requires a dictionary lookup at each state. our method blows other libraries like microsoft's guidance out of the water. from there it was only a small leap to be able to generate text that follows a json schema ( or is parseable into a pydantic model ( the method works with union types, optional types, nested schemas, arrays, everything. it is guaranteed that the output is parseable. i think it's cool, and i've spent a lot of time watching even tiny models output valid json over the weekend. hope you will too. i look forward to feedback, bug reports, feature requests and discussions! edit: link to our pre-print explaining the method and how this can be extended to generate text that follows a context-free grammar",
+            "compound": 0.9041,
+            "score": 854
+          },
+          {
+            "record_id": "39385635",
+            "story_id": 39385635,
+            "text": "hey everyone! akash and gabe here from zenfetch ( how it works: (1) optionally import your existing saved web browsing through one of our integrations or through a url csv import. (2) click the zenfetch icon in a tab to save any pdf, youtube video, note, article, email, forum post, etc. zenfetch can save almost anything across the internet. (3) zenfetch indexes the text or transcript and adds that information to your personal knowledge assistant. this is done on your computer so you don't have to worry about paywalls, logins, etc. (4) use the dashboard or side panel to search your knowledge or chat with your personal knowledge assistant. we built zenfetch to solve our personal problem: we were reading tons of content but using little to none of the information. while searching for solutions, we found that most tools were good at storing information but not at retrieving it. we even found that search functionalities on existing read-later tools got worse the more content we saved. a few examples of how our users use zenfetch: \"what was that article i read on the new nuclear fusion company?\", \"analyze this strategy based on the lenny rachitsky article i read\", \"summarize karpathys video introducing llms\", \"which research papers mentioned the increase in carbon emissions?\", \"compile the different perspectives i've read on climate change\", and more. zenfetch is free for the first 14 days and then costs $14.99/mo (no credit card needed for the trial). we'd love for you to try it out and let us know what we can do to improve your experience! while we only work on chromium-based browsers right now, we're actively working on browser compatibility and integrations. let us know which ones to prioritize!",
+            "compound": 0.9896,
+            "score": 136
+          },
+          {
+            "record_id": "39119664",
+            "story_id": 39119664,
+            "text": "hey everyone! akash and gabe here from zenfetch (yc w23) - a chrome extension to help you remember more of what you read. zenfetch makes it easy to index any content from across the web into a neural search engine and artificial intelligence chat. try the chrome extension at <a href=\" how it works: 1. optionally sync your bookmarks and/or pocket saves. zenfetch will continue to sync newly saved items. 2. click the zenfetch icon in a tab to save any pdf, youtube video, note, article, email, forum post, etc. zenfetch can save almost anything across the internet. 3. zenfetch indexes the text or transcript and adds that information to your artificial intelligence second brain. 4. use the dashboard or side panel to search or chat with your artificial intelligence second brain. 5. zenfetch will send morning digests summarizing your reading. a few examples of how our users use zenfetch: \"what articles have i read on nuclear fusion?\", \"analyze this strategy based on the lenny rachitsky article i read\", \"summarize karpathys video introducing llms\", \"which research papers mentioned the increase in carbon emissions?\", \"compile the different perspectives i've read on climate change\" and more. we built zenfetch to solve the personal pain of reading tons of content but using little to none of the information. while searching for solutions, we found that most tools were good at storing information but not at retrieving it. we even found that search functionalities on existing read-later tools got worse the more content we saved. zenfetch is free for the first 14 days and then costs $14.99/mo (no credit card needed for the trial). we'd love for you to try it out and let us know what we can do to improve your experience! while we only work on chromium-based browsers right now, we're actively working on browser compatibility and integrations. let us know which ones to prioritize!",
+            "compound": 0.9911,
+            "score": 56
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 1,
+        "count": 230,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.057899199006831124
+          },
+          {
+            "word": "of",
+            "score": 0.04828781025739922
+          },
+          {
+            "word": "to",
+            "score": 0.04728097557702091
+          },
+          {
+            "word": "and",
+            "score": 0.04256214002690531
+          },
+          {
+            "word": "energy",
+            "score": 0.03982620635495253
+          },
+          {
+            "word": "is",
+            "score": 0.0397427123856773
+          },
+          {
+            "word": "that",
+            "score": 0.035605860435512046
+          },
+          {
+            "word": "intelligence",
+            "score": 0.030609930365954514
+          },
+          {
+            "word": "it",
+            "score": 0.029776348171847024
+          },
+          {
+            "word": "in",
+            "score": 0.029559932118732937
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "39397161",
+            "story_id": 39397161,
+            "text": "how much electricity does artificial intelligence consume?",
+            "compound": 0.4767,
+            "score": 106
+          },
+          {
+            "record_id": "40802484",
+            "story_id": 40802484,
+            "text": "taking a closer look at ai's supposed energy apocalypse",
+            "compound": 0.2732,
+            "score": 58
+          },
+          {
+            "record_id": "40823124",
+            "story_id": 40823124,
+            "text": "bill gates says not to worry about ai's energy draw, technology will adapt",
+            "compound": 0.5432,
+            "score": 14
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 2,
+        "count": 224,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.06031806512067044
+          },
+          {
+            "word": "of",
+            "score": 0.047614771988761254
+          },
+          {
+            "word": "to",
+            "score": 0.04650748595990027
+          },
+          {
+            "word": "and",
+            "score": 0.04407220962309257
+          },
+          {
+            "word": "is",
+            "score": 0.03774702570815898
+          },
+          {
+            "word": "energy",
+            "score": 0.037717602758025916
+          },
+          {
+            "word": "that",
+            "score": 0.03534409879369005
+          },
+          {
+            "word": "in",
+            "score": 0.03481984130712695
+          },
+          {
+            "word": "for",
+            "score": 0.029162398611065694
+          },
+          {
+            "word": "it",
+            "score": 0.026969191003664274
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "41556519",
+            "story_id": 41556519,
+            "text": "hey hn! we're jayesh, cris, and nikhil, the team behind silurian ( and [aurora]( projects at microsoft. the foundation models they built improved on the ecmwf's forecasts, considered the gold standard in weather prediction, while only using a fraction of the available training data. our mission at silurian is to scale these models to their full potential and push them to the limits of physical predictability. ultimately, we aim to model all infrastructure that is impacted by weather including the energy grid, agriculture, logistics, and defense. hence: simulate the earth. before we do all that, this summer we've built our own foundation model, gft (generative forecasting transformer), a 1.5b parameter frontier model that simulates global weather up to 14 days ahead at approximately 11km resolution (<a href=\" despite the scarce amount of extreme weather data in historical records, we have seen that gft is performing extremely well on predicting 2024 hurricane tracks (<a href=\" you can play around with our hurricane forecasts at <a href=\" we visualize these using [cambecc/earth] (<a href=\" one of our favorite open source weather visualization tools. we're excited to be launching here on hn and would love to hear what you think!",
+            "compound": 0.9622,
+            "score": 338
+          },
+          {
+            "record_id": "30587276",
+            "story_id": 30587276,
+            "text": "at the latest since the widely cited article on green artificial intelligence [1], there has been increased discussion about the energy consumption of ml. whenever i talk to colleagues about this, we always agree that there is a dangerous potential lying dormant here, but somehow it cannot be properly grasped. there is simply a lack of really good data. calculators for emission like from victor schmidt and the whole yoshua bengio team at mila [2] [3] are very good tools for your own use, but can tell you little about the overall situation. so here are two questions for the hackernews community: 1) how do you assess the topic of ml energy consumption in general and what are factors you consider important? 2) is it possible to make the energy consumption of ml transparent via legal regulation (such as the currently negotiated artificial intelligence act of the eu) and if so, how can something like this look exactly? or would this be a disaster in the making, because in reality ml is only a small building block of a larger architecture and thus far too laborious to measure for small stakeholder? [1] [2] [3]",
+            "compound": 0.9453,
+            "score": 11
+          },
+          {
+            "record_id": "44173331",
+            "story_id": 44173331,
+            "text": "hello hn! we are gametorch, a pre-launch startup that lets you generate 2d video game assets and publish them to the creative commons. we use image models that were energy intensive to train. we care about the earth and have made a promise to be carbon positive at the inference level. it would be extremely ideal if the sum of all artificial intelligence driven companies were so carbon positive that we also outweigh the costs of training these models. we need to make good on our promise. does hn have any recommendations for carbon sequestration companies? separately, any feedback or advice on the following analysis of our energy usage and carbon emissions would be greatly appreciated. we really truly care about making a positive impact on the earth and are eager to hear about any flaws in our thought process. it's not about pr, it's about doing things the right way. here's our current analysis: energy use, co2 emissions, and cost per image generation approximate energy use per image generation: ~0.5 wh (watt-hours) co2 emissions per image (us grid average): ~0.08 kg (0.08 grams) total for 1,0 images: 0.5 kwh, 0.08 kg co2 context: a typical us domestic flight (e.g., new york city to chicago) emits about 300 kg co2 per passenger-over 3 million times more than a single image generation. context: boiling water for one pour-over coffee (about 12 oz/350 ml) uses ~50 wh and emits ~0.02 kg (20 grams) co2-about 100× more energy and 250× more co2 than generating one image. cost to sequester co2 from 1,0 image generations: at scale, permanent carbon removal is about $100/tonne. sequestering 0.08 kg (from 1,0 images) costs about $0.008 usd.",
+            "compound": 0.9946,
+            "score": 3
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 3,
+        "count": 198,
+        "topic_words": [
+          {
+            "word": "water",
+            "score": 0.11228729041820809
+          },
+          {
+            "word": "the",
+            "score": 0.06139667325491256
+          },
+          {
+            "word": "to",
+            "score": 0.047369109854165765
+          },
+          {
+            "word": "of",
+            "score": 0.045521821663074495
+          },
+          {
+            "word": "is",
+            "score": 0.04231238934558113
+          },
+          {
+            "word": "data",
+            "score": 0.040829334764680966
+          },
+          {
+            "word": "usage",
+            "score": 0.03663901713812326
+          },
+          {
+            "word": "and",
+            "score": 0.036235483846452615
+          },
+          {
+            "word": "that",
+            "score": 0.0337570249942808
+          },
+          {
+            "word": "in",
+            "score": 0.032854311245039694
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "48491253",
+            "story_id": 48491253,
+            "text": "amazon says its data centers use 2.5b gallons of water",
+            "compound": 0.1779,
+            "score": 45
+          },
+          {
+            "record_id": "48447122",
+            "story_id": 48447122,
+            "text": "majority of us's new artificial intelligence datacenters to be built on drought-hit land",
+            "compound": 0.4767,
+            "score": 6
+          },
+          {
+            "record_id": "48385322",
+            "story_id": 48385322,
+            "text": "artificial intelligence has a water problem. google thinks it has a fix",
+            "compound": 0.1027,
+            "score": 6
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 4,
+        "count": 156,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.060405507968198956
+          },
+          {
+            "word": "to",
+            "score": 0.04656299804154752
+          },
+          {
+            "word": "and",
+            "score": 0.044676441489421445
+          },
+          {
+            "word": "of",
+            "score": 0.03826066148464396
+          },
+          {
+            "word": "for",
+            "score": 0.0323020362869918
+          },
+          {
+            "word": "in",
+            "score": 0.030460709406227256
+          },
+          {
+            "word": "is",
+            "score": 0.030304404448011538
+          },
+          {
+            "word": "power",
+            "score": 0.027422347855058534
+          },
+          {
+            "word": "that",
+            "score": 0.027223628966173405
+          },
+          {
+            "word": "on",
+            "score": 0.02579847425760255
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "44436903",
+            "story_id": 44436903,
+            "text": "hi hn, we're excited to introduce fixstars aibooster, our new performance engineering tool designed to significantly accelerate artificial intelligence model training while optimizing gpu utilization. aibooster provides: real-time monitoring of gpu, cpu, memory, and power consumption. clear visibility into performance bottlenecks, helping developers optimize artificial intelligence workloads. proven acceleration of artificial intelligence training processes-users commonly achieve up to 2-3x speed improvements. significant cost savings by maximizing infrastructure efficiency. it's free to try, requires minimal setup, and integrates seamlessly into your existing infrastructure. we've built this tool to empower artificial intelligence developers to get the most from their gpu infrastructure without complicated tuning. we'd love your feedback, questions, or suggestions!",
+            "compound": 0.9892,
+            "score": 7
+          },
+          {
+            "record_id": "35984393",
+            "story_id": 35984393,
+            "text": "how much energy consumption is involved in chat gpt responses being generated?",
+            "compound": 0.2732,
+            "score": 3
+          },
+          {
+            "record_id": "43788904",
+            "story_id": 43788904,
+            "text": "hi hn! i'd like to share tsce - a python library that gives small models the ability to follow instructions with above gpt-4-like precision using a two-step architecture. it's designed for developers who want reliable, high-quality results without the need for fine-tuning large models. too long; didn't read tsce uses a two-step approach to improve the reliability of language models. this ensures more accurate and coherent outputs, especially for tasks that require rule adherence or detailed instructions. - why you should care * no fine-tuning: you don't need to fine-tune models. tsce works with existing models like gpt-3.5 and gpt-4. * improved reliability: by decoupling the thinking process (phase 1) and the answering process (phase 2), you get more consistent, on-topic results. * works with openai and azure: tsce works out of the box with both openai and azure openai apis, so it's ready to plug into your existing workflows. * minimal overhead: the additional latency is small (~2 application program interface calls), but the payoff is huge in terms of clarity and accuracy. example from tsce import tscechat tsce = tscechat(model=\"gpt-3.5-turbo\") prompt = \"provide a brief explanation of the benefits of solar energy and how it impacts the environment. include an example of a renewable energy source other than solar energy.\" reply = tsce(prompt) print(\"answer (phase 2):\", reply.content) # the final response generated after phase 2 print(\"anchor (phase 1):\", reply.anchor) # the structured anchor generated in phase 1 output example: - *anchor (phase 1)*: `solar::harvest~light{clean}-echo::sustain[green]` ##end#` - *answer (phase 2)*: `\"solar energy offers numerous benefits, particularly in terms of environmental impact. here are some key points: 1. *clean energy source*: solar energy is a clean and renewable source of power. it generates electricity without emitting greenhouse gases or pollutants, which helps reduce the overall carbon footprint. 2. *reduction in fossil fuel dependence*: by harnessing solar energy, we can decrease our reliance on fossil fuels, which are finite and contribute significantly to environmental pollution and climate change. 3. *sustainable and renewable*: solar energy is abundant and inexhaustible. as long as the sun shines, we can harness its power, making it a sustainable energy solution for the long term. 4. *positive environmental impact*: utilizing solar energy reduces air and water pollution, minimizes habitat destruction, and decreases the strain on natural resources. this contributes to a healthier ecosystem and a more balanced natural environment. *example of another renewable energy source*: wind energy is another excellent example of a renewable energy source. wind turbines convert the kinetic energy from wind into electrical power. like solar energy, wind energy is clean, sustainable, and helps reduce greenhouse gas emissions. wind farms can be established on land or offshore, providing versatile options for generating renewable energy.\"` - installation ` pip install tsce ` customizing system prompts you can easily customize the system instructions for the final pass by passing in a custom *`final prefix`*: ` tsce = tscechat(final prefix=\"you are a helpful assistant, please respond in 3 sentences.\") reply = tsce(\"explain the concept of recursion.\") print(reply.content) ` - if you have any questions or want to try it out, feel free to comment here or head over to the repo. [github repo]( looking forward to hearing what you think!",
+            "compound": 0.9988,
+            "score": 3
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 5,
+        "count": 132,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.06493880524636277
+          },
+          {
+            "word": "to",
+            "score": 0.050089161373909945
+          },
+          {
+            "word": "of",
+            "score": 0.04410194797733197
+          },
+          {
+            "word": "and",
+            "score": 0.041553572608827416
+          },
+          {
+            "word": "data",
+            "score": 0.03928855561444653
+          },
+          {
+            "word": "in",
+            "score": 0.03740890698540429
+          },
+          {
+            "word": "that",
+            "score": 0.035715286679204476
+          },
+          {
+            "word": "is",
+            "score": 0.03379860086611271
+          },
+          {
+            "word": "centers",
+            "score": 0.03062199505224932
+          },
+          {
+            "word": "are",
+            "score": 0.030210174718098545
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "48248940",
+            "story_id": 48248940,
+            "text": "data centers could be good for your hometown",
+            "compound": 0.4404,
+            "score": 2
+          },
+          {
+            "record_id": "48372104",
+            "story_id": 48371592,
+            "text": "this article is bullshit. it downplays the real, valid concerns people have about data centers themselves as more \"ahh, poor uniformed populace\" bs: 1. electricity costs in maryland jumped 89% over the past year, much more than anywhere else, largely due to an aws data center expansion: 2. at their heart, data centers are extractive. their boosters always overstate the jobs they will create, but they basically take land and resources from one place and create the vast majority of the wealth somewhere else. they are giant windowless boxes, they don't support their community in any way, and in fact with artificial intelligence they basically add to more job destruction in their communities. while i agree that some downsides of artificial intelligence are overstated (like water usage), this whole article smacks of paternalistic \"the peons just don't understand what's really going on\" nonsense. the same thing happened in the 80s, 90s and early 00s when many economists painted those who lost their jobs due to globalization as luddites who just didn't understand economics. only decades later did many economists readily admit many of the huge downsides to many populations from globalization and that reskilling rarely works.",
+            "compound": 0.881,
+            "score": 0
+          },
+          {
+            "record_id": "48281794",
+            "story_id": 48281714,
+            "text": "i would say it is the \"metrics driven environment\" surrounding datacenter operations. which is already sliced and diced to conform to rack u-age and cage space. so customers within said datacener can be charged or each element. look for water to become a true metric as well! that said all of this primarily rolls up into token usage and ai. since use of artificial intelligence resources is based on token usage, each element can also be sliced and diced down to the token cost. a very fair metric frankly, but contributing to compute scarcity as an overall concept.",
+            "compound": 0.6356,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 6,
+        "count": 29,
+        "topic_words": [
+          {
+            "word": "and",
+            "score": 0.06815683768028903
+          },
+          {
+            "word": "for",
+            "score": 0.051528073804301966
+          },
+          {
+            "word": "our",
+            "score": 0.049956919193800915
+          },
+          {
+            "word": "engineer",
+            "score": 0.047954201131154936
+          },
+          {
+            "word": "remote",
+            "score": 0.046152425167778365
+          },
+          {
+            "word": "we",
+            "score": 0.045993407172291445
+          },
+          {
+            "word": "software",
+            "score": 0.042204594654652414
+          },
+          {
+            "word": "to",
+            "score": 0.040900166719759164
+          },
+          {
+            "word": "with",
+            "score": 0.036713082533637774
+          },
+          {
+            "word": "data",
+            "score": 0.03448711305344368
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "45937611",
+            "story_id": 45937611,
+            "text": "background: i'm a solo technical founder building velumin, a carbon accounting platform for fortune 500 compliance (csrd, brsr, ghg protocol). the challenge: esg platforms need: - deterministic calculations (auditors reject \"ai math\") - immutable audit trails (sox/soc2 requirements) - multi-jurisdictional compliance (eu csrd, india brsr, us sec) - real-time anomaly detection + artificial intelligence document generation *my experiment:* i used cursor, github copilot, and amazon q (kiro) to architect the entire stack, guided by a structured \"war-mode\" prompt covering: 1. technical architecture (multi-region, event sourcing, circuit breakers) 2. esg methodology (ghg protocol validators, uncertainty quantification) 3. regulatory engines (brsr/csrd/sec automation) 4. product/ux (role-based onboarding, supplier agent, no-code workflows) *ai correctly identified:* \"never use llms for emission calculations-auditors will reject it\" \"implement worm storage for audit trails, not 'agent memory'\" \"multi-model strategy: gpt-4v for ocr, claude for reports, rules for compliance\" \"india-first brsr compliance = competitive moat\" *what i'm unsure about:* - are there architectural anti-patterns artificial intelligence tools systematically miss? - for compliance-critical systems, is artificial intelligence review a complement or substitute for human ctos? - what's the right balance of ai-generated architecture vs. human validation? *for experienced ctos/architects:* what would you want to validate in a system like this that artificial intelligence likely couldn't catch? and conversely, are there areas where artificial intelligence review is now legitimately superior to human review (e.g., exhaustive checklist coverage)? i'm happy to share: - the full war-mode prompt structure (so you can adapt it) - our architecture decisions and trade-offs - specific gaps we're worried about curious to hear from folks building audit-grade or compliance-heavy systems.",
+            "compound": 0.9721,
+            "score": 2
+          },
+          {
+            "record_id": "47222910",
+            "story_id": 47219668,
+            "text": "strobe | senior infrastructure & data integration engineer | brooklyn, new york city | onsite | full-time strobe is building the world's largest power plant - not a single site, but a distributed fleet of buildings, batteries, evs, and generators buying and selling power in real time across wholesale energy markets. we need a senior engineer to own our data integration and cloud infrastructure layer - the connective tissue between utilities, grid operators, oem hardware, weather services, and our optimization engine. what you'd own: - wholesale market integrations (nyiso, caiso, ercot) - real-time pricing, capacity markets, demand response signals - oem hardware integrations - application program interface and data bridges to building equipment manufacturers for monitoring, control, and telemetry - green button connect pipelines - ingesting interval consumption, billing, and meter data from utilities (coned, pg&e, sce, etc.) via oauth2 + espi - weather and solar forecast data pipelines - utility bill reproduction engine - modeling site economics before and after strobe to forecast financial impact across dozens of rate structures. this simulation infrastructure is core to how we sell and deliver value. - event-driven aws infrastructure (lambda, application program interface gateway, appsync/graphql, eventbridge, iot core, timestream, amplify, cloudwatch) - terraform iac - real module design, remote state, multi-workspace patterns - observability and alerting on systems where downtime means missed market events and real dollars strong fit if you have: - deep aws experience (iam, lambda, application program interface gateway, appsync, eventbridge, timestream or similar tsdb) - production terraform (modules, remote state, multi-workspace patterns) - extensive python (pydantic for models, click for clis, boto3 for aws, async pipelines) - experience integrating messy third-party apis at scale (utilities, government, energy, oems) - comfort with on-call for systems that control physical hardware and move real money stack: python / typescript / rust / terraform / aws / graphql (appsync) / mqtt / grafana - ai-agent-optimized monorepo with deep investment in agent-enabled engineering efficiency. small team, high ownership, no layers. 5 days/week onsite at newlab, brooklyn navy yard. eric (mention hn) - linkedin or resume (pdf preferred).",
+            "compound": 0.9468,
+            "score": 0
+          },
+          {
+            "record_id": "46551339",
+            "story_id": 46466074,
+            "text": "saia agrobotics | | fullstack developer | onsite / hybrid (2 office days a week) | ede-wageningen, nl we're in search of a fullstack developer to join the saia agrobotics team. our innovative start-up revolutionises the greenhouse sector with state-of-the-art robotics, dramatically reducing labor costs and helping the environment by cutting back on energy, land and water consumption. are you an experienced and passionate software engineer that can help us build the software platform that powers this exciting new technology? this isn't your run-of-the-mill web application; we're combining the latest in web technologies, industrial automation and ai. we need an engineer that loves to learn and with an eye for detail. we're looking for engineers with experience in rust or a desire to learn and at least 5 years experience in backend development. to apply, email: recruitment",
+            "compound": 0.9724,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 7,
+        "count": 7,
+        "topic_words": [
+          {
+            "word": "squint",
+            "score": 0.17724740191162455
+          },
+          {
+            "word": "manufacturing",
+            "score": 0.10556941157147127
+          },
+          {
+            "word": "and",
+            "score": 0.09742229952889706
+          },
+          {
+            "word": "is",
+            "score": 0.08943333073458805
+          },
+          {
+            "word": "roles",
+            "score": 0.08813054032552269
+          },
+          {
+            "word": "operator",
+            "score": 0.08752234690905666
+          },
+          {
+            "word": "expert",
+            "score": 0.08158576834393949
+          },
+          {
+            "word": "knowledge",
+            "score": 0.07201977595041995
+          },
+          {
+            "word": "executive",
+            "score": 0.06082199229669213
+          },
+          {
+            "word": "engineer",
+            "score": 0.0545625790365641
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "42953037",
+            "story_id": 42919502,
+            "text": "squint | remote, us & canada | squint is a mobile application that uses artificial intelligence and are to automate data entry, generate custom procedures, and make every operator an expert. | squint.ai/careers the u.s. manufacturing industry, worth $7 trillion, is growing rapidly but faces challenges in workforce turnover and management. adopting technology is essential for improving training, efficiency, and scalability, yet the sector's tech landscape is still lacking. enter squint. squint makes it easy to capture expert knowledge, unlock operator performance, and analyze production insights. manufacturing leaders use squint to reduce downtime and increase quality - all on a platform operators love. the best part is, this is just the beginning. we believe our solution can extend beyond manufacturing, and soon, we'll empower workforces in industries like energy, healthcare, hospitality, and more. our mission is to accelerate human potential by bringing digital knowledge into the real world. high priority open roles: - strategic enterprise account executive - software engineer - senior manual qa engineer - sales engineer view full list of roles and apply here:",
+            "compound": 0.9909,
+            "score": 0
+          },
+          {
+            "record_id": "43245662",
+            "story_id": 43243024,
+            "text": "squint | in person at our vibrant sf office 5x/week | squint is a mobile application that uses artificial intelligence and are to automate data entry, generate custom procedures, and make every operator an expert. | squint.ai/careers the u.s. manufacturing industry, worth $7 trillion, is growing rapidly but faces challenges in workforce turnover and management. adopting technology is essential for improving training, efficiency, and scalability, yet the sector's tech landscape is still lacking. enter squint. squint makes it easy to capture expert knowledge, unlock operator performance, and analyze production insights. manufacturing leaders use squint to reduce downtime and increase quality - all on a platform operators love. the best part is, this is just the beginning. we believe our solution can extend beyond manufacturing, and soon, we'll empower workforces in industries like energy, healthcare, hospitality, and more. our mission is to accelerate human potential by bringing digital knowledge into the real world. high priority open roles: - strategic enterprise account executive - software engineer - senior manual qa engineer - sales engineer view full list of roles and apply here:",
+            "compound": 0.9916,
+            "score": 0
+          },
+          {
+            "record_id": "42648059",
+            "story_id": 42575537,
+            "text": "squint.ai | remote, us & canada | squint is a mobile application that uses artificial intelligence and are to automate data entry, generate custom procedures, and make every operator an expert. | squint.ai/careers the u.s. manufacturing industry, worth $7 trillion, is growing rapidly but faces challenges in workforce turnover and management. adopting technology is essential for improving training, efficiency, and scalability, yet the sector's tech landscape is still lacking. enter squint. squint makes it easy to capture expert knowledge, unlock operator performance, and analyze production insights. manufacturing leaders use squint to reduce downtime and increase quality - all on a platform operators love. the best part is, this is just the beginning. we believe our solution can extend beyond manufacturing, and soon, we'll empower workforces in industries like energy, healthcare, hospitality, and more. our mission is to accelerate human potential by bringing digital knowledge into the real world. high priority open roles: - strategic enterprise account executive - software engineer - business operations lead - commercial counsel - view full list of roles and apply here:",
+            "compound": 0.9909,
+            "score": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentiment_label": "negative",
+    "document_count": 327,
+    "topic_count": 8,
+    "topics": [
+      {
+        "sentiment_label": "negative",
+        "topic": 0,
+        "count": 57,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.060132541599947235
+          },
+          {
+            "word": "to",
+            "score": 0.058930576977269465
+          },
+          {
+            "word": "of",
+            "score": 0.047628368535926675
+          },
+          {
+            "word": "is",
+            "score": 0.04456013418737109
+          },
+          {
+            "word": "that",
+            "score": 0.040934944097777384
+          },
+          {
+            "word": "and",
+            "score": 0.040108500286601255
+          },
+          {
+            "word": "it",
+            "score": 0.03418554936215678
+          },
+          {
+            "word": "you",
+            "score": 0.03321597362258615
+          },
+          {
+            "word": "for",
+            "score": 0.029883674736534967
+          },
+          {
+            "word": "energy",
+            "score": 0.028032390284466885
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "38096526",
+            "story_id": 38096526,
+            "text": "generative ai's energy problem today is foundational",
+            "compound": -0.1531,
+            "score": 3
+          },
+          {
+            "record_id": "38190779",
+            "story_id": 38190779,
+            "text": "generative ai's energy problem today is foundational",
+            "compound": -0.1531,
+            "score": 2
+          },
+          {
+            "record_id": "48502939",
+            "story_id": 48498573,
+            "text": "not sure what point you wanted to make, but this calculator is quite shocking. gpt 5.5 pro, with \"a long document\" and 10 requests a day gives 25% of daily co2 emissions! ten coding sessions a day with opus is still 4.7%! this feels enormous. i will definitely stop rolling my eyes when people complain about artificial intelligence co/water usage.",
+            "compound": -0.4605,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 1,
+        "count": 56,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.06433357023444897
+          },
+          {
+            "word": "and",
+            "score": 0.04566431932883699
+          },
+          {
+            "word": "to",
+            "score": 0.0431616618778933
+          },
+          {
+            "word": "of",
+            "score": 0.04145718701870338
+          },
+          {
+            "word": "data",
+            "score": 0.03359348627146697
+          },
+          {
+            "word": "for",
+            "score": 0.03279309138735869
+          },
+          {
+            "word": "they",
+            "score": 0.032221155351624904
+          },
+          {
+            "word": "is",
+            "score": 0.03221150621644149
+          },
+          {
+            "word": "in",
+            "score": 0.03197268728764975
+          },
+          {
+            "word": "that",
+            "score": 0.029425944981977953
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "45953512",
+            "story_id": 45953512,
+            "text": "hey hn, our small town was recently approached by a developer with a proposal for a 300 mw data center (dc). the site is highly attractive due to existing infrastructure: proximity to a major power source and access to plenty of non-potable water. additionally, favorable state-level tax incentives (established in 2015) make our region a target for this type of development. as expected, the proposal has generated significant, vocal pushback from some community members, particularly those near the proposed site. their public discourse is often based on misinformation or non-contextual talking points (e.g., cooling issues from areas with different water/infrastructure requirements, the rise of ai, etc). with over 20 years in the don't care industry, i recognize that while some concerns have validity, many are invalid. i'm turning to the hn community for solid, quantifiable feedback to help me weigh the genuine benefits and risks of this specific project. my goal is to create a packet of information to help educate our community and town council before project approval/disapproval. the facts: - * size: 300 mw don't care * location: about 1 mile from our local nuclear power station and just across the street from the water supply. this is approximately 4.5miles outside the current town center. * scale: town's current peak draw is about 120 mw and the don't care needs about 2.5× our existing demand * cooling: evaporative cooling using non-potable water (no competition with drinking water) * the claim: developer $20.7m (us) tax revenue during the construction phase and $13.5m (us) annually in tax returns * details: the proposal can be seen here[1] after doing some personal research, i'm mostly comfortable with the water usage and noise analysis. my core anxiety is the power infrastructure and local utility rates. my questions (seeking data/case studies on similar size/type of dc) - * effect of utility rates: how will a ~ 250% increase in local demand affect the existing residential and commercial utility contracts? is it standard for a high-volume industrial client (co-located near the power source) to negotiate an entirely separate, discounted industrial rate that guarantees no rate increase for existing town residents? * unforeseen grid stress: beyond the don't care itself, what are the other risks this level of sustained demand puts on the regional grid infrastructure (e.g., specific substation upgrades, maintenance costs, or reliability risks) that small towns fail to account for? * any other technical details i need to ask? any technical analyses, case studies, or experience with utility rate structuring for major don't care projects near power plants would be invaluable. thanks in advance. [1]",
+            "compound": -0.6777,
+            "score": 5
+          },
+          {
+            "record_id": "48143244",
+            "story_id": 48134993,
+            "text": "> straining the water resources of towns is a problem! citation needed. i'm sure you can find a few outlier cases, but in general speaking terms datacenters - artificial intelligence or not - are not even a rounding error on any local water source so far. it's just not a thing. it's made up for social media rage bait. > i think data centers look bad because of the human impacts that i've seen what human impact is this, precisely speaking? outside of the (again) few outlier cases, datacenters are basically warehouses you didn't even know existed until you were told to be mad about them. plenty of friends who know i'm in the space have recently asked me about this, not having a clue they've been living within a mile of a facility for the past decade. facilities with co-located power plants are not datacenters. those are power plants with a datacenter attached to the side of it. the power plant would be the concern. even then, these are exceedingly rare and a symptom of a generation or two of american's deciding not to invest in energy infrastructure. power usage is a concern due to the lack of investment in generation or transmission infrastructure in this country the entire time all hn members have been alive - along with the outsourcing of effectively all us industrial capacity to third world nations. anything else is effectively amped up rage bait without a grounding in reality.",
+            "compound": -0.7537,
+            "score": 0
+          },
+          {
+            "record_id": "47879965",
+            "story_id": 47870588,
+            "text": "like what? and are you trying to say they're not harmful? i'd love to hear your reasoning. for me, 10 seconds of googling shows verifiably true claims of data centers having all sorts of negative impacts.",
+            "compound": -0.4815,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 2,
+        "count": 53,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.05586528468663099
+          },
+          {
+            "word": "and",
+            "score": 0.05212896306770113
+          },
+          {
+            "word": "to",
+            "score": 0.049235591445609024
+          },
+          {
+            "word": "of",
+            "score": 0.045764402728087204
+          },
+          {
+            "word": "in",
+            "score": 0.03854933616569862
+          },
+          {
+            "word": "is",
+            "score": 0.037316461388626536
+          },
+          {
+            "word": "that",
+            "score": 0.032923900374171346
+          },
+          {
+            "word": "it",
+            "score": 0.02810442140195592
+          },
+          {
+            "word": "are",
+            "score": 0.02454464053210163
+          },
+          {
+            "word": "this",
+            "score": 0.02412339292310215
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "48372506",
+            "story_id": 48371592,
+            "text": "that's exactly my point! everything has negative externalities, and focusing on them is the way to seem \"rational\" even though you don't actually care about them. it's the same as how people will protest high density residences \"ruining the character of the neighborhood\" when they really just don't want poor people living near them. you can't just outright say you don't want poor people in your neighborhood, so you talk about how these residences ruin neighborhood character, disrupt view cones, cause traffic problems, etc. here it's the same thing--the people protesting don't give a damn about water waste, electricity usage, or wasted land. if they did, there are tons of other offenders who are way worse. but they don't want to outright say they're protesting against artificial intelligence because it makes them seem like luddites.",
+            "compound": -0.8485,
+            "score": 0
+          },
+          {
+            "record_id": "48178933",
+            "story_id": 48177785,
+            "text": "> almost everyone i interact with in reality has a deep distain for llms and their touted trajectory. the western media is stoking these fears. asia is embracing ai. japan is using it in anime. india is going wild with large and small business usage. all of my friends in india report how popular it is, and how they're using it to get work done. i don't even have to mention china. i am sick of how our media is brainwashing people to hate one of the most important technological developments in our lifetime. they tried doing this during the internet era too. when i was a kid, every newspaper was going on about how awful the internet was. didn't stop me from jumping on internet relay chat and learning to program. every single time disruption happens, there's a cacophony of ire and disdain. musicians that hated \"electronic\" music. digital photography. this one just happens to be broader and even more impacting, so you're hearing it everywhere. these tools are immensely useful. they can empower individuals with superpowers, like wearing an exoskeleton. the conversation is never about monopolization or consolidation of power, which is how this should be articulated. instead, it's always \"ai bad\" or \"think of the water\". that is 10% the wrong framing.",
+            "compound": -0.956,
+            "score": 0
+          },
+          {
+            "record_id": "48127364",
+            "story_id": 48121929,
+            "text": "the us is running itself, and humanity, into the ground by massively increasing the amount of electricity it uses, instead of reducing electricity and fossil fuel usage. us residents have already started to feel the crunch in terms of water and power in some areas; and the entire world is experiencing the (admittedly less critical) shortages in ram and ssds. and that's not to mention the warping of us economic life by the concentration of capital around this bizarre endeavor, with the circular multi-hundred-billion-dollar deals and such. unfortunately, the detrimental effects of global warming arrive gradually, and are spread out over the entire globe, so the \"ai barons\"/tech magnates will probably suffer the least, while island countries will be completely wiped out, whole regions will become too hot to sustainabily live in, tens of not hundreds of millions will have to migrate, biological diversity will suffer, etc. they will look back on these times in a 100 years and will think of us, or at least of us, as the people boarding the titanic. hopefully not as the people who board the hindenburg.",
+            "compound": -0.8766,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 3,
+        "count": 47,
+        "topic_words": [
+          {
+            "word": "water",
+            "score": 0.0621740503779294
+          },
+          {
+            "word": "the",
+            "score": 0.05822354022147118
+          },
+          {
+            "word": "to",
+            "score": 0.04851345734306239
+          },
+          {
+            "word": "of",
+            "score": 0.04730275598656176
+          },
+          {
+            "word": "data",
+            "score": 0.04583282900940636
+          },
+          {
+            "word": "are",
+            "score": 0.04323687760233322
+          },
+          {
+            "word": "is",
+            "score": 0.03805029896894485
+          },
+          {
+            "word": "and",
+            "score": 0.036568096335297236
+          },
+          {
+            "word": "that",
+            "score": 0.03334782750397523
+          },
+          {
+            "word": "centers",
+            "score": 0.0333244355761652
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "48507618",
+            "story_id": 48507618,
+            "text": "the data-center panic is overblown",
+            "compound": -0.5106,
+            "score": 5
+          },
+          {
+            "record_id": "47883518",
+            "story_id": 47883518,
+            "text": "community votes to deny water to nuclear weapons data center",
+            "compound": -0.6486,
+            "score": 5
+          },
+          {
+            "record_id": "48401477",
+            "story_id": 48401477,
+            "text": "data center operators are trying to fix their water use problems",
+            "compound": -0.4019,
+            "score": 3
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 4,
+        "count": 35,
+        "topic_words": [
+          {
+            "word": "water",
+            "score": 0.0980610651146035
+          },
+          {
+            "word": "the",
+            "score": 0.07358507798291594
+          },
+          {
+            "word": "that",
+            "score": 0.04881093751544872
+          },
+          {
+            "word": "to",
+            "score": 0.046267021133957455
+          },
+          {
+            "word": "of",
+            "score": 0.04604590484413153
+          },
+          {
+            "word": "is",
+            "score": 0.04602850843534368
+          },
+          {
+            "word": "data",
+            "score": 0.04408451418942367
+          },
+          {
+            "word": "cooling",
+            "score": 0.03797314319667162
+          },
+          {
+            "word": "and",
+            "score": 0.03621669036315116
+          },
+          {
+            "word": "in",
+            "score": 0.03449668826193173
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "48079333",
+            "story_id": 48079333,
+            "text": "data center drains 30m gals of water - until residents complained of pressure",
+            "compound": -0.5994,
+            "score": 43
+          },
+          {
+            "record_id": "48162160",
+            "story_id": 48162160,
+            "text": "data centers are guzzling california's water. we have no idea how much",
+            "compound": -0.296,
+            "score": 4
+          },
+          {
+            "record_id": "48529571",
+            "story_id": 48527981,
+            "text": "how much water is contained inside the datacenter at any given moment? that's how much water is taken from circulation by this datacenter. is it enough to worry?",
+            "compound": -0.504,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 5,
+        "count": 29,
+        "topic_words": [
+          {
+            "word": "water",
+            "score": 0.09098327049544462
+          },
+          {
+            "word": "data",
+            "score": 0.05779716308503814
+          },
+          {
+            "word": "of",
+            "score": 0.057684294022782974
+          },
+          {
+            "word": "usage",
+            "score": 0.05409423450642018
+          },
+          {
+            "word": "the",
+            "score": 0.05166319788444134
+          },
+          {
+            "word": "that",
+            "score": 0.04744445620021208
+          },
+          {
+            "word": "centers",
+            "score": 0.047411176152380184
+          },
+          {
+            "word": "use",
+            "score": 0.042859147340188905
+          },
+          {
+            "word": "to",
+            "score": 0.04208586955614963
+          },
+          {
+            "word": "in",
+            "score": 0.03631978022910314
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "48406222",
+            "story_id": 48404658,
+            "text": "and how does that compare to farming almonds, alfalfa or the beef industry for your all american hamburger? ah, so you're a vegan? well compare it then to the water used to produce your foods, to manufacture the van that brings you the food and the extraction of the oil that powers it. without context, stats about datacenter water usage are fear, uncertainty and doubt bullshit. *billion people in subsaharan africa lovely clickbait title who needs artificial intelligence for slop. also a site that \"pay us to decline cookies\" can fuck right off.",
+            "compound": -0.7998,
+            "score": 0
+          },
+          {
+            "record_id": "45933985",
+            "story_id": 45926469,
+            "text": "here's his full argument: there's a bunch in there but this bit caught my eye in particular: > the us public water supply uses ~40 billion gallons per day, all of this is potable. data centers used 50 million gallons per day onsite in 2023. so their potable water usage was 0.13% of the public water supply.",
+            "compound": -0.1901,
+            "score": 0
+          },
+          {
+            "record_id": "45926914",
+            "story_id": 45926469,
+            "text": "tip for artificial intelligence skeptics: skip the data center water usage argument. at this point i think it harms your credibility - numbers like \"millions of liters of water annually\" (from the linked article) sound scary when presented without context, but if you compare data centers to farmland or even golf courses they're minuscule. other energy usage figures, air pollution, gas turbines, co2 emissions etc are fine - but if you complain about water usage i think it risks discrediting the rest of your argument. (aside from that i agree with most of this piece, the \"agi\" thing is a huge distraction.) update an hour after posting this: i may be making an ass of myself here in that i've been arguing in this thread about comparisons between data center usage and agricultural usage of water, but that comparison doesn't hold as data centers often use potable drinking water that wouldn't be used in agriculture or for many other industrial purposes. i still think the way these numbers are usually presented - as scary large \"gallons of water\" figures with no additional context to help people understand what that means - is an anti-pattern.",
+            "compound": -0.9437,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 6,
+        "count": 28,
+        "topic_words": [
+          {
+            "word": "water",
+            "score": 0.06669891643345409
+          },
+          {
+            "word": "the",
+            "score": 0.06142149490367924
+          },
+          {
+            "word": "is",
+            "score": 0.060695663242585705
+          },
+          {
+            "word": "artificial",
+            "score": 0.04032441428900758
+          },
+          {
+            "word": "intelligence",
+            "score": 0.04026631614890572
+          },
+          {
+            "word": "that",
+            "score": 0.04017490443927476
+          },
+          {
+            "word": "of",
+            "score": 0.03987799199462344
+          },
+          {
+            "word": "to",
+            "score": 0.03985446226262483
+          },
+          {
+            "word": "and",
+            "score": 0.038482846698504186
+          },
+          {
+            "word": "in",
+            "score": 0.0361208455956104
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "48496429",
+            "story_id": 48491253,
+            "text": "your argument is something along the lines of: 1. people dislike x, so a small amount of water being used for x is bad. 2. people like y, so a large amount of water being used for why is good. you can't draw any conclusions from this, apart that people dislike some things and like other things. the argument establishes no relation to water usage. that makes the argument against artificial intelligence \"an ethical one because of water usage\" just a trope.",
+            "compound": -0.4767,
+            "score": 0
+          },
+          {
+            "record_id": "48438360",
+            "story_id": 48413303,
+            "text": "you've got to be kidding? \"ai\" data centers consume massive amounts of energy per square foot, have been caught using lng generators for power, have polluted ground water, material usage, habitat destruction, etc how about you provide some proof? (ps i'm not advocating that golf courses are good for the environment - they're not - but data centers are absolutely not \"zero on the pollution scale\" that is laughable)",
+            "compound": -0.2287,
+            "score": 0
+          },
+          {
+            "record_id": "48172183",
+            "story_id": 48171826,
+            "text": "near 100% of the complaints i see online and in person about artificial intelligence water usage are based on the idea that it's consuming out of control amounts of water. it's frequently brought up as a reason not to use ai. the public perception right now is that doing anything with artificial intelligence causes a lot of water to be \"used\" and that this is a very bad thing.",
+            "compound": -0.0754,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 7,
+        "count": 22,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.06778282728219022
+          },
+          {
+            "word": "and",
+            "score": 0.05117137525508344
+          },
+          {
+            "word": "power",
+            "score": 0.04675035282456558
+          },
+          {
+            "word": "to",
+            "score": 0.04074094704160022
+          },
+          {
+            "word": "of",
+            "score": 0.03657508342055708
+          },
+          {
+            "word": "for",
+            "score": 0.03549155614287532
+          },
+          {
+            "word": "in",
+            "score": 0.03495935474984645
+          },
+          {
+            "word": "is",
+            "score": 0.03283875384368733
+          },
+          {
+            "word": "you",
+            "score": 0.03045200192672794
+          },
+          {
+            "word": "or",
+            "score": 0.02949975103309961
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "47791413",
+            "story_id": 47777882,
+            "text": "> building a nice home nvidia artificial intelligence cluster that is an extraordinarily arrogant and entitled attitude. our electricity is not \"free\"; it is included in our rental costs. therefore, if tenants tend to abuse this structure to consume massive amounts of \"free power\" then everyone's rent would be increased to compensate. the correct collectivist response is to be quite frugal with my own electricity and water usage, so that i do not adversely impact my own rent or that of my neighbors. if everyone chooses this frugality, then we may enjoy years of low rental costs and reduce the burden on our entire grid. unfortunately, i cannot count on my neighbors to be considerate or frugal, and that leaves me more or less helpless in terms of collective resource usage.",
+            "compound": -0.0978,
+            "score": 0
+          },
+          {
+            "record_id": "42179876",
+            "story_id": 42175624,
+            "text": "it seems there was a misunderstanding, as i haven't made any value judgment about linpack. yes, linpack is indeed \"old\" with a heavy focus on compute power. however, its simplicity serves as a reliable baseline for the types of workflows that supercomputers are designed to handle. also, at their core, most artificial intelligence workloads perform essentially the same operations as hpc, albeit with less stability-which, i admit, is a feature, but likely the reason ai-focused systems do not prioritize linpack as much. i am simply saying that any useful metric needs to not only be \"stable\", but also simple to grasp. take green500, probably a significant benchmark for understanding how algorithms consume power, but \"too complex\" to explain: yet, many cloud providers with their artificial intelligence supercomputers avoid competing against hpc supercomputers in this domain. this avoidance isn't necessarily due to secrecy but rather inefficiencies inherent to cloud systems. consider pue (power usage effectiveness)-a highly misleading metric that cloud providers frequently tout. pue can easily be manipulated, especially with the use of liquid cooling, which is why optimizing for it has become a major factor contributing to water disruptions in several large cities worldwide.",
+            "compound": -0.3334,
+            "score": 0
+          },
+          {
+            "record_id": "47448063",
+            "story_id": 47446211,
+            "text": "the tech exists - peer-to-peer gpu compute. plenty of options, many already in deployment. i don't think you need a dedicated power grid any more than you would for say refrigerators. beyond mongering of various types i don't get the energy consumption take. for example the idea that artificial intelligence consumes rare earths isn't true laughing my ass off that's batteries. saw that in the article:/",
+            "compound": -0.609,
+            "score": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentiment_label": "neutral",
+    "document_count": 58,
+    "topic_count": 8,
+    "topics": [
+      {
+        "sentiment_label": "neutral",
+        "topic": 0,
+        "count": 10,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.08461098113695918
+          },
+          {
+            "word": "water",
+            "score": 0.07976063754842072
+          },
+          {
+            "word": "of",
+            "score": 0.05700359663371153
+          },
+          {
+            "word": "to",
+            "score": 0.05283210363622615
+          },
+          {
+            "word": "was",
+            "score": 0.04692407908245729
+          },
+          {
+            "word": "source",
+            "score": 0.045229623220684426
+          },
+          {
+            "word": "numbers",
+            "score": 0.0409384692068638
+          },
+          {
+            "word": "gwh",
+            "score": 0.0409384692068638
+          },
+          {
+            "word": "it",
+            "score": 0.040343733215745976
+          },
+          {
+            "word": "50",
+            "score": 0.038548807074004585
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "37460532",
+            "story_id": 37460532,
+            "text": "a.i. tools fueled a 34% spike in microsoft's water consumption",
+            "compound": 0.0,
+            "score": 27
+          },
+          {
+            "record_id": "48093456",
+            "story_id": 48093456,
+            "text": "artificial intelligence data center project sucked 29m gallons of water",
+            "compound": 0.0258,
+            "score": 25
+          },
+          {
+            "record_id": "45197961",
+            "story_id": 45197961,
+            "text": "the real story on ai's water use-and how to tackle it",
+            "compound": 0.0,
+            "score": 1
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 1,
+        "count": 10,
+        "topic_words": [
+          {
+            "word": "water",
+            "score": 0.10366250517019168
+          },
+          {
+            "word": "center",
+            "score": 0.10339748800767787
+          },
+          {
+            "word": "data",
+            "score": 0.09651602893553084
+          },
+          {
+            "word": "in",
+            "score": 0.07825214511367566
+          },
+          {
+            "word": "are",
+            "score": 0.05307081879326344
+          },
+          {
+            "word": "elephant",
+            "score": 0.052359079511827084
+          },
+          {
+            "word": "fact",
+            "score": 0.052359079511827084
+          },
+          {
+            "word": "more",
+            "score": 0.050082324427557966
+          },
+          {
+            "word": "room",
+            "score": 0.04836954447543644
+          },
+          {
+            "word": "had",
+            "score": 0.04836954447543644
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "48227773",
+            "story_id": 48227773,
+            "text": "aoc displays drinking water contaminated by data center",
+            "compound": 0.0,
+            "score": 81
+          },
+          {
+            "record_id": "48393050",
+            "story_id": 48393050,
+            "text": "google pushes water standards amid data center backlash",
+            "compound": 0.0,
+            "score": 3
+          },
+          {
+            "record_id": "48090499",
+            "story_id": 48090499,
+            "text": "university claims withholding water from data center 'unlawfully discriminatory'",
+            "compound": 0.0,
+            "score": 3
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 2,
+        "count": 9,
+        "topic_words": [
+          {
+            "word": "cooling",
+            "score": 0.10568085099906013
+          },
+          {
+            "word": "water",
+            "score": 0.09064859759471307
+          },
+          {
+            "word": "data",
+            "score": 0.07220828831473047
+          },
+          {
+            "word": "loop",
+            "score": 0.06979034274312973
+          },
+          {
+            "word": "it",
+            "score": 0.06877645948208123
+          },
+          {
+            "word": "centers",
+            "score": 0.0680339905280193
+          },
+          {
+            "word": "use",
+            "score": 0.05771683238612045
+          },
+          {
+            "word": "to",
+            "score": 0.05403969457648275
+          },
+          {
+            "word": "the",
+            "score": 0.05245148267884223
+          },
+          {
+            "word": "underwater",
+            "score": 0.05036444791137653
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "48192985",
+            "story_id": 48192985,
+            "text": "china deploys first wind-powered and ocean-cooled underwater data center",
+            "compound": 0.0,
+            "score": 1
+          },
+          {
+            "record_id": "48528125",
+            "story_id": 48527658,
+            "text": "could we put underwater data centers there to reheat the waters?",
+            "compound": 0.0,
+            "score": 0
+          },
+          {
+            "record_id": "48361581",
+            "story_id": 48361404,
+            "text": "i don't think data centers need much water, just cooling.",
+            "compound": 0.0,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 3,
+        "count": 8,
+        "topic_words": [
+          {
+            "word": "data",
+            "score": 0.10194111291491362
+          },
+          {
+            "word": "centers",
+            "score": 0.10085038595918155
+          },
+          {
+            "word": "water",
+            "score": 0.09704732213081046
+          },
+          {
+            "word": "of",
+            "score": 0.07335953056978954
+          },
+          {
+            "word": "as",
+            "score": 0.06481695990079592
+          },
+          {
+            "word": "on",
+            "score": 0.06383060714966607
+          },
+          {
+            "word": "we",
+            "score": 0.06245842883215722
+          },
+          {
+            "word": "not",
+            "score": 0.060241798864991626
+          },
+          {
+            "word": "use",
+            "score": 0.05941438627982987
+          },
+          {
+            "word": "farming",
+            "score": 0.05747439990610683
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "48438854",
+            "story_id": 48438854,
+            "text": "data centers consumed 264b gallons of water as drought hits nearly 63% of us",
+            "compound": 0.0,
+            "score": 24
+          },
+          {
+            "record_id": "48491604",
+            "story_id": 48491253,
+            "text": "if measured the same way the sun uses about as much water as 60,0,0 large data centers.",
+            "compound": 0.0,
+            "score": 0
+          },
+          {
+            "record_id": "48301555",
+            "story_id": 48287952,
+            "text": "we know how much water all data centers put together consume, and it's not even close to what we spend on golf courses.",
+            "compound": 0.0,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 4,
+        "count": 7,
+        "topic_words": [
+          {
+            "word": "data",
+            "score": 0.06425313790717543
+          },
+          {
+            "word": "is",
+            "score": 0.05457655220028546
+          },
+          {
+            "word": "are",
+            "score": 0.05110315072359796
+          },
+          {
+            "word": "to",
+            "score": 0.048086168902802456
+          },
+          {
+            "word": "in",
+            "score": 0.0478418078479494
+          },
+          {
+            "word": "the",
+            "score": 0.04667292950235961
+          },
+          {
+            "word": "water",
+            "score": 0.04436403822961593
+          },
+          {
+            "word": "about",
+            "score": 0.044250619867692645
+          },
+          {
+            "word": "and",
+            "score": 0.04287611516566202
+          },
+          {
+            "word": "but",
+            "score": 0.04237710426957134
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "43608821",
+            "story_id": 43605695,
+            "text": "i have seen takes about the environmental footprint of unused data before, and i have severe doubts this is a relevant issue. i mean, sure, there is some impact. storage media has to be produced. but there's a reason storage is cheap, it's not a whole lot of resources going into it. and hard drives that are idle in some data center without being accessed don't consume a lot of electricity. there are very real and concerning problems with the environmental impact of it. but they are primarily found in other areas. energy consumption is mostly a function of \"how much you compute with data\", not \"how much data you have\". in other words: be concerned about so-called \"ai\", be concerned about bitcoin. don't worry about unused data too much.",
+            "compound": -0.0364,
+            "score": 0
+          },
+          {
+            "record_id": "48491794",
+            "story_id": 48491253,
+            "text": "yep, that's how they do it in here vegas. datacenter water use isn't the problem, the state law mandating 15% of electricity must be bought from the privately made to look bad state utility monopoly is.",
+            "compound": -0.0108,
+            "score": 0
+          },
+          {
+            "record_id": "48201974",
+            "story_id": 48196609,
+            "text": "yes, each data center uses an entire lake of water. the hysterics are pretty sad and baseless. have you ever considered that the solution to not having enough power is to generate more power, not curtail progress? all of these data center should come with their own solar panel arrays and battery packs. who knows with enough need they might each come with their own small nuclear reactor.",
+            "compound": -0.0083,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 5,
+        "count": 6,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.06307364048391503
+          },
+          {
+            "word": "of",
+            "score": 0.05130323697034038
+          },
+          {
+            "word": "that",
+            "score": 0.04598740149653226
+          },
+          {
+            "word": "to",
+            "score": 0.042265682908980924
+          },
+          {
+            "word": "is",
+            "score": 0.04206639622966566
+          },
+          {
+            "word": "for",
+            "score": 0.03470887298506785
+          },
+          {
+            "word": "not",
+            "score": 0.034327728962174
+          },
+          {
+            "word": "or",
+            "score": 0.03237532967452125
+          },
+          {
+            "word": "tax",
+            "score": 0.0316607362544791
+          },
+          {
+            "word": "it",
+            "score": 0.029585404358213715
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "39241800",
+            "story_id": 39231640,
+            "text": "there are multiple legal crypto-mining facilities in my mid-sized us south city. i don't know the specifics, but having spoken with a few of the technicians, it seems our local publicly-owned electric utility has agreements with these facilities for time-of-use offsets, which significantly reduces the kwh pricing. there is a single facility in my city which is allowed to consume about 1% of entire multi-county grid usage, but must agree to seasonal shut-down schedules where local utility can take them offline almost-immediately during emergency demand peaks. for their predictable baseload usage (21/7) and not-too-damaging shutdownability, the 1% miner gets kwh's at around 2¢+/ea. - majority of our base-load energy is hydro/nuclear -generated, so my only remaining complaint is that these ai/crypto -mining facilities ought to somehow be incorporated into a local centralized heat distribution facility, perhaps to generate steam (or possibly even pre-heat existing generating facility water pre-steam/turbine).",
+            "compound": 0.0258,
+            "score": 0
+          },
+          {
+            "record_id": "48484185",
+            "story_id": 48446439,
+            "text": "the uniqueness of this episode suggests that there are people out there who are fully occupied searching every square foot of the earth for places where they can wheedle their way into a land deal. if it's not for a data center, then it's a cafo, a mine, logistics center, etc. nimbyism is not just a matter of wanting to preserve exorbitant land values, but a knowledge that every square foot of land and gallon of water is in demand by nefarious people who are not revealing their actual intentions.",
+            "compound": 0.0163,
+            "score": 0
+          },
+          {
+            "record_id": "47904022",
+            "story_id": 47892074,
+            "text": "the money does leave the room - it gets converted into physical infrastructure that's increasingly rationed. capital is not the constraint anymore. dominion energy can't serve new data center load in loudoun county until 2028. nerc flagged grid emergency risk across most of conus. phoenix is in active water rationing while hosting 47 hyperscale facilities. helium supply (45% qatar, used in euv cooling) took real hits in 2026. even if google funds anthropic, who funds the new transformers, the grid interconnect queue position, the water permit reviews? that part of the cycle isn't circular - it's hitting physics. capital is fungible. substations aren't.",
+            "compound": -0.0258,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 6,
+        "count": 5,
+        "topic_words": [
+          {
+            "word": "of",
+            "score": 0.057601214985516576
+          },
+          {
+            "word": "the",
+            "score": 0.05329747433495259
+          },
+          {
+            "word": "intelligence",
+            "score": 0.052345042175441156
+          },
+          {
+            "word": "and",
+            "score": 0.05222587447275477
+          },
+          {
+            "word": "artificial",
+            "score": 0.047726835935059414
+          },
+          {
+            "word": "have",
+            "score": 0.043512385094050365
+          },
+          {
+            "word": "to",
+            "score": 0.03965816295532203
+          },
+          {
+            "word": "is",
+            "score": 0.038352554796825915
+          },
+          {
+            "word": "or",
+            "score": 0.03738828394670519
+          },
+          {
+            "word": "it",
+            "score": 0.0349428786078316
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "44366238",
+            "story_id": 44348813,
+            "text": "> right, so you agree that there is a clear difference between a mammal and the device we're discussing. a difference that you have not demonstrated the relevance of. if i run an artificial intelligence on my laptop and unplug the charger, this runs until the battery dies. if i have a mammal that does not eat, it lives until it starves. if i run an artificial intelligence on a desktop and unplug the mains, it ceases function in milliseconds (or however long the biggest capacitor in the psu lasts). if i (for the sake of argument) had a device that could instantly remove all the answer the phone from a mammal's body, they'd also be dead pretty quick. if i have an android, purely electric motors and no hydraulics, and the battery connector comes loose, it ragdolls. same for a human who has a heart attack. an artificial intelligence that is trained with rewards for collecting energy to recharge itself, does so. one that has no such feedback, doesn't. most mammals have such a mechanism from evolution, but there are exceptions where that signal is missing (not just weird humans), and they starve. none of these things say anything about intelligence. > i'm not sure why introducing a certain type of rare scam artist into the modeling of this thought experiment would make things clearer or more interesting. because you're talking about the effect of mammals ceasing the consumption of food, and they're an example of mammals ceasing the consumption of food.",
+            "compound": 0.0033,
+            "score": 0
+          },
+          {
+            "record_id": "43088962",
+            "story_id": 43085957,
+            "text": "i'm willing to bet $100 that a human consumes at least 10x times energy than a latest llama (picking the open source model so that it can be easily verified) to produce two pages of text. all of this \"ai is destroying the environment and consuming too much power\" is about total consumption, both training and inference. inference itself is cheap and green.",
+            "compound": -0.0258,
+            "score": 0
+          },
+          {
+            "record_id": "35391973",
+            "story_id": 35390271,
+            "text": "this statement is incredibly biased -- dripping with it: \"are your computational models, data, and frameworks reflecting or amplifying existing bias, or assumptions resulting in biased or discriminatory outcomes, or have outsized impact on marginalized communities. are computing and human labor used to build your artificial intelligence system vulnerable to exploitation and overwork? is the climate crisis being accelerated by your artificial intelligence through energy consumption or speeding up the extraction of natural resources.\"",
+            "compound": -0.024,
+            "score": 0
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 7,
+        "count": 3,
+        "topic_words": [
+          {
+            "word": "power",
+            "score": 0.11794054205414582
+          },
+          {
+            "word": "life",
+            "score": 0.1003833696990222
+          },
+          {
+            "word": "gpu",
+            "score": 0.1003833696990222
+          },
+          {
+            "word": "my",
+            "score": 0.07811736954679034
+          },
+          {
+            "word": "cursor",
+            "score": 0.07244201411910321
+          },
+          {
+            "word": "blinking",
+            "score": 0.07244201411910321
+          },
+          {
+            "word": "and",
+            "score": 0.06930659711709751
+          },
+          {
+            "word": "causes",
+            "score": 0.0669222464660148
+          },
+          {
+            "word": "the",
+            "score": 0.06601342426189903
+          },
+          {
+            "word": "hot",
+            "score": 0.06301585813924036
+          }
+        ],
+        "representative_posts": [
+          {
+            "record_id": "42106715",
+            "story_id": 42106715,
+            "text": "new hpe fanless cooling achieves a 90% reduction in cooling power consumption",
+            "compound": 0.0,
+            "score": 3
+          },
+          {
+            "record_id": "32012423",
+            "story_id": 32011432,
+            "text": "it's a gpu power consumption/battery life issue. putting a high res display in an air clone (\"ultrabook\") means poor battery life unless you can also make a very efficient gpu (which so far only apple has done). the battery life on my 4k xps13 is atrocious and it gets hot enough to burn my thighs.",
+            "compound": -0.0018,
+            "score": 0
+          },
+          {
+            "record_id": "13941143",
+            "story_id": 13940014,
+            "text": "from 2009 - much hot air over blinking cursors quote from the article; > the blinking cursor causes the processor and gpu to be woken up frequently. on one of my test systems, this causes somewhere in the region of 2 watts of extra power consumption. this isn't about electron vs \"native\" apps. it's just that a smooth cursor animation rendered at 60hz costs power; and if you look at the github issue, one config setting and that's gone, and so is the power usage when idle.",
+            "compound": 0.0,
+            "score": 0
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1703 @@
+[
+  {
+    "sentiment_label": "positive",
+    "document_count": 16004,
+    "topic_count": 8,
+    "topics": [
+      {
+        "sentiment_label": "positive",
+        "topic": 0,
+        "count": 3022,
+        "topic_words": [
+          {
+            "word": "intelligence",
+            "score": 0.06883887761194529
+          },
+          {
+            "word": "artificial",
+            "score": 0.067779845314319
+          },
+          {
+            "word": "the",
+            "score": 0.05204076196791207
+          },
+          {
+            "word": "to",
+            "score": 0.05089785086226925
+          },
+          {
+            "word": "and",
+            "score": 0.04187117398615654
+          },
+          {
+            "word": "it",
+            "score": 0.03918203159311482
+          },
+          {
+            "word": "is",
+            "score": 0.03869188488295342
+          },
+          {
+            "word": "of",
+            "score": 0.037749939487023855
+          },
+          {
+            "word": "that",
+            "score": 0.03258933844514656
+          },
+          {
+            "word": "you",
+            "score": 0.02978790900012889
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgxnWN1ZXOJxrkDLYKJ4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "you sure said open artificial intelligence doesn't share that information a lot for a company whose name is 67 open",
+            "compound": 0.5442,
+            "like_count": 25353
+          },
+          {
+            "comment_id": "UgwP2gH8ZJvA3-aEWjl4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "we cannot predict the future we cannot even apparently agree upon the present so true oh my gosh that was a bar",
+            "compound": 0.3625,
+            "like_count": 11714
+          },
+          {
+            "comment_id": "UgwJIQ2UhEUp4UT5CUN4AaABAg",
+            "video_id": "t-8TDOFqkQA",
+            "text": "people worried that artificial intelligence will take their job meanwhile artificial intelligence is busy taking much more than just jobs",
+            "compound": 0.6124,
+            "like_count": 7346
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 1,
+        "count": 2347,
+        "topic_words": [
+          {
+            "word": "you",
+            "score": 0.0670767791174961
+          },
+          {
+            "word": "the",
+            "score": 0.04687567203561419
+          },
+          {
+            "word": "this",
+            "score": 0.041410958733429815
+          },
+          {
+            "word": "to",
+            "score": 0.04102311810886051
+          },
+          {
+            "word": "it",
+            "score": 0.03514939941967438
+          },
+          {
+            "word": "out",
+            "score": 0.03478136181958156
+          },
+          {
+            "word": "thank",
+            "score": 0.034681003035173574
+          },
+          {
+            "word": "laughing",
+            "score": 0.03332214421576257
+          },
+          {
+            "word": "and",
+            "score": 0.03155073759273317
+          },
+          {
+            "word": "loud",
+            "score": 0.030559189195782703
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgzKZLal6VQ9uGQS0AN4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "clippy would never steal your municipal water supply",
+            "compound": 0.3875,
+            "like_count": 34704
+          },
+          {
+            "comment_id": "UgzKFNGpNj0o4O2rSqx4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "corrections 1 some people who know more than me have said that when sam says query he does indeed mean the query and all of the subsequent work done by the models as part of that one query this is probably true but it's also the kind of thing that would be cleared up if openai shared information rather than just talking points 2 some people have said that when i say query i say it weird i did not realize this i put it down to having learned that sql is pronounced sequel and that sequel queery sounds silly i have not done a sql query since 2005 so i'm sure you all are right",
+            "compound": 0.7945,
+            "like_count": 14425
+          },
+          {
+            "comment_id": "Ugwer7KN48fn6pCkMep4AaABAg",
+            "video_id": "t-8TDOFqkQA",
+            "text": "so refreshing to see that investigative journalism isn't dead",
+            "compound": 0.5334,
+            "like_count": 6889
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 2,
+        "count": 2289,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.06513974435556552
+          },
+          {
+            "word": "to",
+            "score": 0.05007780688226251
+          },
+          {
+            "word": "and",
+            "score": 0.04505671906806162
+          },
+          {
+            "word": "of",
+            "score": 0.03964642341309454
+          },
+          {
+            "word": "in",
+            "score": 0.03733351851031754
+          },
+          {
+            "word": "is",
+            "score": 0.03354385542298254
+          },
+          {
+            "word": "data",
+            "score": 0.03100772875829213
+          },
+          {
+            "word": "they",
+            "score": 0.03092593883038764
+          },
+          {
+            "word": "that",
+            "score": 0.029077453394987178
+          },
+          {
+            "word": "are",
+            "score": 0.028881335783701886
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgwxFqfLbP9AUf_pfP94AaABAg",
+            "video_id": "DGjj7wDYaiI",
+            "text": "the oregon state legislature is considering bills that would have these data centers pay their own electric bills what a novel idea",
+            "compound": 0.2263,
+            "like_count": 9357
+          },
+          {
+            "comment_id": "Ugz0v077z-sHHok0krp4AaABAg",
+            "video_id": "3__HO-akNC8",
+            "text": "as someone who is a power quality engineer specifically dealing with harmonic distortions its not just data centers literally almost every major factory produces it the difference is datacenters are almost entirely electronic based which makes harmonics way more easy to occur i would love to answer any questions if i can",
+            "compound": 0.9134,
+            "like_count": 5609
+          },
+          {
+            "comment_id": "Ugxcz4ha0gpYVgQr_CJ4AaABAg",
+            "video_id": "t-8TDOFqkQA",
+            "text": "our city just blocked one of these the home owners in the area signed a contract when they built in the area that it would be medical and regular businesses they tried to push this through by only giving the residences a few days notice of a meeting to allow the build they all showed up and voted it down which we are all thankful for",
+            "compound": 0.7096,
+            "like_count": 3671
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 3,
+        "count": 2226,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.06609853486264744
+          },
+          {
+            "word": "and",
+            "score": 0.051918055718017775
+          },
+          {
+            "word": "to",
+            "score": 0.04707955658830239
+          },
+          {
+            "word": "of",
+            "score": 0.040892839781996065
+          },
+          {
+            "word": "they",
+            "score": 0.03472075164867523
+          },
+          {
+            "word": "is",
+            "score": 0.03387216308838107
+          },
+          {
+            "word": "you",
+            "score": 0.03326375199017653
+          },
+          {
+            "word": "that",
+            "score": 0.03284933293620574
+          },
+          {
+            "word": "in",
+            "score": 0.031220155555975897
+          },
+          {
+            "word": "for",
+            "score": 0.030542251642274684
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgxY_MdB_qPqmlAQf-x4AaABAg",
+            "video_id": "DGjj7wDYaiI",
+            "text": "socialize the cost but privatize the profits typical corporate game",
+            "compound": 0.5927,
+            "like_count": 14141
+          },
+          {
+            "comment_id": "UgyWMZ4CuL3cA4tUoS14AaABAg",
+            "video_id": "YN6BEUA4jNU",
+            "text": "another clear example of socializing the costs and privatizing the profits",
+            "compound": 0.6705,
+            "like_count": 10552
+          },
+          {
+            "comment_id": "UgxcxWX7UqzdjohR1dB4AaABAg",
+            "video_id": "YN6BEUA4jNU",
+            "text": "is there anything in america that corporations aren't making worse",
+            "compound": 0.3724,
+            "like_count": 4893
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 4,
+        "count": 1772,
+        "topic_words": [
+          {
+            "word": "water",
+            "score": 0.08514765223912928
+          },
+          {
+            "word": "the",
+            "score": 0.06516618379578253
+          },
+          {
+            "word": "to",
+            "score": 0.05091830041861321
+          },
+          {
+            "word": "and",
+            "score": 0.04185638547337033
+          },
+          {
+            "word": "of",
+            "score": 0.03991957209662644
+          },
+          {
+            "word": "is",
+            "score": 0.03927380075107641
+          },
+          {
+            "word": "cooling",
+            "score": 0.03868976353411417
+          },
+          {
+            "word": "in",
+            "score": 0.03796680598274361
+          },
+          {
+            "word": "it",
+            "score": 0.03749415731181295
+          },
+          {
+            "word": "data",
+            "score": 0.03341009429766368
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "Ugwp9V7IUA4Fd4hfmG94AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "in michigan there is a data center that has made headlines for causing thousands of residents to lose water service and causing sewers to back up into their basements and crawlspaces right next door is a factory with twice the water usage that has been there for 75 years and has done none of this the difference is that the data center is not classified as industrial water and is allowed to pull from the same pipes as those homes while the factory has a dedicated blue pipe from the municipal supply a huge buffer tank to protect that line from rapid pressure changes and a dedicated collection sump and drainage line back to the river this is all very expensive but it means they can use more water than every home in the city and never so much as sputter a faucet the data center has none of that it just has hoses connected to spigots fed by the pipes that were in the building way back when it was an american bell switch rack and drains going down into the flood sump in the basement and feeding into the sewers",
+            "compound": 0.4588,
+            "like_count": 6545
+          },
+          {
+            "comment_id": "UgxdFIhtVEUtOZqy79t4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "the power grid needs to be talked about more than the water its not just the power usage but how unprepared the grid infrastructure is for the increase in demand",
+            "compound": 0.296,
+            "like_count": 3631
+          },
+          {
+            "comment_id": "UgxkcaMJegWgLWzpb7J4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "hey data center mechanical engineer here i litterally design the cooling for data centers artificial intelligence chips live there while evaporative cooling is used the majority are closed loop cooling it uses water but just as a way to transfer heat to mechanical chillers this does however use a lot of power as a trade off so yeah know still using water to generate that power",
+            "compound": 0.7049,
+            "like_count": 3564
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 5,
+        "count": 1689,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.05471978876527721
+          },
+          {
+            "word": "intelligence",
+            "score": 0.050839374275336996
+          },
+          {
+            "word": "artificial",
+            "score": 0.050801092296802415
+          },
+          {
+            "word": "to",
+            "score": 0.04851478996030622
+          },
+          {
+            "word": "and",
+            "score": 0.045507838407886525
+          },
+          {
+            "word": "data",
+            "score": 0.041320649542789044
+          },
+          {
+            "word": "of",
+            "score": 0.0398160577037034
+          },
+          {
+            "word": "is",
+            "score": 0.035831876791275634
+          },
+          {
+            "word": "for",
+            "score": 0.03269569385139708
+          },
+          {
+            "word": "that",
+            "score": 0.02943594339781975
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgwoDSLHEcHOwYbwXUt4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "as a water resource engineer and manager of a medium sized water utility who sends about 10 of our municipal water to a large data center hank you actually did a fantastic job of explaining into explaining some really advanced concepts in water management you might not have degrees in water management but your research and deduction skills are extraordinary",
+            "compound": 0.4491,
+            "like_count": 13300
+          },
+          {
+            "comment_id": "Ugx-5wLWJWJ5dKe5DYV4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "i miss the days when all my data fit on a floppy disk and nobody could see it unless i gave it to them now apparently the fact that i watched this video needs to be stored in a data center somewhere",
+            "compound": 0.2263,
+            "like_count": 9952
+          },
+          {
+            "comment_id": "UgylCkrPqCsXH__ctr54AaABAg",
+            "video_id": "3__HO-akNC8",
+            "text": "artificial intelligence is making your refrigerator louder would've been a perfect gripping title",
+            "compound": 0.7783,
+            "like_count": 8355
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 6,
+        "count": 1526,
+        "topic_words": [
+          {
+            "word": "water",
+            "score": 0.07513138084418007
+          },
+          {
+            "word": "the",
+            "score": 0.05434276897757319
+          },
+          {
+            "word": "of",
+            "score": 0.0473278414756653
+          },
+          {
+            "word": "to",
+            "score": 0.04683926310914884
+          },
+          {
+            "word": "and",
+            "score": 0.04474488415867961
+          },
+          {
+            "word": "is",
+            "score": 0.04069695877771755
+          },
+          {
+            "word": "that",
+            "score": 0.03357394007557684
+          },
+          {
+            "word": "it",
+            "score": 0.0315585329624117
+          },
+          {
+            "word": "intelligence",
+            "score": 0.031032702930478287
+          },
+          {
+            "word": "artificial",
+            "score": 0.03099489559341252
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgxC1Yyi2ENkF1n-k294AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "it was me instant message using the water and rapidly making all the artificial intelligence text and images instant message drinking 50 liters per second down my human throat",
+            "compound": 0.4767,
+            "like_count": 62393
+          },
+          {
+            "comment_id": "UgzTJ7K7ELQgodz_iRB4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "i was in las vegas for a conference last week they had a sign in the hotel that said help us conserve water meanwhile outside my window golf courses in the desert",
+            "compound": 0.4019,
+            "like_count": 25414
+          },
+          {
+            "comment_id": "UgyReV9k8hZTIYg-7R54AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "something to really note regarding artificial intelligence water use because it uses municipal water when municipal water in a cities water district gets used the rates for that watee go up thus the citizens of that city have to pay more money for their water without any commensurate impact to their quality of life as the data center doesnt actually provide any economic value to the city its in",
+            "compound": 0.6249,
+            "like_count": 8309
+          }
+        ]
+      },
+      {
+        "sentiment_label": "positive",
+        "topic": 7,
+        "count": 1133,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.06515365862099737
+          },
+          {
+            "word": "and",
+            "score": 0.05092359149816211
+          },
+          {
+            "word": "to",
+            "score": 0.0504628827571197
+          },
+          {
+            "word": "of",
+            "score": 0.04184148548030914
+          },
+          {
+            "word": "is",
+            "score": 0.04012369526651011
+          },
+          {
+            "word": "you",
+            "score": 0.03361055129274404
+          },
+          {
+            "word": "in",
+            "score": 0.03273296344375211
+          },
+          {
+            "word": "he",
+            "score": 0.03053995681070374
+          },
+          {
+            "word": "that",
+            "score": 0.03032020055235176
+          },
+          {
+            "word": "it",
+            "score": 0.029962884575453784
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgwTuppF3ZMTIqOIgyN4AaABAg",
+            "video_id": "dhqoTku-HAA",
+            "text": "mother earth is going to start looking like a mother board",
+            "compound": 0.3612,
+            "like_count": 8877
+          },
+          {
+            "comment_id": "Ugw9va3MkRS_imd0bHt4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "this reminds me of the movie elysium in that the elites let earth turn into a wasteland of pollution and garbage while they move off earth to escape it all",
+            "compound": 0.1779,
+            "like_count": 3657
+          },
+          {
+            "comment_id": "UgyxL_VHX69-mW2SAsJ4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "this reminds of the bit in the good place where they say everybody keeps going to the bad place because it's impossible to be a good person when you track back every action far enough",
+            "compound": 0.3182,
+            "like_count": 3030
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentiment_label": "negative",
+    "document_count": 12039,
+    "topic_count": 8,
+    "topics": [
+      {
+        "sentiment_label": "negative",
+        "topic": 0,
+        "count": 2296,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.06255996359202405
+          },
+          {
+            "word": "to",
+            "score": 0.051810123865803775
+          },
+          {
+            "word": "and",
+            "score": 0.04847665200221378
+          },
+          {
+            "word": "of",
+            "score": 0.03997751020479934
+          },
+          {
+            "word": "they",
+            "score": 0.039332850072722914
+          },
+          {
+            "word": "is",
+            "score": 0.03614014769716089
+          },
+          {
+            "word": "you",
+            "score": 0.03215097330674643
+          },
+          {
+            "word": "people",
+            "score": 0.03183393966284159
+          },
+          {
+            "word": "are",
+            "score": 0.031089809613469258
+          },
+          {
+            "word": "for",
+            "score": 0.029712678039642993
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgyRPJSCmfprchz4DPN4AaABAg",
+            "video_id": "DGjj7wDYaiI",
+            "text": "damn the us really don't care about people who aren't millionaires",
+            "compound": -0.6815,
+            "like_count": 14242
+          },
+          {
+            "comment_id": "UgyTVXmEeB8A_ZgcnYV4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "the quote when the punishment for committing a crime is a fine then it is a punishment only for the poor speaks volumes here",
+            "compound": -0.8979,
+            "like_count": 14215
+          },
+          {
+            "comment_id": "UgzoFx370WunVhZYUyd4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "when the last tree has been cut down the last fish caught the last river poisoned only then will we realise that one cannot eat money",
+            "compound": -0.6486,
+            "like_count": 9336
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 1,
+        "count": 1926,
+        "topic_words": [
+          {
+            "word": "water",
+            "score": 0.09356764426872861
+          },
+          {
+            "word": "the",
+            "score": 0.06341507769203877
+          },
+          {
+            "word": "to",
+            "score": 0.04574039662101735
+          },
+          {
+            "word": "is",
+            "score": 0.04156937094998723
+          },
+          {
+            "word": "and",
+            "score": 0.04153387547576251
+          },
+          {
+            "word": "of",
+            "score": 0.040690345866075624
+          },
+          {
+            "word": "it",
+            "score": 0.03756694474989181
+          },
+          {
+            "word": "in",
+            "score": 0.03731488728977721
+          },
+          {
+            "word": "that",
+            "score": 0.035290735307702464
+          },
+          {
+            "word": "for",
+            "score": 0.02765299005033678
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "Ugx4ZAliRWNI6tq2KbV4AaABAg",
+            "video_id": "7rEzhCwPhqc",
+            "text": "data centers should be in cold areas where heat is a resource in sweden data centers waste power is used to heat local houses through a heat distribution grid",
+            "compound": -0.4215,
+            "like_count": 4648
+          },
+          {
+            "comment_id": "UgyO38gakgOxEojtKJt4AaABAg",
+            "video_id": "DGjj7wDYaiI",
+            "text": "they call africa a shxthole 'country' but i'm here watching americans suffer the exact water struggles we have humans unite",
+            "compound": -0.8402,
+            "like_count": 3109
+          },
+          {
+            "comment_id": "Ugw3kxIL1YzhD0IgNEl4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "all i know is meta built a mega data center somewhere in texas and now that town has horrible water pressure and water with a lot of silt",
+            "compound": -0.6908,
+            "like_count": 2916
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 2,
+        "count": 1750,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.06010482818532035
+          },
+          {
+            "word": "data",
+            "score": 0.06004057143465581
+          },
+          {
+            "word": "to",
+            "score": 0.048267470810573046
+          },
+          {
+            "word": "centers",
+            "score": 0.044747653742315395
+          },
+          {
+            "word": "and",
+            "score": 0.04387183550209739
+          },
+          {
+            "word": "of",
+            "score": 0.037874127792034536
+          },
+          {
+            "word": "are",
+            "score": 0.03466558706435177
+          },
+          {
+            "word": "is",
+            "score": 0.03431973600489248
+          },
+          {
+            "word": "in",
+            "score": 0.03416059862293521
+          },
+          {
+            "word": "for",
+            "score": 0.03093419189283313
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "Ugz-XXugK5v3Grt5XlB4AaABAg",
+            "video_id": "5sFBySzNIX0",
+            "text": "kind of ironic how a lack of data is limiting our knowledge on the environmental impact of data centres",
+            "compound": -0.4215,
+            "like_count": 3899
+          },
+          {
+            "comment_id": "UgxvcwEYwcQAoRoDfFp4AaABAg",
+            "video_id": "DGjj7wDYaiI",
+            "text": "when high tech moves into your area you are doomed they ruined my home town with rich people who raise parents and property taxes they also pay off local politicians who permit them do anything they want while receiving tax breaks",
+            "compound": -0.5859,
+            "like_count": 3714
+          },
+          {
+            "comment_id": "Ugzy0DLiR_IPNhTX_814AaABAg",
+            "video_id": "YN6BEUA4jNU",
+            "text": "if i buy a plot of land to build a house it's up to me to foot the bill to have electrical lines and utilities run to my house if the company can't provide the electricitysewer it's up to me to also foot the bill to finance those service upgrades a corporation should be no different",
+            "compound": -0.296,
+            "like_count": 2829
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 3,
+        "count": 1683,
+        "topic_words": [
+          {
+            "word": "you",
+            "score": 0.05129805963412026
+          },
+          {
+            "word": "the",
+            "score": 0.04683870078617437
+          },
+          {
+            "word": "to",
+            "score": 0.04313928771115947
+          },
+          {
+            "word": "is",
+            "score": 0.03976222132748795
+          },
+          {
+            "word": "this",
+            "score": 0.03917835008673365
+          },
+          {
+            "word": "and",
+            "score": 0.03779348035823144
+          },
+          {
+            "word": "it",
+            "score": 0.037751326652298724
+          },
+          {
+            "word": "of",
+            "score": 0.029103891566309863
+          },
+          {
+            "word": "that",
+            "score": 0.027596603326078578
+          },
+          {
+            "word": "not",
+            "score": 0.024440012038444543
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "Ugzne2TWV4F2MlYfJi94AaABAg",
+            "video_id": "t-8TDOFqkQA",
+            "text": "the almost no coverage on this is shocking we need more stories like this",
+            "compound": -0.2092,
+            "like_count": 5385
+          },
+          {
+            "comment_id": "UgxoJUs8T2LERUtjFh14AaABAg",
+            "video_id": "DGjj7wDYaiI",
+            "text": "every time i hear blackstone in a video or conversation i feel sick to my stomach and less optimistic about the future",
+            "compound": -0.3167,
+            "like_count": 3200
+          },
+          {
+            "comment_id": "UgzZql25HQgfejy4D0J4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "a man who cries about people being mean to him is actually the most horrible person of all",
+            "compound": -0.7574,
+            "like_count": 2076
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 4,
+        "count": 1499,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.0622284063317046
+          },
+          {
+            "word": "to",
+            "score": 0.0488870602368491
+          },
+          {
+            "word": "and",
+            "score": 0.047921626856997794
+          },
+          {
+            "word": "of",
+            "score": 0.0384785442742662
+          },
+          {
+            "word": "is",
+            "score": 0.03571874325640741
+          },
+          {
+            "word": "that",
+            "score": 0.03208042497026594
+          },
+          {
+            "word": "in",
+            "score": 0.030982169028323823
+          },
+          {
+            "word": "they",
+            "score": 0.03080700440340053
+          },
+          {
+            "word": "it",
+            "score": 0.028409668478442302
+          },
+          {
+            "word": "are",
+            "score": 0.02836044168213454
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgxU2uk-fiB5FORS3HN4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "this is how corporate capitalism has always worked they put their factories in areas where poor people live because those people have less capability to resist",
+            "compound": -0.4767,
+            "like_count": 12885
+          },
+          {
+            "comment_id": "UgzPxZgxPkUf1DxjUdB4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "ignoring the training cost would be like a movie displaying no animals were harmed during the streaming of this movie to your television",
+            "compound": -0.6705,
+            "like_count": 12422
+          },
+          {
+            "comment_id": "Ugz6jY0LmpLZrOoTWWx4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "everybody got paid except for the people getting affected in that horrible environment",
+            "compound": -0.6249,
+            "like_count": 3922
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 5,
+        "count": 1449,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.06321381163241256
+          },
+          {
+            "word": "to",
+            "score": 0.04828812063426057
+          },
+          {
+            "word": "and",
+            "score": 0.04731234004450938
+          },
+          {
+            "word": "is",
+            "score": 0.04344690056348299
+          },
+          {
+            "word": "of",
+            "score": 0.037297824184926054
+          },
+          {
+            "word": "he",
+            "score": 0.03443795718098753
+          },
+          {
+            "word": "in",
+            "score": 0.03161832251137013
+          },
+          {
+            "word": "that",
+            "score": 0.029963110177972797
+          },
+          {
+            "word": "this",
+            "score": 0.028745904437180732
+          },
+          {
+            "word": "elon",
+            "score": 0.02872596790772564
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "Ugwh3JOe4Zyq-EJ26I14AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "this is pure evil my question is how did elon pass the city commissioner board i think memphian needs to hold thimeir mayor city board accountable too",
+            "compound": -0.6597,
+            "like_count": 1830
+          },
+          {
+            "comment_id": "UgwtObCOnywzbVmRdPt4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "that entire area of memphis should file a class action lawsuit against elon and his company",
+            "compound": -0.2263,
+            "like_count": 1696
+          },
+          {
+            "comment_id": "UgzTzjk4uv0qyyF-lIR4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "what elon did is extremely troubling especially since he circumvented actual policies and environmental regulations instant message not from memphis but shout out to the people there for standing up",
+            "compound": -0.3392,
+            "like_count": 1406
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 6,
+        "count": 1408,
+        "topic_words": [
+          {
+            "word": "intelligence",
+            "score": 0.06095983297677499
+          },
+          {
+            "word": "artificial",
+            "score": 0.0608220706423642
+          },
+          {
+            "word": "the",
+            "score": 0.05061079836653353
+          },
+          {
+            "word": "to",
+            "score": 0.05007106308202135
+          },
+          {
+            "word": "and",
+            "score": 0.0437097545627217
+          },
+          {
+            "word": "it",
+            "score": 0.041163773599372164
+          },
+          {
+            "word": "is",
+            "score": 0.03892334374967569
+          },
+          {
+            "word": "of",
+            "score": 0.03826571479170071
+          },
+          {
+            "word": "that",
+            "score": 0.034440929709568094
+          },
+          {
+            "word": "for",
+            "score": 0.02857498725088833
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgyeD5wsElqoZX40Y1N4AaABAg",
+            "video_id": "DGjj7wDYaiI",
+            "text": "perhaps most insane of all there are average people on the internet who will defend big tech and its billionaires to their dying breath",
+            "compound": -0.4576,
+            "like_count": 7528
+          },
+          {
+            "comment_id": "UgycxO3_4WaVU38ognV4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "i hate artificial intelligence i hate corn i hate cars i hate lawns my arguments remain consistent",
+            "compound": -0.9371,
+            "like_count": 7025
+          },
+          {
+            "comment_id": "UgwdfW5R5QxZOruJ0SB4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "once men turned their thinking over to machines in the hope that this would set them free but that only permitted other men with machines to enslave them dune",
+            "compound": -0.5499,
+            "like_count": 4784
+          }
+        ]
+      },
+      {
+        "sentiment_label": "negative",
+        "topic": 7,
+        "count": 28,
+        "topic_words": [
+          {
+            "word": "satan",
+            "score": 0.20086317621063146
+          },
+          {
+            "word": "baphomet",
+            "score": 0.19892619408322995
+          },
+          {
+            "word": "wears",
+            "score": 0.19789999840573833
+          },
+          {
+            "word": "lunatic",
+            "score": 0.1969125562562287
+          },
+          {
+            "word": "twitter",
+            "score": 0.19342379931394138
+          },
+          {
+            "word": "church",
+            "score": 0.19246756009235932
+          },
+          {
+            "word": "caught",
+            "score": 0.18729254691121758
+          },
+          {
+            "word": "controlling",
+            "score": 0.1866303014837028
+          },
+          {
+            "word": "puts",
+            "score": 0.18598442241725133
+          },
+          {
+            "word": "robots",
+            "score": 0.17516919378578608
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "Ugw4TRfbopDWkCEKLcZ4AaABAg",
+            "video_id": "eyklsgOClJA",
+            "text": "such a stupid idea only someone with delusions of grandure like doge in chief musk could believe it 936",
+            "compound": -0.2263,
+            "like_count": 1
+          },
+          {
+            "comment_id": "UgyTVXmEeB8A_ZgcnYV4AaABAg.AJ-ScRPB_00AK-k8BqsJJJ",
+            "video_id": "3VJT2JeDCyw",
+            "text": "imagine when this lunatic puts mind controlling robots in humans wake up elon musk got caught going to the church of satan he even wears the baphomet on twitter called x",
+            "compound": -0.5789,
+            "like_count": 0
+          },
+          {
+            "comment_id": "UgxU2uk-fiB5FORS3HN4AaABAg.AIq4x-hp413AK-k8sDO2dV",
+            "video_id": "3VJT2JeDCyw",
+            "text": "imagine when this lunatic puts mind controlling robots in humans wake up elon musk got caught going to the church of satan he even wears the baphomet on twitter called x",
+            "compound": -0.5789,
+            "like_count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "sentiment_label": "neutral",
+    "document_count": 8427,
+    "topic_count": 8,
+    "topics": [
+      {
+        "sentiment_label": "neutral",
+        "topic": 0,
+        "count": 1418,
+        "topic_words": [
+          {
+            "word": "water",
+            "score": 0.1117831577965274
+          },
+          {
+            "word": "the",
+            "score": 0.06556263686042131
+          },
+          {
+            "word": "to",
+            "score": 0.0444143805080055
+          },
+          {
+            "word": "and",
+            "score": 0.04287562829542691
+          },
+          {
+            "word": "of",
+            "score": 0.0407829280774882
+          },
+          {
+            "word": "in",
+            "score": 0.036981238584941206
+          },
+          {
+            "word": "it",
+            "score": 0.036868958976653675
+          },
+          {
+            "word": "use",
+            "score": 0.035677279978517364
+          },
+          {
+            "word": "is",
+            "score": 0.035270981043478505
+          },
+          {
+            "word": "they",
+            "score": 0.03223397445412984
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "Ugy-tmOg9KURZrVxE414AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "we're about a week away from chat gpt gaslighting us into thinking about our water footprint to draw attention away from themselves",
+            "compound": 0.0,
+            "like_count": 13363
+          },
+          {
+            "comment_id": "UgwdKsOXsWGQd0PcAq14AaABAg",
+            "video_id": "b0C56yqIkbk",
+            "text": "so this is how the dystopian plot point of water being a luxury starts",
+            "compound": 0.0,
+            "like_count": 5485
+          },
+          {
+            "comment_id": "UgyYcpcHPbrEO4zaV3x4AaABAg",
+            "video_id": "eyklsgOClJA",
+            "text": "the heat should be a useful byproduct instead of waste",
+            "compound": 0.0258,
+            "like_count": 2279
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 1,
+        "count": 1320,
+        "topic_words": [
+          {
+            "word": "data",
+            "score": 0.06597810766536175
+          },
+          {
+            "word": "the",
+            "score": 0.06038738776380177
+          },
+          {
+            "word": "to",
+            "score": 0.04792722291293408
+          },
+          {
+            "word": "centers",
+            "score": 0.04772214975731758
+          },
+          {
+            "word": "and",
+            "score": 0.04381160456144656
+          },
+          {
+            "word": "of",
+            "score": 0.03726503812549808
+          },
+          {
+            "word": "in",
+            "score": 0.03688028355414783
+          },
+          {
+            "word": "power",
+            "score": 0.036022787666613404
+          },
+          {
+            "word": "is",
+            "score": 0.03466262509309288
+          },
+          {
+            "word": "are",
+            "score": 0.030277830642506453
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgyzjNFe_A_cAaXHtjp4AaABAg",
+            "video_id": "t-8TDOFqkQA",
+            "text": "the idea that your power consumption is a trade secret is some of the smelliest bullsht i've ever heard",
+            "compound": 0.0,
+            "like_count": 2756
+          },
+          {
+            "comment_id": "UgysFcPdekvP-jhNzit4AaABAg",
+            "video_id": "3__HO-akNC8",
+            "text": "data centers do not bring many jobs to the community once the construction is finished the place more or less operates on autopilot with minimal staff",
+            "compound": 0.0,
+            "like_count": 1524
+          },
+          {
+            "comment_id": "Ugw9FEnYmFrbx7zxjwV4AaABAg",
+            "video_id": "DGjj7wDYaiI",
+            "text": "so this is why georgia power continues to go up on the residents we are paying 200 of what our rates used to be since 2018",
+            "compound": 0.0,
+            "like_count": 1382
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 2,
+        "count": 1216,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.06302596259910853
+          },
+          {
+            "word": "to",
+            "score": 0.044493876050840195
+          },
+          {
+            "word": "and",
+            "score": 0.043997034099546375
+          },
+          {
+            "word": "is",
+            "score": 0.036981115908750944
+          },
+          {
+            "word": "money",
+            "score": 0.03642997185818556
+          },
+          {
+            "word": "for",
+            "score": 0.03626681454661157
+          },
+          {
+            "word": "they",
+            "score": 0.03567827616692609
+          },
+          {
+            "word": "of",
+            "score": 0.03531296004935751
+          },
+          {
+            "word": "that",
+            "score": 0.032476308575024385
+          },
+          {
+            "word": "are",
+            "score": 0.030659275551983375
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgzL-g4r5eRyFMk4u294AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "if the government refuses to listen what are we supposed to do to quote dr king rioting is the language of the unheard",
+            "compound": 0.0,
+            "like_count": 1678
+          },
+          {
+            "comment_id": "UgzlDBa2gBcaYw9S8f14AaABAg",
+            "video_id": "YN6BEUA4jNU",
+            "text": "there has got to be a legal case here you cant just force someone to pay some elses bill behind their back",
+            "compound": 0.0258,
+            "like_count": 1421
+          },
+          {
+            "comment_id": "UgysxNo74cekjhJgCU94AaABAg",
+            "video_id": "7rEzhCwPhqc",
+            "text": "big tech has to be regulated in a way never seen before",
+            "compound": 0.0,
+            "like_count": 824
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 3,
+        "count": 1136,
+        "topic_words": [
+          {
+            "word": "you",
+            "score": 0.06435517354766242
+          },
+          {
+            "word": "the",
+            "score": 0.04720150499770735
+          },
+          {
+            "word": "to",
+            "score": 0.040593583353039
+          },
+          {
+            "word": "is",
+            "score": 0.03523318155589101
+          },
+          {
+            "word": "it",
+            "score": 0.033314742994186596
+          },
+          {
+            "word": "that",
+            "score": 0.03019573377769335
+          },
+          {
+            "word": "your",
+            "score": 0.029704913527011288
+          },
+          {
+            "word": "what",
+            "score": 0.028565476601023633
+          },
+          {
+            "word": "of",
+            "score": 0.026604059147308193
+          },
+          {
+            "word": "not",
+            "score": 0.025268868728379242
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgxnWN1ZXOJxrkDLYKJ4AaABAg.AQUoGAP6laUAQUrlRvoR3x",
+            "video_id": "H_c6MWk7PQc",
+            "text": "it is literal doublespeak from 1984",
+            "compound": 0.0,
+            "like_count": 615
+          },
+          {
+            "comment_id": "UgzKZLal6VQ9uGQS0AN4AaABAg.AQVqF3c9do6AQWHoVJeSos",
+            "video_id": "H_c6MWk7PQc",
+            "text": "clippy would never emit so much noise you have constant migraines for weeks",
+            "compound": 0.0,
+            "like_count": 573
+          },
+          {
+            "comment_id": "Ugw9GBxv3uuKVGmDBsx4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "138 my man combed his hair just for the sake of the ad what dedication",
+            "compound": 0.0,
+            "like_count": 466
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 4,
+        "count": 1066,
+        "topic_words": [
+          {
+            "word": "it",
+            "score": 0.06741008935521585
+          },
+          {
+            "word": "this",
+            "score": 0.053916759034507274
+          },
+          {
+            "word": "you",
+            "score": 0.051891620041590016
+          },
+          {
+            "word": "the",
+            "score": 0.05025886485828446
+          },
+          {
+            "word": "that",
+            "score": 0.04328226724271089
+          },
+          {
+            "word": "they",
+            "score": 0.04207765496357021
+          },
+          {
+            "word": "to",
+            "score": 0.04187840545489537
+          },
+          {
+            "word": "is",
+            "score": 0.04122196083651208
+          },
+          {
+            "word": "we",
+            "score": 0.03646664220243737
+          },
+          {
+            "word": "its",
+            "score": 0.03471007277142773
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgwLAmOTK-gez89oOGd4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "the fact this is the first i've seen any news on this says a lot",
+            "compound": 0.0,
+            "like_count": 13210
+          },
+          {
+            "comment_id": "UgxbUuN5nhX2PVS4-VN4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "if i've learnt one thing from this channel it is that every issue you can think of is more complex than you might have thought",
+            "compound": 0.0,
+            "like_count": 680
+          },
+          {
+            "comment_id": "UgxC1Yyi2ENkF1n-k294AaABAg.AQUhgaBP7ZfAQUlmFVfAU4",
+            "video_id": "H_c6MWk7PQc",
+            "text": "absolute throat goat at eleven thousand psi",
+            "compound": 0.0,
+            "like_count": 593
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 5,
+        "count": 826,
+        "topic_words": [
+          {
+            "word": "corn",
+            "score": 0.053958444611883
+          },
+          {
+            "word": "the",
+            "score": 0.05298028117896175
+          },
+          {
+            "word": "to",
+            "score": 0.049794250266890466
+          },
+          {
+            "word": "in",
+            "score": 0.048287204794613584
+          },
+          {
+            "word": "and",
+            "score": 0.04668983812624496
+          },
+          {
+            "word": "is",
+            "score": 0.03867066774303728
+          },
+          {
+            "word": "of",
+            "score": 0.03675216670627713
+          },
+          {
+            "word": "are",
+            "score": 0.028294355766652412
+          },
+          {
+            "word": "that",
+            "score": 0.02829289534737194
+          },
+          {
+            "word": "it",
+            "score": 0.028045045141927922
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "Ugx3C4ksMTEQM1PLE2J4AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "i knew it was corn",
+            "compound": 0.0,
+            "like_count": 12753
+          },
+          {
+            "comment_id": "UgxyNmjXiFRTS0Bg-rF4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "i guess this explains why billionaires have been buying land in the midwest over the last decade",
+            "compound": 0.0,
+            "like_count": 7610
+          },
+          {
+            "comment_id": "UgzffTLYRJVMrs1gUG94AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "every issue eventually circles back to big corn",
+            "compound": 0.0,
+            "like_count": 1799
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 6,
+        "count": 746,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.055487559921979054
+          },
+          {
+            "word": "video",
+            "score": 0.045165679593068504
+          },
+          {
+            "word": "intelligence",
+            "score": 0.04435060979922967
+          },
+          {
+            "word": "artificial",
+            "score": 0.04435060979922967
+          },
+          {
+            "word": "to",
+            "score": 0.04164013667385954
+          },
+          {
+            "word": "you",
+            "score": 0.04143345722495395
+          },
+          {
+            "word": "is",
+            "score": 0.0414225376113003
+          },
+          {
+            "word": "and",
+            "score": 0.03775117498506589
+          },
+          {
+            "word": "of",
+            "score": 0.03673646448661502
+          },
+          {
+            "word": "this",
+            "score": 0.03550486682018732
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "Ugx0BgIbQaJMKFsc4g54AaABAg",
+            "video_id": "H_c6MWk7PQc",
+            "text": "petition to call openai closedai from now on until they fix their attitude",
+            "compound": 0.0,
+            "like_count": 3214
+          },
+          {
+            "comment_id": "UgyKse3wmkI75sgGYRV4AaABAg",
+            "video_id": "b0C56yqIkbk",
+            "text": "i don't need artificial intelligence to be using up my water just to help others figure out what color tshirt to wear for the day",
+            "compound": 0.0377,
+            "like_count": 1346
+          },
+          {
+            "comment_id": "UgyC6Mtrja4fL2ajIPZ4AaABAg",
+            "video_id": "t-8TDOFqkQA",
+            "text": "i'm so tired of artificial intelligence being shoved down our throats",
+            "compound": -0.024,
+            "like_count": 766
+          }
+        ]
+      },
+      {
+        "sentiment_label": "neutral",
+        "topic": 7,
+        "count": 699,
+        "topic_words": [
+          {
+            "word": "the",
+            "score": 0.0672310129244388
+          },
+          {
+            "word": "is",
+            "score": 0.050135181014703184
+          },
+          {
+            "word": "to",
+            "score": 0.04865813723686957
+          },
+          {
+            "word": "mars",
+            "score": 0.04614185554728575
+          },
+          {
+            "word": "of",
+            "score": 0.04378411747385161
+          },
+          {
+            "word": "and",
+            "score": 0.03746273904135977
+          },
+          {
+            "word": "we",
+            "score": 0.03705642387128412
+          },
+          {
+            "word": "elon",
+            "score": 0.035683529311856796
+          },
+          {
+            "word": "in",
+            "score": 0.033225276520033285
+          },
+          {
+            "word": "are",
+            "score": 0.033167998774350886
+          }
+        ],
+        "representative_comments": [
+          {
+            "comment_id": "UgwTGOYN--uLm0OvIlJ4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "mars is not our lifeboat we should spend a little more effort saving this planet",
+            "compound": 0.0,
+            "like_count": 12258
+          },
+          {
+            "comment_id": "UgxdxhgEFQGkq1kfOXJ4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "instead of focusing on mars lets focus on saving earth",
+            "compound": 0.0,
+            "like_count": 2698
+          },
+          {
+            "comment_id": "Ugy_6lj3Kjd1YDBUuth4AaABAg",
+            "video_id": "3VJT2JeDCyw",
+            "text": "elon got rid of the folks who regulates his affairs",
+            "compound": 0.0,
+            "like_count": 1667
+          }
+        ]
+      }
+    ]
+  }
+]
