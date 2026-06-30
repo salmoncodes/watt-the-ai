@@ -16,14 +16,19 @@ its analysis tables, and every header row is inserted before its child rows.
 import sys
 import sqlite3
 from pathlib import Path
+
+SRC_DIR = Path(__file__).resolve().parents[2]
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
+
 from database.utils.io_utils import load_json
 
 
 # ----------------------------
 # PATHS
 # ----------------------------
-DB_PATH = Path("database/structured_db/structured.db")
-SCHEMA_PATH = Path("database/structured_db/structured_schema.sql")
+DB_PATH = Path("src/database/structured_db/structured.db")
+SCHEMA_PATH = Path("src/database/structured_db/structured_schema.sql")
 
 PREP = Path("data/preprocessing")
 FEAT = Path("data/feature_extraction")
@@ -34,7 +39,7 @@ FEAT = Path("data/feature_extraction")
 # ----------------------------
 def init_db():
     DB_PATH.parent.mkdir(parents=True, exist_ok=True)
-    if DB_PATH.exists():          # rebuild from scratch for a clean, idempotent load
+    if DB_PATH.exists():          # rebuild from scratch
         DB_PATH.unlink()
 
     conn = sqlite3.connect(DB_PATH)
@@ -43,6 +48,14 @@ def init_db():
         conn.executescript(file.read())
     conn.commit()
     return conn
+
+
+def row_exists(conn, table, column, value):
+    row = conn.execute(
+        f"SELECT 1 FROM {table} WHERE {column} = ? LIMIT 1",
+        (value,),
+    ).fetchone()
+    return row is not None
 
 
 # ============================================================================
@@ -196,6 +209,8 @@ def insert_sentiment(conn, sentiment_data):
 def insert_youtube_relations(conn, relation_data):
     cur = conn.cursor()
     for r in relation_data:
+        if not row_exists(conn, "videos", "video_id", r.get("video_id")):
+            continue
         rid = cur.execute(
             """INSERT INTO youtube_relation_results
                (source_type, video_id, document_id, text_clean, relation_count)
@@ -297,6 +312,8 @@ def insert_hn_sentiment(conn, data):
 def insert_hn_relations(conn, data):
     cur = conn.cursor()
     for r in data:
+        if not row_exists(conn, "hackernews", "record_id", r.get("record_id")):
+            continue
         rid = cur.execute(
             """INSERT INTO hackernews_relation_results
                (source, record_id, story_id, author, text_clean, relation_count)
@@ -306,7 +323,7 @@ def insert_hn_relations(conn, data):
         for rel in (r.get("relations") or []):
             cur.execute(
                 """INSERT INTO hackernews_relations
-                   (hn_relation_result_id, subject_text, relation, object_text,
+                   (relation_result_id, subject_text, relation, object_text,
                     relation_text, confidence, matched_rule)
                    VALUES (?,?,?,?,?,?,?)""",
                 (rid, rel.get("subject"), rel.get("relation"), rel.get("object"),
@@ -417,6 +434,8 @@ def insert_research_topics(conn, data):
 def insert_research_relations(conn, data):
     cur = conn.cursor()
     for r in data:
+        if not row_exists(conn, "research_sources", "record_id", r.get("record_id")):
+            continue
         rid = cur.execute(
             """INSERT INTO research_relation_results
                (source, record_id, doi, title, text_clean, relation_count)
@@ -426,7 +445,7 @@ def insert_research_relations(conn, data):
         for rel in (r.get("relations") or []):
             cur.execute(
                 """INSERT INTO research_relations
-                   (research_relation_result_id, subject_text, relation, object_text,
+                   (relation_result_id, subject_text, relation, object_text,
                     relation_text, confidence, matched_rule)
                    VALUES (?,?,?,?,?,?,?)""",
                 (rid, rel.get("subject"), rel.get("relation"), rel.get("object"),

@@ -46857,55 +46857,6 @@
     ]
   },
   {
-    "record_id": "48228468",
-    "story_id": 48227773,
-    "author": "johnea",
-    "text_length": 93,
-    "keyword_count": 10,
-    "keywords": [
-      {
-        "keyword": "bsky javascript",
-        "score": 0.8697
-      },
-      {
-        "keyword": "read bsky",
-        "score": 0.659
-      },
-      {
-        "keyword": "bsky",
-        "score": 0.654
-      },
-      {
-        "keyword": "javascript requirement",
-        "score": 0.46
-      },
-      {
-        "keyword": "javascript",
-        "score": 0.4484
-      },
-      {
-        "keyword": "js",
-        "score": 0.415
-      },
-      {
-        "keyword": "require js",
-        "score": 0.3737
-      },
-      {
-        "keyword": "require",
-        "score": 0.219
-      },
-      {
-        "keyword": "don require",
-        "score": 0.2051
-      },
-      {
-        "keyword": "requirement sources",
-        "score": 0.203
-      }
-    ]
-  },
-  {
     "record_id": "48228449",
     "story_id": 48227773,
     "author": "markdown",

@@ -1,10 +1,4 @@
-"""
-registry.py
-Name -> strategy mapping so the agent layer selects a retriever by name
-("semantic", "lexical", "metadata", "hybrid") without importing the classes
-directly. Instances are created lazily and cached, since some strategies build
-indexes or open connections on construction.
-"""
+"""Name-to-retriever mapping used by the agent layer."""
 
 from rag.retrieval.semantic_retriever import SemanticRetriever
 from rag.retrieval.lexical_retriever import LexicalRetriever

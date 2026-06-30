@@ -541,7 +541,7 @@ CREATE INDEX idx_hn_ner_entities_parent        ON hackernews_ner_entities (hn_ne
 CREATE INDEX idx_hn_topic_results_record       ON hackernews_topic_results (record_id);
 CREATE INDEX idx_hn_sent_results_record        ON hackernews_sentiment_results (record_id);
 CREATE INDEX idx_hn_rel_results_record         ON hackernews_relation_results (record_id);
-CREATE INDEX idx_hn_relations_parent           ON hackernews_relations (hn_relation_result_id);
+CREATE INDEX idx_hn_relations_parent           ON hackernews_relations (relation_result_id);
 CREATE INDEX idx_hn_tbs_topics_parent          ON hn_tbs_topics (hn_topic_by_sentiment_id);
 CREATE INDEX idx_hn_tbs_words_parent           ON hn_tbs_topic_words (hn_tbs_topic_id);
 CREATE INDEX idx_hn_tbs_repposts_parent        ON hn_tbs_representative_posts (hn_tbs_topic_id);
@@ -553,4 +553,4 @@ CREATE INDEX idx_research_ner_results_record   ON research_ner_results (record_i
 CREATE INDEX idx_research_ner_entities_parent  ON research_ner_entities (research_ner_result_id);
 CREATE INDEX idx_research_topic_results_record ON research_topic_results (record_id);
 CREATE INDEX idx_research_rel_results_record   ON research_relation_results (record_id);
-CREATE INDEX idx_research_relations_parent     ON research_relations (research_relation_result_id);
+CREATE INDEX idx_research_relations_parent     ON research_relations (relation_result_id);

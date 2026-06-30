@@ -13,6 +13,11 @@ Document id convention:  {source}:{record}:{chunk}
 import sys
 import argparse
 from pathlib import Path
+
+SRC_DIR = Path(__file__).resolve().parents[2]
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
+
 from database.utils.io_utils import load_json, save_jsonl, ensure_dir
 
 
@@ -140,15 +145,14 @@ def chunk_hackernews(path, chunk_size, overlap):
 # --------------------------------------------------------------- RESEARCH
 def chunk_research(path, chunk_size, overlap):
     docs = []
-    for r in load_json(path):
+    for record_index, r in enumerate(load_json(path)):
         rid = r.get("record_id")
-        short = rid.split("/")[-1] if rid else "unknown"
         # prefer the RAG-ready text, then cleaned abstract/text
         text = r.get("text_for_rag") or r.get("text_clean") or r.get("abstract") or ""
         chunks = chunk_text(text, chunk_size, overlap)
         for i, ch in enumerate(chunks):
             docs.append({
-                "document_id": f"rs:{short}:abs_{i:04d}",
+                "document_id": f"rs:{record_index:04d}:abs_{i:04d}",
                 "record_id": rid,
                 "doi": r.get("doi"),
                 "doc_type": "abstract_chunk",
@@ -170,7 +174,7 @@ def main():
     parser = argparse.ArgumentParser(
         description="Chunk cleaned sources into embeddable documents for the vector DB.")
     parser.add_argument("--input-dir", default="data")
-    parser.add_argument("--output-dir", default="database/vector_db/chunks")
+    parser.add_argument("--output-dir", default="src/database/vector_db/chunks")
     parser.add_argument("--chunk-size", type=int, default=200, help="words per chunk")
     parser.add_argument("--overlap", type=int, default=40, help="word overlap between chunks")
     args = parser.parse_args()

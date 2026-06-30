@@ -16,16 +16,23 @@ from utils.load_data import load_json
 from utils.save_data import save_json
 from models.bertopic_model import analyze_batch
 
-FEATURE_DIR = Path("feature_extraction/output")
+FEATURE_DIR = Path("data/feature_extraction")
+PREP_DIR = Path("data/preprocessing")
 INPUT_FILE = FEATURE_DIR / "hackernews_sentiment_results.json"
+TEXT_FILE = PREP_DIR / "clean_hackernews.json"
 OUTPUT_FILE = FEATURE_DIR / "hackernews_topic_by_sentiment_results.json"
 
 def run_topic_modeling_by_sentiment_hackernews():
     records = load_json(INPUT_FILE)
+    text_rows = load_json(TEXT_FILE)
+    text_by_id = {row.get("record_id"): row for row in text_rows}
     sentiment_groups = defaultdict(list)
     for record in records:
-        text = record.get("text_clean", "").strip()
+        clean_row = text_by_id.get(record.get("record_id"), {})
+        text = clean_row.get("text_clean", "").strip()
         if text:
+            record["text_clean"] = text
+            record["score"] = clean_row.get("points", 0) or 0
             sentiment_groups[record["sentiment_label"]].append(record)
     final_results = []
     for sentiment, records in sentiment_groups.items():

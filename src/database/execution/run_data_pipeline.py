@@ -15,7 +15,9 @@ import sys
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[3]
+if not (ROOT / "src").exists() or not (ROOT / "data").exists():
+    raise RuntimeError(f"Could not find project root from {__file__}")
 
 
 def run_step(command, step_name):
@@ -37,7 +39,7 @@ def main():
     # STRUCTURED DATABASE
     # ----------------------------
     run_step(
-        ["database/structured_db/transfer_to_structured.py"],
+        ["src/database/structured_db/transfer_to_structured.py"],
         "Structured Database Transfer"
     )
 
@@ -45,7 +47,7 @@ def main():
     # CHUNKING (prepares documents for embedding)
     # ----------------------------
     run_step(
-        ["database/vector_db/chunking.py", "--input-dir", "data/preprocessing"],
+        ["src/database/vector_db/chunking.py", "--input-dir", "data/preprocessing"],
         "Chunking (build document units)"
     )
 
@@ -53,7 +55,7 @@ def main():
     # VECTOR DATABASE
     # ----------------------------
     run_step(
-        ["database/vector_db/transfer_to_vector.py"],
+        ["src/database/vector_db/transfer_to_vector.py"],
         "Vector Database Transfer (Embedding)"
     )
 

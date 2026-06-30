@@ -10,15 +10,21 @@ produced by chunking.py, across all three sources:
 Pipeline:  chunked JSONL -> embedding -> vector_db
 
 This step consumes chunking.py's output (the *_documents.jsonl files) rather than
-re-deriving documents from the cleaned JSON, so chunking remains the single
-source of truth for how text is split. Run chunking.py before this script.
+re-deriving documents from the cleaned JSON, so chunking decides how text is
+split. Run chunking.py before this script.
 """
 
-import sys
 import json
 import sqlite3
+import sys
 from pathlib import Path
-from database.utils.io_utils.py import load_json1
+
+SRC_DIR = Path(__file__).resolve().parents[2]
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
+
+from database.utils.io_utils import load_jsonl
+from rag.config.rag_config import EMBEDDING_MODEL
 
 from sentence_transformers import SentenceTransformer
 
@@ -26,15 +32,15 @@ from sentence_transformers import SentenceTransformer
 # ----------------------------
 # PATHS
 # ----------------------------
-DB_PATH = Path("database/vector_db/vector.db")
-SCHEMA_PATH = Path("database/vector_db/vector_schema.sql")
-CHUNK_DIR = Path("database/vector_db/chunks")
+DB_PATH = Path("src/database/vector_db/vector.db")
+SCHEMA_PATH = Path("src/database/vector_db/vector_schema.sql")
+CHUNK_DIR = Path("src/database/vector_db/chunks")
 
 
 # ----------------------------
 # MODEL LOADING
 # ----------------------------
-model = SentenceTransformer("all-MiniLM-L6-v2")
+model = SentenceTransformer(EMBEDDING_MODEL)
 
 
 # ----------------------------
@@ -42,7 +48,7 @@ model = SentenceTransformer("all-MiniLM-L6-v2")
 # ----------------------------
 def init_db():
     DB_PATH.parent.mkdir(parents=True, exist_ok=True)
-    if DB_PATH.exists():          # rebuild from scratch for a clean, idempotent load
+    if DB_PATH.exists():          # rebuild from scratch
         DB_PATH.unlink()
 
     conn = sqlite3.connect(DB_PATH)

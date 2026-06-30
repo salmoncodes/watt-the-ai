@@ -1,11 +1,4 @@
-"""
-semantic_retriever.py
-Embedding-similarity search over the vector DB. Good at meaning over wording.
-
-Embeddings are stored as JSON text, so this loads candidate vectors and ranks
-them by cosine similarity in memory. For a larger corpus, swap the vector math
-for the sqlite-vec extension without changing this class's interface.
-"""
+"""Semantic retrieval using stored embeddings."""
 
 import json
 
@@ -23,12 +16,18 @@ class SemanticRetriever(Retriever):
         self.db_path = db_path
         self.tables = tables
 
-    def _load_corpus(self):
+    def _tables_for_source(self, source_filter):
+        if not source_filter:
+            return self.tables
+        return [table for table in self.tables
+                if TABLE_SOURCE.get(table, table) == source_filter]
+
+    def _load_corpus(self, source_filter=None):
         """Return (matrix, docs) where matrix is (n, dim) of embeddings."""
         vectors, docs = [], []
         conn = connect(self.db_path)
         try:
-            for table in self.tables:
+            for table in self._tables_for_source(source_filter):
                 source = TABLE_SOURCE.get(table, table)
                 rows = conn.execute(
                     f"SELECT document_id, doc_type, text, metadata, embedding FROM {table}"
@@ -44,13 +43,13 @@ class SemanticRetriever(Retriever):
             return np.empty((0, 0)), []
         return np.array(vectors, dtype=float), docs
 
-    def search_by_vector(self, query_vector, top_k=TOP_K):
+    def search_by_vector(self, query_vector, top_k=TOP_K, source_filter=None):
         """Rank stored documents against an already-computed query vector.
         Kept separate from retrieve() so it can be used (and tested) without the
         embedding model."""
         if query_vector is None:
             return []
-        matrix, docs = self._load_corpus()
+        matrix, docs = self._load_corpus(source_filter)
         if len(docs) == 0:
             return []
 
@@ -75,7 +74,9 @@ class SemanticRetriever(Retriever):
         return results
 
     def retrieve(self, query, top_k=TOP_K, filters=None):
-        results = self.search_by_vector(embed_query(query), top_k=top_k)
-        if filters and filters.get("source"):
-            results = [r for r in results if r.source == filters["source"]]
-        return results[:top_k]
+        source_filter = (filters or {}).get("source")
+        return self.search_by_vector(
+            embed_query(query),
+            top_k=top_k,
+            source_filter=source_filter,
+        )[:top_k]

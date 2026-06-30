@@ -16,7 +16,7 @@ from utils.load_data import load_json
 from utils.save_data import save_json
 from models.bertopic_model import analyze_batch
 
-FEATURE_DIR = Path("feature_extraction/output")
+FEATURE_DIR = Path("data/feature_extraction")
 INPUT_FILE = FEATURE_DIR / "sentiment_results.json"
 OUTPUT_FILE = FEATURE_DIR / "topic_by_sentiment_results.json"
 

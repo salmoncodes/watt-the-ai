@@ -1,12 +1,4 @@
-"""
-lexical_retriever.py
-Keyword / term search via SQLite FTS5 with BM25 ranking. Good at exact tokens
-that semantic search blurs away: names, identifiers, acronyms, numbers, quotes.
-
-An in-memory FTS5 index is built once from the vector DB's document text, so the
-vector DB itself is never modified. BM25 returns lower-is-better scores; they
-are negated here so higher means more relevant, matching the other strategies.
-"""
+"""Lexical retrieval using SQLite FTS5."""
 
 import re
 import json
@@ -64,16 +56,22 @@ class LexicalRetriever(Retriever):
         match = _to_match_query(query)
         if not match:
             return []
-        rows = self.conn.execute(
-            "SELECT document_id, source, doc_type, metadata, text, bm25(docs) AS rank "
-            "FROM docs WHERE docs MATCH ? ORDER BY rank LIMIT ?",
-            (match, top_k * 4),
-        ).fetchall()
+        source_filter = (filters or {}).get("source")
+        if source_filter:
+            rows = self.conn.execute(
+                "SELECT document_id, source, doc_type, metadata, text, bm25(docs) AS rank "
+                "FROM docs WHERE docs MATCH ? AND source = ? ORDER BY rank LIMIT ?",
+                (match, source_filter, top_k * 4),
+            ).fetchall()
+        else:
+            rows = self.conn.execute(
+                "SELECT document_id, source, doc_type, metadata, text, bm25(docs) AS rank "
+                "FROM docs WHERE docs MATCH ? ORDER BY rank LIMIT ?",
+                (match, top_k * 4),
+            ).fetchall()
 
         results = []
         for r in rows:
-            if filters and filters.get("source") and r["source"] != filters["source"]:
-                continue
             results.append(RetrievedDocument(
                 document_id=r["document_id"],
                 text=r["text"],

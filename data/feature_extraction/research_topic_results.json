@@ -3,35 +3,35 @@
     "record_id": "https://openalex.org/W3000603264",
     "doi": "https://doi.org/10.1038/s41467-019-14108-y",
     "title": "The role of artificial intelligence in achieving the Sustainable Development Goals",
-    "topic": 0,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W2969625533",
     "doi": "https://doi.org/10.1016/j.ijinfomgt.2019.08.002",
     "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
-    "topic": 0,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4399379480",
     "doi": "https://doi.org/10.1016/j.compag.2024.109126",
     "title": "Artificial intelligence to optimize water consumption in agriculture: A predictive algorithm-based irrigation management system",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4319304408",
     "doi": "https://doi.org/10.1016/j.nbt.2023.02.001",
     "title": "AI for life: Trends in artificial intelligence for biotechnology",
-    "topic": 0,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4395462356",
     "doi": "https://doi.org/10.1007/s11269-024-03823-x",
     "title": "Artificial Intelligence for Water Consumption Assessment: State of the Art Review",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
@@ -45,7 +45,7 @@
     "record_id": "https://openalex.org/W2767568774",
     "doi": "https://doi.org/10.3386/w24001",
     "title": "Artificial Intelligence and the Modern Productivity Paradox: A Clash of Expectations and Statistics",
-    "topic": 0,
+    "topic": 2,
     "probability": 1.0
   },
   {
@@ -59,154 +59,154 @@
     "record_id": "https://openalex.org/W4288391568",
     "doi": "https://doi.org/10.1109/tai.2022.3194503",
     "title": "An Overview of Artificial Intelligence Ethics",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W3199397800",
     "doi": "https://doi.org/10.1016/j.techsoc.2021.101741",
     "title": "Artificial intelligence, systemic risks, and sustainability",
-    "topic": 0,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4382182093",
     "doi": "https://doi.org/10.1007/s10311-023-01604-3",
     "title": "Artificial intelligence for waste management in smart cities: a review",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W3155159764",
     "doi": "https://doi.org/10.3390/su13084259",
     "title": "Modelling and Prediction of Water Quality by Using Artificial Intelligence",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W3034272367",
     "doi": "https://doi.org/10.1016/j.rser.2020.109899",
     "title": "Artificial intelligence and machine learning approaches to energy demand-side response: A systematic review",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4313527987",
     "doi": "https://doi.org/10.1080/10447318.2022.2153320",
     "title": "Six Human-Centered Artificial Intelligence Grand Challenges",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4386285839",
     "doi": "https://doi.org/10.3390/admsci13090196",
     "title": "Managing the Strategic Transformation of Higher Education through Artificial Intelligence",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "10.5220/0010834900003116",
     "doi": "10.5220/0010834900003116",
     "title": "Water Consumption Demand Pattern Analysis using Uncertain Smart Water Meter Data",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "10.24232/jmd.1668600",
     "doi": "10.24232/jmd.1668600",
     "title": "Artificial Intelligence in Water Consumption Forecasting: A Systematic Review",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "10.21275/sr24203193927",
     "doi": "10.21275/sr24203193927",
     "title": "Use of Artificial Intelligence in Optimizing HVAC Energy Consumption",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.21203/rs.3.rs-851484/v1",
     "doi": "10.21203/rs.3.rs-851484/v1",
     "title": "Analysis of the Change of Artificial Intelligence to Online Consumption Patterns and Consumption Concepts",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.3390/w16131793",
     "doi": "10.3390/w16131793",
     "title": "Predicting Urban Water Consumption and Health Using Artificial Intelligence Techniques in Tanganyika Lake, East Africa",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "10.1007/978-3-319-40195-9_22",
     "doi": "10.1007/978-3-319-40195-9_22",
     "title": "Urban Water Consumption Estimation Using Artificial Intelligence Techniques",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "10.70675/38d5f724z5ccez47f1za23cz47af02dee1f2",
     "doi": "10.70675/38d5f724z5ccez47f1za23cz47af02dee1f2",
     "title": "Artificial intelligence models for large scale buildings energy consumption analysis",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.70675/375e59d6z5ae2z422cz9673z43d7d3b9b5b1",
     "doi": "10.70675/375e59d6z5ae2z422cz9673z43d7d3b9b5b1",
     "title": "Optimisation of Energy Consumption of Data Center using Artificial Intelligence",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.1016/j.engappai.2019.103323",
     "doi": "10.1016/j.engappai.2019.103323",
     "title": "Short-term natural gas consumption prediction based on Volterra adaptive filter and improved whale optimization algorithm",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "10.1016/j.engappai.2021.104502",
     "doi": "10.1016/j.engappai.2021.104502",
     "title": "Natural gas consumption behavior of companies by clustering analysis",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "10.1201/9781003547099-16",
     "doi": "10.1201/9781003547099-16",
     "title": "Artificial Intelligence and Water Conservation",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "10.1007/s11269-024-03823-x",
     "doi": "10.1007/s11269-024-03823-x",
     "title": "Artificial Intelligence for Water Consumption Assessment: State of the Art Review",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "10.3390/app112110167",
     "doi": "10.3390/app112110167",
     "title": "Analysis of Water Consumption in Fruit and Vegetable Processing Plants with the Use of Artificial Intelligence",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "10.59934/jaiea.v5i1.1275",
     "doi": "10.59934/jaiea.v5i1.1275",
     "title": "Application of IoT in Measuring Consumption Water Quality in Water Sources",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "10.1109/aiotc63215.2024.10748289",
     "doi": "10.1109/aiotc63215.2024.10748289",
     "title": "Analysis of the Impact of Artificial Intelligence on Electricity Consumption",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
@@ -234,14 +234,14 @@
     "record_id": "https://openalex.org/W4393353064",
     "doi": "https://doi.org/10.3390/bioengineering11040337",
     "title": "The Role of AI in Hospitals and Clinics: Transforming Healthcare in the 21st Century",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4381848566",
     "doi": "https://doi.org/10.1016/j.inffus.2023.101896",
     "title": "Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
@@ -262,7 +262,7 @@
     "record_id": "https://openalex.org/W4322761281",
     "doi": "https://doi.org/10.1016/j.iotcps.2023.02.004",
     "title": "Edge AI: A survey",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
@@ -276,7 +276,7 @@
     "record_id": "https://openalex.org/W4362707075",
     "doi": "https://doi.org/10.48550/arxiv.2304.03271",
     "title": "Making AI Less \"Thirsty\": Uncovering and Addressing the Secret Water Footprint of AI Models",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
@@ -290,42 +290,42 @@
     "record_id": "https://openalex.org/W4323655724",
     "doi": "https://doi.org/10.1016/j.lindif.2023.102274",
     "title": "ChatGPT for good? On opportunities and challenges of large language models for education",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W3047335959",
     "doi": "https://doi.org/10.2166/wst.2020.369",
     "title": "A comprehensive review of deep learning applications in hydrology and water resources",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4383737134",
     "doi": "https://doi.org/10.36227/techrxiv.23589741.v1",
     "title": "A Survey on Large Language Models: Applications, Challenges, Limitations, and Practical Usage",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
     "record_id": "10.31219/osf.io/hvxf5",
     "doi": "10.31219/osf.io/hvxf5",
     "title": "Grounding AI Policy: Towards Researcher Access to AI Usage Data",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "10.1145/3570991.3571021",
     "doi": "10.1145/3570991.3571021",
     "title": "Promoting Sustainable Water Usage and Management With Water Data, AI and Policy",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "10.1515/9781501522635-008",
     "doi": "10.1515/9781501522635-008",
     "title": "Chapter 7: Ethical Data Usage and Minimization",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
@@ -346,7 +346,7 @@
     "record_id": "10.21275/sr241120062602",
     "doi": "10.21275/sr241120062602",
     "title": "Synthetic Test Data Preparation using Generative AI &amp; Usage in Secured Healthcare Practice",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
@@ -388,21 +388,21 @@
     "record_id": "10.1109/iccbd-ai62252.2023.00046",
     "doi": "10.1109/iccbd-ai62252.2023.00046",
     "title": "Clustering Analysis of Water Usage Structures Based on Knowledge Graph",
-    "topic": 0,
+    "topic": 4,
     "probability": 1.0
   },
   {
     "record_id": "10.21428/ae6a44a6.52f495bc",
     "doi": "10.21428/ae6a44a6.52f495bc",
     "title": "An Update on punctum books Usage Data: Interoperability, Interpretability, and AI",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.6671278",
     "doi": "10.2139/ssrn.6671278",
     "title": "Sustainability of AI Infrastructure and Knowledge Management and Monitoring: Investigating the Energy-Water Nexus of Data Center Buildouts in Asia and Pacific Island Countries",
-    "topic": 0,
+    "topic": 2,
     "probability": 1.0
   },
   {
@@ -416,203 +416,203 @@
     "record_id": "https://openalex.org/W4389359039",
     "doi": "https://doi.org/10.1007/s12525-023-00680-1",
     "title": "Generative artificial intelligence",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4383913712",
     "doi": "https://doi.org/10.1111/1748-8583.12524",
     "title": "Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4401509761",
     "doi": "https://doi.org/10.3390/informatics11030058",
     "title": "Ethical Challenges and Solutions of Generative AI: An Interdisciplinary Perspective",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4379416244",
     "doi": "https://doi.org/10.1108/ijchm-05-2023-0686",
     "title": "Leveraging ChatGPT and other generative artificial intelligence (AI)-based applications in the hospitality and tourism industry: practices, challenges and research agenda",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W2907683311",
     "doi": "https://doi.org/10.1109/access.2018.2890507",
     "title": "Blockchain for AI: Review and Open Research Challenges",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4322153971",
     "doi": "https://doi.org/10.1016/j.suscom.2023.100857",
     "title": "Trends in AI inference energy consumption: Beyond the performance-vs-parameter laws of deep learning",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4360612111",
     "doi": "https://doi.org/10.1007/s10311-023-01591-5",
     "title": "Strategies to save energy in the context of the energy crisis: a review",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4389834551",
     "doi": "https://doi.org/10.1016/j.procir.2024.01.098",
     "title": "Estimating the environmental impact of Generative-AI services using an LCA-based methodology",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4388409187",
     "doi": "https://doi.org/10.1007/s42438-023-00440-6",
     "title": "Generative AI and the Automating of Academia",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4220962633",
     "doi": "https://doi.org/10.1145/3490099.3511119",
     "title": "Investigating Explainability of Generative AI for Code through Scenario-based Design",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4408997758",
     "doi": "https://doi.org/10.3390/info16040281",
     "title": "Green MLOps to Green GenOps: An Empirical Study of Energy Consumption in Discriminative and Generative AI Operations",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4385070262",
     "doi": "https://doi.org/10.18559/ebr.2023.2.743",
     "title": "Challenges for higher education in the era of widespread access to generative AI",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4402230126",
     "doi": "https://doi.org/10.3390/electronics13173509",
     "title": "A Systematic Review of Synthetic Data Generation Techniques Using Generative AI",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "10.4018/979-8-3373-4272-6.ch010",
     "doi": "10.4018/979-8-3373-4272-6.ch010",
     "title": "Generative AI for Personalized Energy Consumption Behavior Analysis",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.4018/979-8-3373-4272-6.ch009",
     "doi": "10.4018/979-8-3373-4272-6.ch009",
     "title": "A Study of Generative AI for Energy Consumption Behavior Analysis",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.4018/979-8-3373-4272-6.ch008",
     "doi": "10.4018/979-8-3373-4272-6.ch008",
     "title": "Generative AI for Energy Consumption Behavior Analysis",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.1002/9781394464272.ch11",
     "doi": "10.1002/9781394464272.ch11",
     "title": "Generative AI for Energy Consumption Behavior Analysis",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.6319503",
     "doi": "10.2139/ssrn.6319503",
     "title": "Adaptive Constraints on the Consumption of Generative AI: Sensorium and Source",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.24940/ijird/2024/v13/i9/sep24021",
     "doi": "10.24940/ijird/2024/v13/i9/sep24021",
     "title": "Balancing Innovation and Sustainability: Assessing the Impact of Generative AI on Energy Consumption",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.63111/qes-2025.1.0026",
     "doi": "10.63111/qes-2025.1.0026",
     "title": "The Energy-Bot: a generative AI algorithm for optimizing production and domestic consumption",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.32469/10355/109961",
     "doi": "10.32469/10355/109961",
     "title": "Generative AI Alcohol and Breast Cancer Dataset (v1 - 20251107)",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "10.4018/979-8-3373-4272-6.ch007",
     "doi": "10.4018/979-8-3373-4272-6.ch007",
     "title": "Modeling and Understanding Energy Use Patterns With Generative AI",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.1007/979-8-8688-0917-0_8",
     "doi": "10.1007/979-8-8688-0917-0_8",
     "title": "Energy-Efficient AI Deployment and Scaling",
-    "topic": 2,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.6906956",
     "doi": "10.2139/ssrn.6906956",
     "title": "From Digital Consumption to Sovereign Compute: A Socio-Technical Framework for Generative AI in African Education",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.5677522",
     "doi": "10.2139/ssrn.5677522",
     "title": "Exploring Generative AI in Accounting: Information Production and Consumption",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.1109/icicnis64247.2024.10823172",
     "doi": "10.1109/icicnis64247.2024.10823172",
     "title": "Renewable Energy Consumption on Solar and Wind Energy Prediction Using Deep Learning and Generative AI",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.6082066",
     "doi": "10.2139/ssrn.6082066",
     "title": "&lt;span&gt;Sensorium and Source: Adaptive Constraints on the Consumption of Generative AI&lt;/span&gt;",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.5210/fm.v31i3.14379",
     "doi": "10.5210/fm.v31i3.14379",
     "title": "Generative AI and political simulacra: Hyperreality, consumption, and humorous relationships in users’ YouTube comments",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4322718191",
     "doi": "https://doi.org/10.48550/arxiv.2302.13971",
     "title": "LLaMA: Open and Efficient Foundation Language Models",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
@@ -633,7 +633,7 @@
     "record_id": "https://openalex.org/W4401685844",
     "doi": "https://doi.org/10.1016/j.jmsy.2024.08.008",
     "title": "ProcessCarbonAgent: A large language models-empowered autonomous agent for decision-making in manufacturing carbon emission management",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
@@ -654,7 +654,7 @@
     "record_id": "https://openalex.org/W4384389802",
     "doi": "https://doi.org/10.48550/arxiv.2307.06435",
     "title": "A Comprehensive Overview of Large Language Models",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
@@ -668,7 +668,7 @@
     "record_id": "https://openalex.org/W4283170666",
     "doi": "https://doi.org/10.1145/3531146.3533088",
     "title": "Taxonomy of Risks posed by Language Models",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
@@ -703,63 +703,63 @@
     "record_id": "https://openalex.org/W4321610465",
     "doi": "https://doi.org/10.1021/acs.est.3c01106",
     "title": "Risks and Benefits of Large Language Models for the Environment",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.5325159",
     "doi": "10.2139/ssrn.5325159",
     "title": "Large-Language-Model-Enabled Carbon Emissions Abatement in Green Production: Single Hedging or Double Hedging",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
     "record_id": "10.1145/3727200.3727208",
     "doi": "10.1145/3727200.3727208",
     "title": "Improving Carbon Emissions of Federated Large Language Model Inference through Classification of Task-Specificity",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.5584538",
     "doi": "10.2139/ssrn.5584538",
     "title": "Forecasting carbon market with a multi-agent system of large language model",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.5099516",
     "doi": "10.2139/ssrn.5099516",
     "title": "A One-Shot Automated Framework Based on Large Language Model and Automl: Accelerating the Design of Porous Carbon Materials and Carbon Capture Optimization",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
     "record_id": "10.1016/j.cie.2025.111299",
     "doi": "10.1016/j.cie.2025.111299",
     "title": "Large language model-driven multi-agent systems for improving production efficiency and reducing carbon emissions in manufacturing",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.5170350",
     "doi": "10.2139/ssrn.5170350",
     "title": "Mini-Carbongpt: A Domain-Specific Large Language Model for Carbon Neutrality",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
     "record_id": "10.18653/v1/2022.bigscience-1.8",
     "doi": "10.18653/v1/2022.bigscience-1.8",
     "title": "A Holistic Assessment of the Carbon Footprint of Noor, a Very Large Arabic Language Model",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.4970698",
     "doi": "10.2139/ssrn.4970698",
     "title": "Ceca: An Intelligent Large-Language-Model-Enabled Method for Accounting Embodied Carbon in Buildings",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
@@ -787,14 +787,14 @@
     "record_id": "10.20944/preprints202412.1705.v1",
     "doi": "10.20944/preprints202412.1705.v1",
     "title": "PCF-RWKV: Product Carbon Footprint Estimation System Based on Large Language Model",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
     "record_id": "10.1109/fllm67465.2025.11391221",
     "doi": "10.1109/fllm67465.2025.11391221",
     "title": "Emissions and Performance Trade-off Between Small and Large Language Models",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
@@ -808,7 +808,7 @@
     "record_id": "10.59681/2175-4411.v16.iespecial.2024.1275",
     "doi": "10.59681/2175-4411.v16.iespecial.2024.1275",
     "title": "Large language model para geração de prontuários eletrônicos sintéticos",
-    "topic": 4,
+    "topic": 5,
     "probability": 1.0
   },
   {
@@ -1025,42 +1025,42 @@
     "record_id": "https://openalex.org/W3135539146",
     "doi": "https://doi.org/10.1007/s43681-021-00043-6",
     "title": "Sustainable AI: AI for sustainability and the sustainability of AI",
-    "topic": 0,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W3174661481",
     "doi": "https://doi.org/10.1109/twc.2021.3088910",
     "title": "Energy-Efficient Resource Management for Federated Edge Learning With CPU-GPU Heterogeneous Computing",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W3043273434",
     "doi": "https://doi.org/10.1109/ccgrid49817.2020.00-15",
     "title": "Benchmarking the Performance and Energy Efficiency of AI Accelerators for AI Training",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4220837296",
     "doi": "https://doi.org/10.1109/iccrd54409.2022.9730377",
     "title": "A Survey on Convolutional Neural Network Accelerators: GPU, FPGA and ASIC",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W3037032032",
     "doi": "https://doi.org/10.1609/aaai.v34i09.7123",
     "title": "Energy and Policy Considerations for Modern Deep Learning Research",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W3084790829",
     "doi": "https://doi.org/10.1109/lca.2020.3023723",
     "title": "GPU-NEST: Characterizing Energy Efficiency of Multi-GPU Inference Servers",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
@@ -1074,119 +1074,119 @@
     "record_id": "https://openalex.org/W3030790048",
     "doi": "https://doi.org/10.1109/jbhi.2020.2991043",
     "title": "AI in Medical Imaging Informatics: Current Challenges and Future Directions",
-    "topic": 3,
+    "topic": 2,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W3023935494",
     "doi": "https://doi.org/10.3390/s20092533",
     "title": "Edge Machine Learning for AI-Enabled IoT Devices: A Review",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "https://openalex.org/W4205348240",
     "doi": "https://doi.org/10.1109/tpds.2021.3137867",
     "title": "Dynamic GPU Energy Optimization for Machine Learning Training Workloads",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "10.2316/p.2010.724-013",
     "doi": "10.2316/p.2010.724-013",
     "title": "Energy Consumption of GPU with Molecular Dynamics",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "10.32628/cseit251112375",
     "doi": "10.32628/cseit251112375",
     "title": "The Energy Efficiency Paradox of AI Hardware: Debunking GPU Power Consumption Myths",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "10.70675/428d9b42zfab7z432czb381z533ab7cf8a62",
     "doi": "10.70675/428d9b42zfab7z432czb381z533ab7cf8a62",
     "title": "Bridging the Gap between MAC Optimization and Energy Efficiency in GPU-Powered Edge AI",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "10.21203/rs.3.rs-9423012/v1",
     "doi": "10.21203/rs.3.rs-9423012/v1",
     "title": "Impact of Dynamic Voltage on GPU Energy Consumption for Real-Time Systems",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "10.1109/dasc.2011.117",
     "doi": "10.1109/dasc.2011.117",
     "title": "A Performance and Energy Consumption Analytical Model for GPU",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.5089139",
     "doi": "10.2139/ssrn.5089139",
     "title": "Optimizing AI Performance with Renewable Energy and GPU Dependency in Offline Environments",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.5187050",
     "doi": "10.2139/ssrn.5187050",
     "title": "Energy Consumption and Sustainability of AI-Powered Chatbots/Tools",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.21275/sr24128114158",
     "doi": "10.21275/sr24128114158",
     "title": "AI - Based Smart Energy Consumption Prediction for IoT - Connected Homes",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.5222616",
     "doi": "10.2139/ssrn.5222616",
     "title": "Energy Efficiency in AI and How Power Consumption Impedes Innovation",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.1109/rtss46320.2019.00070",
     "doi": "10.1109/rtss46320.2019.00070",
     "title": "Work-in-Progress: Understanding the Effect of Kernel Scheduling on GPU Energy Consumption",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "10.2139/ssrn.5340330",
     "doi": "10.2139/ssrn.5340330",
     "title": "AI-Driven Energy Optimisation - Transforming Generation, Hydrocarbon Operations and Consumption",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.1109/greentech68285.2026.11471623",
     "doi": "10.1109/greentech68285.2026.11471623",
     "title": "Energy Modeling and Optimization of Multi-GPU AI Servers: A comparative Study",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   },
   {
     "record_id": "10.55248/gengpi.6.0125.0526",
     "doi": "10.55248/gengpi.6.0125.0526",
     "title": "Smart Infrastructure for Sustainable Energy Consumption: Leveraging AI and Big Data.",
-    "topic": 2,
+    "topic": 0,
     "probability": 1.0
   },
   {
     "record_id": "10.1109/globecom59602.2025.11431828",
     "doi": "10.1109/globecom59602.2025.11431828",
     "title": "GPU-accelerated In-Network Computing for Split-AI in 6G: A Trade-Off Between Inference Time and Energy Consumption",
-    "topic": 5,
+    "topic": 3,
     "probability": 1.0
   }
 ]

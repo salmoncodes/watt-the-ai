@@ -1,9 +1,4 @@
-"""
-base.py
-Shared types for the retrieval strategies. Every strategy returns a list of
-RetrievedDocument and implements the same retrieve() signature, so the agent
-layer can treat them interchangeably and select one by name.
-"""
+"""Shared types for the RAG retrievers."""
 
 import json
 import sqlite3
@@ -36,15 +31,14 @@ def parse_metadata(raw):
 
 
 def connect(db_path):
-    """Open a read-only-style connection with row access by name."""
+    """Open a SQLite connection with row access by name."""
     conn = sqlite3.connect(str(db_path))
     conn.row_factory = sqlite3.Row
     return conn
 
 
 class Retriever(ABC):
-    """Common interface. `query` is the user text, `filters` is an optional dict
-    of structured constraints (e.g. {"source": "youtube", "sentiment": "negative"})."""
+    """Common retriever interface."""
 
     name = "base"
 

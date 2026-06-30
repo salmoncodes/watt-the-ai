@@ -1,11 +1,4 @@
-"""
-hybrid_retriever.py
-Combines semantic + lexical results via Reciprocal Rank Fusion (RRF), covering
-both failure modes (meaning and exact terms). RRF fuses by rank, not raw score,
-which sidesteps the incompatible score scales of cosine and BM25.
-
-An optional {"source": ...} filter is applied after fusion.
-"""
+"""Hybrid retrieval combines semantic and lexical search results."""
 
 from dataclasses import replace
 
@@ -36,9 +29,7 @@ class HybridRetriever(Retriever):
 
     def retrieve(self, query, top_k=TOP_K, filters=None):
         n = top_k * HYBRID_OVERFETCH
-        sem = self.semantic.retrieve(query, top_k=n)
-        lex = self.lexical.retrieve(query, top_k=n)
+        sem = self.semantic.retrieve(query, top_k=n, filters=filters)
+        lex = self.lexical.retrieve(query, top_k=n, filters=filters)
         fused = reciprocal_rank_fusion([sem, lex], top_k=top_k * HYBRID_OVERFETCH)
-        if filters and filters.get("source"):
-            fused = [r for r in fused if r.source == filters["source"]]
         return fused[:top_k]
