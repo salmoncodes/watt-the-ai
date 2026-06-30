@@ -50,4 +50,4 @@ class Retriever(ABC):
 
     @abstractmethod
     def retrieve(self, query, top_k=TOP_K, filters=None):
-        ...
+        raise NotImplementedError
