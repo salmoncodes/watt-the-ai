@@ -17,15 +17,23 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("query")
     parser.add_argument("--no-llm", action="store_true")
+    parser.add_argument("--top-k", type=int, default=6)
+    parser.add_argument("--strategy", choices=["hybrid", "semantic", "lexical", "metadata"])
     args = parser.parse_args()
 
-    result = run_agent(args.query, no_llm=args.no_llm)
+    result = run_agent(
+        args.query,
+        no_llm=args.no_llm,
+        top_k=args.top_k,
+        strategy_override=args.strategy,
+    )
     output = {
         "query": result["query"],
         "plan": result["plan"],
         "strategy": result["strategy"],
         "filters": result["filters"],
         "sources": result.get("sources", []),
+        "docs": result.get("source_documents", []),
         "answer": result["answer"],
         "grounding_check": result["grounding_check"],
     }
