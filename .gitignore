@@ -223,6 +223,11 @@ mlflow.db
 mlruns/
 mlartifacts/
 
+# Drift detection (generated locally; snapshots/reports are also logged as
+# MLflow artifacts under mlartifacts/)
+mlflow_baselines/
+drift_reports/
+
 # Local databases
 *.db
 *.sqlite
