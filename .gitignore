@@ -219,6 +219,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 # MLflow tracking
+mlflow.db
 mlruns/
 mlartifacts/
 
