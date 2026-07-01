@@ -236,7 +236,7 @@ drift_reports/
 # Generated project data / outputs
 data/feature_extraction/
 data/preprocessing/
-database/vector_db/chunks/
+src/database/vector_db/chunks/
 database/*.db
 database/**/*.db
 rag/evaluation/*.json

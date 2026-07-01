@@ -33,6 +33,19 @@ TRACKING_URI = f"sqlite:///{TRACKING_DB.resolve().as_posix()}"
 RAG_EXPERIMENT_NAME = "watt-the-ai-rag"
 PIPELINE_EXPERIMENT_NAME = "watt-the-ai-pipeline"
 
+# Streamlit's Use-LLM mode tracking (see app/ui/chat.py::process_query) -- logged
+# individually as params, in addition to the full settings.json artifact, so
+# they're queryable/filterable directly in the MLflow runs table.
+EXTRA_SETTING_PARAM_KEYS = [
+    "requested_use_llm",
+    "effective_use_llm",
+    "llm_available",
+    "llm_missing_reason",
+    "mode",
+    "mode_label",
+    "no_llm",
+]
+
 STRUCTURED_DB_PATH = ROOT / "src/database/structured_db/structured.db"
 VECTOR_DB_PATH = ROOT / "src/database/vector_db/vector.db"
 
@@ -292,6 +305,8 @@ def _log_rag_query(query, result, latency_seconds, settings, experiment_name):
         _safe_log_param("structured_db_exists", STRUCTURED_DB_PATH.exists())
         _safe_log_param("vector_db_exists", VECTOR_DB_PATH.exists())
         _safe_log_param("task", plan.get("task"))
+        for key in EXTRA_SETTING_PARAM_KEYS:
+            _safe_log_param(key, settings.get(key))
 
         _safe_log_metric("latency_seconds", latency_seconds)
         _safe_log_metric("num_source_documents", len(source_documents))

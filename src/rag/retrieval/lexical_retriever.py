@@ -28,7 +28,12 @@ class LexicalRetriever(Retriever):
 
     def _build_index(self):
         import sqlite3
-        self.conn = sqlite3.connect(":memory:")
+        # check_same_thread=False: the retriever instance is cached process-wide
+        # (see rag.retrieval.registry._CACHE) and reused across Streamlit
+        # reruns, which can execute on different threads. The in-memory index
+        # is built once here and only ever read afterwards via retrieve(), so
+        # sharing the connection across threads for read-only queries is safe.
+        self.conn = sqlite3.connect(":memory:", check_same_thread=False)
         self.conn.row_factory = sqlite3.Row
         self.conn.execute(
             "CREATE VIRTUAL TABLE docs USING fts5("
