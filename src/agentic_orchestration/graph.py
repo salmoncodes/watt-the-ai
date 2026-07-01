@@ -16,6 +16,48 @@ from rag.retrieval.registry import get_retriever, list_strategies
 ROOT = Path(__file__).resolve().parents[2]
 GROUNDING_PROMPT = ROOT / "config" / "rag_grounding_prompt.txt"
 
+DEFAULT_TOP_K = 6
+
+
+def _normalize_top_k(value, default=DEFAULT_TOP_K, maximum=50):
+    """Coerce a caller-supplied top_k into a safe positive int."""
+    if value is None:
+        return default
+
+    try:
+        top_k = int(value)
+    except (TypeError, ValueError):
+        return default
+
+    if top_k < 1:
+        return default
+
+    if top_k > maximum:
+        return maximum
+
+    return top_k
+
+
+def _normalize_strategy_override(value):
+    """Coerce a caller-supplied strategy override into a valid strategy name."""
+    if value is None:
+        return None
+
+    normalized = str(value).strip().lower()
+
+    if not normalized or normalized == "auto":
+        return None
+
+    valid_strategies = set(list_strategies())
+
+    if normalized not in valid_strategies:
+        raise ValueError(
+            f"Invalid strategy_override '{value}'. "
+            "Expected one of: auto, hybrid, semantic, lexical, metadata."
+        )
+
+    return normalized
+
 
 class AgentState(TypedDict, total=False):
     query: str
@@ -50,13 +92,8 @@ def route_query(state: AgentState):
     if filters.get("sentiment") or filters.get("relation_contains"):
         strategy = "metadata"
 
-    strategy_override = state.get("strategy_override")
+    strategy_override = _normalize_strategy_override(state.get("strategy_override"))
     if strategy_override:
-        if strategy_override not in list_strategies():
-            raise ValueError(
-                f"Unknown retrieval strategy '{strategy_override}'. "
-                f"Available: {', '.join(list_strategies())}"
-            )
         strategy = strategy_override
 
     return {"plan": plan, "filters": filters, "strategy": strategy}
@@ -64,23 +101,36 @@ def route_query(state: AgentState):
 
 def retrieve_context(state: AgentState):
     query = state["plan"].get("rewritten_query") or state["query"]
-    retriever = get_retriever(state["strategy"])
+    strategy = state["strategy"]
+    retriever = get_retriever(strategy)
     filters = state.get("filters")
-    top_k = state.get("top_k", 6)
-    docs = retriever.retrieve(query, top_k=top_k, filters=filters)
-    if not docs:
-        if filters and filters.get("source"):
-            docs = get_retriever("hybrid").retrieve(
-                state["query"],
-                top_k=top_k,
-                filters=filters,
-            )
-            if docs:
-                return {"docs": docs, "strategy": "hybrid"}
+    top_k = _normalize_top_k(state.get("top_k"))
 
-        docs = get_retriever("hybrid").retrieve(state["query"], top_k=top_k, filters=None)
-        return {"docs": docs, "strategy": "hybrid", "filters": {}}
-    return {"docs": docs}
+    docs = retriever.retrieve(query, top_k=top_k, filters=filters)
+    if docs:
+        return {"docs": docs}
+
+    # If the caller explicitly selected a strategy, respect it.
+    # Do not silently fallback to hybrid.
+    if state.get("strategy_override"):
+        return {"docs": docs}
+
+    # Existing fallback behavior for automatic routing only.
+    if filters and filters.get("source"):
+        docs = get_retriever("hybrid").retrieve(
+            state["query"],
+            top_k=top_k,
+            filters=filters,
+        )
+        if docs:
+            return {"docs": docs, "strategy": "hybrid"}
+
+    docs = get_retriever("hybrid").retrieve(
+        state["query"],
+        top_k=top_k,
+        filters=None,
+    )
+    return {"docs": docs, "strategy": "hybrid", "filters": {}}
 
 
 def serialize_doc(doc):
@@ -157,11 +207,11 @@ def build_graph():
     return builder.compile()
 
 
-def run_agent(query, no_llm=False, top_k=6, strategy_override=None):
+def run_agent(query, no_llm=False, top_k=DEFAULT_TOP_K, strategy_override=None):
     graph = build_graph()
     return graph.invoke({
         "query": query,
         "no_llm": no_llm,
-        "top_k": top_k,
-        "strategy_override": strategy_override,
+        "top_k": _normalize_top_k(top_k),
+        "strategy_override": _normalize_strategy_override(strategy_override),
     })
