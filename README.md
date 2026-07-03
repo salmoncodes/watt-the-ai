@@ -70,7 +70,14 @@ Chat history is kept in `st.session_state`. Each query is logged to MLflow when 
 
 ## 3. MLflow UI
 
-Tracking is stored locally in `./mlruns`.
+Tracking is stored locally in 'mlflow.db' and logged artifacts are stored in 'mlartifacts'. 
+To create this file & folder, run:
+
+```bash
+python src/mlflow_tracking/run_tracked_pipeline.py
+```
+
+To run the UI, run:
 
 ```bash
 python src/mlflow_tracking/run_mlflow_ui.py
