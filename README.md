@@ -77,7 +77,7 @@ To create this file & folder, run:
 python src/mlflow_tracking/run_tracked_pipeline.py
 ```
 
-To run the UI, run:
+To launch the UI, run:
 
 ```bash
 python src/mlflow_tracking/run_mlflow_ui.py
